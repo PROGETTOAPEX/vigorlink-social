@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0 }
+  html, body { background: #07090c; overflow: hidden }
+  #stage { position: relative; overflow: hidden; font-family: 'Inter', sans-serif; color: #fff }
+  .bg-night { background: radial-gradient(ellipse at 50% 35%, #10213f 0%, #07090c 62%) }
+  .bg-warm { background: radial-gradient(ellipse at 50% 45%, #1d130c 0%, #0a0b0e 55%, #07090c 75%) }
+  .bg-deep { background: radial-gradient(ellipse at 50% 80%, #0f1d38 0%, #07090c 60%) }
+  .bg-light { background: radial-gradient(ellipse at 50% 20%, #fffdf9 0%, #f4efe7 70%) }
+  #stage.light { color: #16181d }
+  .light .kicker { color: #c2410c; border-color: rgba(20,24,32,.14); background: rgba(255,255,255,.7) }
+  .light .g { background: linear-gradient(90deg, #1d4ed8 0%, #b45309 55%, #ea580c 100%); -webkit-background-clip: text; background-clip: text; color: transparent }
+  .light .body { color: #4b5563 }
+  .light .small { color: #6b7280 }
+  .light .chip { background: #ffffff; border-color: rgba(20,24,32,.1); color: #16181d; box-shadow: 0 18px 44px -18px rgba(30,30,40,.35) }
+  .light .chip small { color: #6b7280 }
+  .light .li { background: #ffffff; border-color: rgba(20,24,32,.09) }
+  .light .li .d { color: #5b6472 }
+  .light .li .n { background: rgba(234,88,12,.12); color: #c2410c }
+  .light .cmp th { color: #6b7280 } .light .cmp th.vl { color: #c2410c }
+  .light .cmp td.ko { background: rgba(20,24,32,.04); border-color: rgba(20,24,32,.08); color: #6b7280 }
+  .light .cmp td.ok { background: rgba(234,88,12,.08); border-color: rgba(234,88,12,.4); color: #16181d }
+  .light .count, .light .swipe { color: #6b7280 }
+  .light .stat.g { filter: none }
+  .half { flex: 1; border-radius: 28px; padding: 34px 36px; border: 1.5px solid rgba(255,255,255,.12); background: rgba(11,17,28,.6) }
+  .half h4 { font-size: 24px; letter-spacing: .16em; font-weight: 800; margin-bottom: 20px }
+  .half .it { display: flex; gap: 14px; font-size: 29px; line-height: 1.3; margin-top: 18px; align-items: flex-start }
+  .half .it b { flex: none; font-weight: 800 }
+  .half.win { border-color: rgba(255,122,26,.4); background: rgba(255,122,26,.08) }
+  .light .half { background: #ffffff; border-color: rgba(20,24,32,.09) }
+  .light .half.win { background: rgba(234,88,12,.07); border-color: rgba(234,88,12,.4) }
+  canvas#lines { position: absolute; inset: 0 }
+  .glow { position: absolute; border-radius: 50%; filter: blur(110px); pointer-events: none }
+  .col { position: absolute; left: 0; right: 0; top: 0; display: flex; flex-direction: column; justify-content: center; padding: 0 84px }
+  .center { align-items: center; text-align: center }
+  .kicker { display: inline-flex; align-items: center; gap: 14px; border: 1.5px solid rgba(255,255,255,.12); width: fit-content;
+    background: rgba(255,255,255,.045); border-radius: 999px; padding: 12px 26px; font-weight: 700; font-size: 23px;
+    letter-spacing: .18em; text-transform: uppercase; color: #9fc0ff; white-space: nowrap }
+  .kicker.orange { color: #ffb37a } .kicker.green { color: #86efac }
+  .kicker i { width: 11px; height: 11px; border-radius: 50%; background: #ff7a1a; display: block }
+  .h { font-family: 'Inter Display', 'Inter', sans-serif; font-weight: 600; letter-spacing: -0.035em; line-height: 1.03 }
+  .g { background: linear-gradient(90deg, #a9b6ff 0%, #d79aa8 38%, #ff8a3d 70%, #ff7a1a 100%);
+    -webkit-background-clip: text; background-clip: text; color: transparent }
+  .b { color: #7fb0ff } .m { color: #3c4757 } .o { color: #ff7a1a }
+  .body { color: #b6c1d1; font-size: 35px; line-height: 1.45 }
+  .small { color: #7d8a9d; font-size: 24px; line-height: 1.5 }
+  .chip { position: absolute; display: flex; align-items: center; gap: 16px; white-space: nowrap; border-radius: 26px;
+    border: 1.5px solid rgba(255,255,255,.15); background: rgba(11,17,28,.82); padding: 16px 26px 16px 16px;
+    font-weight: 600; font-size: 27px; color: #fff; box-shadow: 0 30px 70px -20px rgba(0,0,0,.85); text-align: left; z-index: 5 }
+  .chip b { display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 14px; font-size: 25px; flex: none }
+  .chip small { display: block; font-size: 20px; color: #8b97aa; font-weight: 500; margin-top: 2px }
+  .strike { position: relative; display: block; width: fit-content; white-space: nowrap }
+  .strike .bar { position: absolute; left: -6px; top: 54%; height: 11px; border-radius: 8px; background: #f0565a; box-shadow: 0 0 22px rgba(240,86,90,.55) }
+  .btn { display: inline-flex; align-items: center; height: 96px; padding: 0 50px; border-radius: 999px; font-weight: 700; font-size: 34px; width: fit-content }
+  .btn.o { background: #ff7a1a; color: #140a02; box-shadow: 0 22px 70px -14px rgba(255,122,26,.95) }
+  .btn.b { background: #2563eb; color: #fff; box-shadow: 0 22px 70px -14px rgba(37,99,235,.95) }
+  .laptop { position: absolute; border-radius: 26px; background: #1b1f26; padding: 1.4%;
+    box-shadow: 0 60px 160px -40px rgba(37,99,235,.65), inset 0 0 0 1.5px rgba(255,255,255,.08) }
+  .laptop .scr { border-radius: 10px; overflow: hidden; background: #000 }
+  .laptop img, .phone img { display: block; width: 100% }
+  .laptop .base { position: absolute; left: -6%; right: -6%; bottom: -20px; height: 20px; border-radius: 0 0 28px 28px; background: linear-gradient(#2b313b, #14171c) }
+  .phone { position: absolute; border-radius: 58px; background: #1b1f26; padding: 12px;
+    box-shadow: 0 40px 110px -30px rgba(255,122,26,.5), inset 0 0 0 1.5px rgba(255,255,255,.1) }
+  .phone .scr { border-radius: 47px; overflow: hidden; position: relative }
+  .phone .isl { position: absolute; left: 50%; top: 14px; width: 30%; height: 30px; transform: translateX(-50%); border-radius: 20px; background: #000; z-index: 2 }
+  .logo { position: absolute; left: 84px; height: 62px }
+  .count { position: absolute; right: 84px; font-size: 24px; color: #7d8a9d; font-weight: 600; letter-spacing: .08em }
+  .swipe { position: absolute; right: 84px; font-size: 28px; font-weight: 600; color: #fff; display: flex; gap: 12px; align-items: center }
+  .cmp { width: 100%; border-collapse: separate; border-spacing: 0 14px; margin-top: 30px }
+  .cmp th { font-size: 22px; letter-spacing: .14em; text-transform: uppercase; color: #7d8a9d; text-align: left; padding: 0 22px 2px; font-weight: 700 }
+  .cmp th.vl { color: #ffb37a }
+  .cmp td { font-size: 28px; line-height: 1.3; padding: 22px; vertical-align: middle; width: 50% }
+  .cmp td.ko { background: rgba(255,255,255,.035); border: 1.5px solid rgba(255,255,255,.07); border-right: none; border-radius: 22px 0 0 22px; color: #8b97aa }
+  .cmp td.ok { background: rgba(255,122,26,.09); border: 1.5px solid rgba(255,122,26,.35); border-radius: 0 22px 22px 0; color: #fff; font-weight: 600 }
+  .cmp td span.x { color: #f0565a; font-weight: 800; margin-right: 10px } .cmp td span.v { color: #ff7a1a; font-weight: 800; margin-right: 10px }
+  .li { display: flex; gap: 28px; align-items: flex-start; padding: 26px 30px; border-radius: 26px; background: rgba(11,17,28,.6);
+    border: 1.5px solid rgba(255,255,255,.09); margin-top: 18px }
+  .li .n { flex: none; width: 62px; height: 62px; border-radius: 18px; display: flex; align-items: center; justify-content: center;
+    font-family: 'Inter Display'; font-weight: 700; font-size: 30px; background: rgba(255,122,26,.14); color: #ff9a52 }
+  .li .t { font-size: 31px; font-weight: 700; line-height: 1.25 } .li .d { font-size: 25px; color: #a3aec0; margin-top: 6px; line-height: 1.4 }
+  .stat { font-family: 'Inter Display'; font-weight: 700; letter-spacing: -0.05em; line-height: .9 }
+</style>
+</head>
+<body>
+<div id="stage"><canvas id="lines"></canvas><div id="glows"></div><div id="content"></div></div>
+<script>
+const P = new URLSearchParams(location.search)
+const W = +P.get('w') || 1080, H = +P.get('h') || 1350
+const tall = H > 1500
+const stage = document.getElementById('stage')
+stage.style.width = W + 'px'; stage.style.height = H + 'px'
+const cv = document.getElementById('lines'); cv.width = W; cv.height = H
+const ctx = cv.getContext('2d')
+let MODE = 'still', IDX = 1, TOTAL = 1, GT = 0
+
+function rng(seed) { return () => { seed |= 0; seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296 } }
+const COLORS = { blue: [59,130,246], orange: [255,122,26], white: [226,232,240] }
+function speedLines(t, vanishY = 0.32, strength = 1, density = 190) {
+  ctx.clearRect(0, 0, W, H)
+  if (strength <= 0) return
+  const r = rng(11), cx = W / 2, cy = H * vanishY, maxR = Math.hypot(W, H) * 0.75
+  ctx.save(); ctx.globalAlpha = strength
+  ctx.strokeStyle = 'rgba(226,232,240,0.12)'; ctx.lineWidth = 2; ctx.setLineDash([30, 78]); ctx.lineDashOffset = -(t * 260) % 108
+  ctx.beginPath(); ctx.moveTo(cx, cy); ctx.lineTo(cx + W * 0.08, H); ctx.stroke(); ctx.setLineDash([])
+  for (let i = 0; i < density; i++) {
+    const q = r(), angle = r() < 0.65 ? Math.PI * (0.05 + r() * 0.9) : r() * Math.PI * 2
+    const base = r(), speed = 0.25 + r() * 0.75, len = 0.04 + r() * 0.18, width = 0.8 + r() * 2.6
+    const hue = q < 0.62 ? 'white' : q < 0.9 ? 'blue' : 'orange'
+    const d1 = (base + t * speed * 0.16) % 1.05, d0 = Math.max(0, d1 - len)
+    const x0 = cx + Math.cos(angle) * d0 * maxR, y0 = cy + Math.sin(angle) * d0 * maxR
+    const x1 = cx + Math.cos(angle) * d1 * maxR, y1 = cy + Math.sin(angle) * d1 * maxR
+    const [R, G, B] = COLORS[hue], a = Math.min(1, d1 * 1.6) * (hue === 'white' ? 0.35 : 0.6)
+    const g = ctx.createLinearGradient(x0, y0, x1, y1)
+    g.addColorStop(0, `rgba(${R},${G},${B},0)`); g.addColorStop(1, `rgba(${R},${G},${B},${a})`)
+    ctx.strokeStyle = g; ctx.lineWidth = width * (0.4 + d1 * 1.4) * 1.6; ctx.lineCap = 'round'
+    ctx.beginPath(); ctx.moveTo(x0, y0); ctx.lineTo(x1, y1); ctx.stroke()
+  }
+  ctx.restore()
+}
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x))
+const ease = x => 1 - Math.pow(1 - clamp(x), 3)
+// animation helper: in still mode everything is at its final state
+const an = (t, a, b) => MODE === 'still' ? 1 : ease((t - a) / (b - a))
+const rise = (k, d = 34) => `opacity:${k};transform:translateY(${(1 - k) * d}px)`
+
+const CH = {
+  msg: ['#10213f', '#7fb0ff', '💬'], doc: ['#3a2410', '#ff9a52', '📄'], pay: ['#3a2410', '#ff9a52', '€'],
+  warn: ['#4a1d24', '#ff9aa2', '!'], ok: ['#123a2c', '#7ddcb4', '✓'], up: ['#123a2c', '#7ddcb4', '↗'],
+  rec: ['#10213f', '#7fb0ff', '★'], cal: ['#10213f', '#7fb0ff', '▦'], ai: ['#2a1a45', '#c4a5ff', '✦'],
+}
+function chip(c, k = 1, fl = 0) {
+  const [bg, fg, ic] = CH[c.k] || CH.ok
+  const x = c.x <= 1 ? c.x * W : c.x, y = c.y <= 1 ? c.y * H : c.y
+  const pos = c.right ? `right:${W - x}px` : `left:${x}px`
+  return `<div class="chip" style="${pos};top:${y}px;opacity:${k};transform:translateY(${(1 - k) * 30 + fl}px)"><b style="background:${bg};color:${fg}">${c.i || ic}</b><div>${c.text}${c.sub ? `<small>${c.sub}</small>` : ''}</div></div>`
+}
+function title(lines, size) {
+  return `<div class="h" style="font-size:${size}px">${lines.map(([t, s]) => s === 'w' || !s ? t : `<span class="${s}">${t}</span>`).join('<br>')}</div>`
+}
+function kicker(k, tone) { return k ? `<div class="kicker ${tone || ''}"><i></i>${k}</div>` : '' }
+function col(inner, { top = 0, bottom, center = false } = {}) {
+  const pb = bottom ?? (tall ? 230 : 130)
+  return `<div class="col ${center ? 'center' : ''}" style="top:${top}px;height:${H - top}px;padding-bottom:${pb}px">${inner}</div>`
+}
+function footer(sc, last, light) {
+  const fy = H - (tall ? 210 : 104)
+  let s = `<img class="logo" src="img/logo-horizontal-${light ? 'light' : 'dark'}.png" style="top:${fy - 31}px">`
+  if (MODE === 'still' && TOTAL > 1) s += `<div class="count" style="top:${tall ? 150 : 70}px">${String(IDX).padStart(2,'0')} / ${String(TOTAL).padStart(2,'0')}</div>`
+  if (MODE === 'still' && !last && sc.swipe !== false && TOTAL > 1) s += `<div class="swipe" style="top:${fy - 18}px">Scorri <span style="color:#ff7a1a">→</span></div>`
+  return s
+}
+function glow(kind) {
+  if (kind === 'warm') return `<div class="glow" style="left:${W*.15}px;top:${H*.25}px;width:${W*.7}px;height:${H*.45}px;background:rgba(255,122,26,.13)"></div>`
+  return `<div class="glow" style="left:${W*.1}px;top:${H*.62}px;width:${W*.8}px;height:${H*.32}px;background:rgba(37,99,235,.28)"></div>`
+}
+function laptop(img, x, y, w, k = 1) {
+  return `<div class="laptop" style="left:${x}px;top:${y + (1 - k) * 220}px;width:${w}px;opacity:${clamp(k * 1.4)}"><div class="scr"><img src="img/${img}.png"></div><div class="base"></div></div>`
+}
+function phone(img, x, y, w, k = 1, rot = 0) {
+  return `<div class="phone" style="left:${x}px;top:${y + (1 - k) * 160}px;width:${w}px;opacity:${clamp(k * 1.4)};transform:rotate(${rot}deg)"><div class="scr"><div class="isl"></div><img src="img/${img}.png"></div></div>`
+}
+
+// ---------------- scenes ----------------
+const SCENES = {
+  hero(sc, t) {
+    const k = an(t, 0.05, 0.8)
+    const fs = sc.size || (tall ? 124 : 116)
+    let s = col(`<div style="${rise(k)}">${kicker(sc.kicker, sc.tone)}<div style="margin-top:36px">${title(sc.title, fs)}</div>
+      ${sc.body ? `<div class="body" style="margin-top:32px;max-width:880px;${sc.center === false ? '' : 'margin-left:auto;margin-right:auto'}">${sc.body}</div>` : ''}</div>`,
+      { center: sc.center !== false, top: sc.top ?? (tall ? 260 : 120), bottom: sc.bottom ?? (tall ? 760 : 560) })
+    ;(sc.chips || []).forEach((c, i) => { s += chip(c, an(t, 0.8 + i * 0.3, 1.3 + i * 0.3), MODE === 'reel' ? Math.sin((GT + i) * 1.6) * 8 : 0) })
+    return s
+  },
+  strike(sc, t) {
+    const fs = sc.size || (tall ? 104 : 98)
+    let lines = ''
+    sc.items.forEach((txt, i) => {
+      if (i > sc.upto) return
+      const done = i < sc.upto || sc.all
+      let w = done ? 1 : 0
+      if (MODE === 'reel' && done && (i === sc.upto - 1 || (sc.all && i === sc.items.length - 1))) w = an(t, 0, 0.45)
+      const ap = MODE === 'reel' && i === sc.upto && !sc.all ? an(t, 0.35, 0.8) : 1
+      lines += `<span class="strike" style="${rise(ap)};color:${done && w > 0.5 ? '#3c4757' : '#fff'}">${txt}<span class="bar" style="width:calc(${w * 100}% + 12px);opacity:${w > 0 ? 1 : 0}"></span></span>`
+    })
+    const na = an(t, 0.7, 1.2)
+    const fin = sc.final ? `<div style="margin-top:36px;${rise(an(t, 0.6, 1.2))}">${title(sc.final, fs)}</div>` : ''
+    return col(`${kicker(sc.kicker, 'orange')}<div class="h" style="font-size:${fs}px;margin-top:${sc.kicker ? 40 : 0}px">${lines}</div>${fin}
+      ${sc.note ? `<div class="body" style="margin-top:34px;max-width:880px;${rise(na)}">${sc.note}</div>` : ''}`)
+  },
+  device(sc, t) {
+    const k = an(t, 0.05, 0.7), up = an(t, 0.3, 1.4)
+    const fs = sc.size || (tall ? 96 : 84)
+    const top = tall ? 230 : 96
+    let s = `<div class="col ${sc.center === false ? '' : 'center'}" style="top:${top}px;justify-content:flex-start;${rise(k)}">${kicker(sc.kicker, sc.tone)}
+      <div style="margin-top:30px">${title(sc.title, fs)}</div>${sc.body ? `<div class="body" style="margin-top:20px;font-size:30px;max-width:900px">${sc.body}</div>` : ''}</div>`
+    const by = sc.devY ?? (tall ? 820 : 590)
+    if (sc.laptop) {
+      const lw = sc.lapW || (sc.phone ? 880 : 960), lx = sc.phone ? (W - lw) / 2 - 50 : (W - lw) / 2
+      s += laptop(sc.laptop, lx, by, lw, up)
+    }
+    if (sc.phone && sc.laptop) {
+      const pw = tall ? 300 : 230
+      s += phone(sc.phone, W - pw - 46, by + (tall ? 170 : 90), pw, an(t, 0.6, 1.6))
+    } else if (sc.phone) {
+      const pw = sc.phone2 ? (tall ? 380 : 280) : (tall ? 440 : 310)
+      const py = sc.phoneY ?? (sc.phone2 ? (tall ? 760 : 500) : (tall ? 720 : 500))
+      const px = sc.phone2 ? W / 2 - pw - 10 : (W - pw) / 2
+      s += phone(sc.phone, px, py, pw, up, sc.phone2 ? -4 : 0)
+      if (sc.phone2) s += phone(sc.phone2, W / 2 + 10, py + 40, pw, an(t, 0.6, 1.6), 4)
+    }
+    ;(sc.chips || []).forEach((c, i) => { s += chip(c, an(t, 1.2 + i * 0.35, 1.7 + i * 0.35), MODE === 'reel' ? Math.sin((GT + i) * 1.6) * 6 : 0) })
+    return s
+  },
+  compare(sc, t) {
+    const fs = sc.size || (tall ? 92 : 70)
+    const cs = tall ? '' : 'font-size:24px;padding:15px 18px'
+    const rows = sc.rows.map((r, i) => { const k = an(t, 0.6 + i * 0.25, 1.0 + i * 0.25)
+      return `<tr style="${rise(k, 20)}"><td class="ko" style="${cs}"><span class="x">✕</span>${r[0]}</td><td class="ok" style="${cs}"><span class="v">✓</span>${r[1]}</td></tr>` }).join('')
+    return col(`<div style="${rise(an(t, 0.05, 0.6))}">${kicker(sc.kicker, sc.tone)}<div style="margin-top:30px">${title(sc.title, fs)}</div></div>
+      <table class="cmp" style="${tall ? '' : 'border-spacing:0 10px;margin-top:20px'}"><tr><th>${sc.left || 'Molti software'}</th><th class="vl">${sc.right || 'VigorLink'}</th></tr>${rows}</table>
+      ${sc.note ? `<div class="small" style="margin-top:14px">${sc.note}</div>` : ''}`)
+  },
+  list(sc, t) {
+    const fs = sc.size || (tall ? 92 : 80)
+    const items = sc.items.map((it, i) => { const k = an(t, 0.6 + i * 0.3, 1.0 + i * 0.3)
+      return `<div class="li" style="${rise(k, 24)}"><div class="n">${sc.icons ? sc.icons[i] : (sc.start || 1) + i}</div><div><div class="t">${it[0]}</div>${it[1] ? `<div class="d">${it[1]}</div>` : ''}</div></div>` }).join('')
+    return col(`<div style="${rise(an(t, 0.05, 0.6))}">${kicker(sc.kicker, sc.tone)}<div style="margin-top:30px">${title(sc.title, fs)}</div></div>
+      <div style="margin-top:22px">${items}</div>${sc.note ? `<div class="small" style="margin-top:22px">${sc.note}</div>` : ''}`)
+  },
+  stat(sc, t) {
+    const k = an(t, 0.05, 0.6)
+    let v = sc.value
+    if (MODE === 'reel' && sc.count) { const n = sc.count * an(t, 0.2, 1.4); v = (sc.prefix || '') + Math.round(n).toLocaleString('it-IT') + (sc.suffix || '') }
+    return col(`<div style="${rise(k)}">${kicker(sc.kicker, sc.tone)}</div>
+      <div class="stat g" style="font-size:${sc.vsize || (tall ? 300 : 270)}px;margin-top:40px;${rise(an(t, 0.2, 0.9))}">${v}</div>
+      <div class="h" style="font-size:${tall ? 66 : 60}px;margin-top:26px;${rise(an(t, 0.5, 1.1))}">${sc.label}</div>
+      ${sc.body ? `<div class="body" style="margin-top:26px;max-width:880px;${rise(an(t, 0.8, 1.4))}">${sc.body}</div>` : ''}
+      ${sc.note ? `<div class="small" style="margin-top:22px">${sc.note}</div>` : ''}`)
+  },
+  split(sc, t) {
+    const fs = sc.size || (tall ? 88 : 78)
+    const k = an(t, 0.05, 0.6), ka = an(t, 0.5, 1.0), kb = an(t, 0.9, 1.4)
+    const side = (cls, head, items, kk, col) => `<div class="half ${cls}" style="${rise(kk, 26)}"><h4 style="color:${col}">${head}</h4>${items.map(it => `<div class="it"><b style="color:${col}">${cls === 'win' ? '✓' : '✕'}</b><span>${it}</span></div>`).join('')}</div>`
+    return col(`<div style="${rise(k)}">${kicker(sc.kicker, sc.tone)}<div style="margin-top:28px">${title(sc.title, fs)}</div></div>
+      <div style="display:flex;gap:24px;margin-top:40px;align-items:stretch">
+        ${side('', sc.leftHead || 'PRIMA', sc.left, ka, '#f0565a')}
+        ${side('win', sc.rightHead || 'CON VIGORLINK', sc.right, kb, '#ff7a1a')}
+      </div>${sc.note ? `<div class="small" style="margin-top:24px">${sc.note}</div>` : ''}`)
+  },
+  cta(sc, t) {
+    const k = an(t, 0.05, 0.8)
+    const fs = sc.size || (tall ? 116 : 104)
+    return col(`<div style="${rise(k)}">${kicker(sc.kicker, sc.tone)}<div style="margin-top:36px">${title(sc.title, fs)}</div>
+      ${sc.body ? `<div class="body" style="margin-top:32px;max-width:880px">${sc.body}</div>` : ''}
+      <div style="margin-top:52px;display:flex;gap:20px;flex-wrap:wrap">${(sc.buttons || [['Prova la demo · link in bio', 'o']]).map(([b, c]) => `<span class="btn ${c}">${b}</span>`).join('')}</div>
+      ${sc.foot ? `<div class="small" style="margin-top:32px">${sc.foot}</div>` : ''}</div>`)
+  },
+}
+const BG = { hero: 'night', device: 'night', cta: 'night', strike: 'warm', compare: 'deep', list: 'deep', stat: 'warm', split: 'deep' }
+function render(sc, t) {
+  const bg = sc.bg || BG[sc.type] || 'night'
+  const isLight = bg === 'light'
+  stage.className = 'bg-' + bg + (isLight ? ' light' : '')
+  const lines = sc.lines ?? (bg === 'night')
+  speedLines(MODE === 'still' ? 2.4 : GT, sc.vanishY ?? 0.32, lines ? (sc.lineStrength ?? 1) : 0)
+  document.getElementById('glows').innerHTML = isLight ? `<div class="glow" style="left:${W*.2}px;top:${-H*.1}px;width:${W*.6}px;height:${H*.3}px;background:rgba(255,150,60,.12)"></div>` : glow(bg === 'warm' || bg === 'deep' ? (bg === 'warm' ? 'warm' : 'cool') : 'cool')
+  let html = SCENES[sc.type](sc, t) + footer(sc, IDX === TOTAL, isLight)
+  if (MODE === 'reel' && sc.dur) { const out = clamp((sc.dur - t) / 0.25); html = `<div style="opacity:${out}">${html}</div>` }
+  document.getElementById('content').innerHTML = html
+}
+window.show = (sc, opts) => { MODE = opts.mode; IDX = opts.idx || 1; TOTAL = opts.total || 1; GT = opts.gt || 0; render(sc, opts.t ?? 0) }
+document.fonts.ready.then(() => { document.body.dataset.ready = '1' })
+</script>
+</body>
+</html>

@@ -1,0 +1,6890 @@
+[
+ {
+  "id": "T00_player_una_serie",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · il Player",
+    "title": [
+     [
+      "Una serie",
+      "w"
+     ],
+     [
+      "alla volta.",
+      "g"
+     ]
+    ],
+    "body": "Chi spinge in palestra ha la vista annebbiata dalla fatica. Lo schermo deve essere chiaro."
+   },
+   {
+    "type": "device",
+    "kicker": "In allenamento",
+    "title": [
+     [
+      "La serie da fare",
+      "w"
+     ],
+     [
+      "è una sola.",
+      "g"
+     ]
+    ],
+    "body": "Evidenziata, con il carico consigliato già scritto. Un tocco e parte il recupero.",
+    "phone": "social-player-recupero"
+   },
+   {
+    "type": "list",
+    "kicker": "Pensato per la sala pesi",
+    "title": [
+     [
+      "Meno errori,",
+      "w"
+     ],
+     [
+      "più allenamento.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Tocchi ✓ e hai finito",
+      "la serie è salvata, il recupero parte da solo"
+     ],
+     [
+      "+15 secondi o salta",
+      "con un tocco, senza cercare menu"
+     ],
+     [
+      "Record segnalati subito",
+      "anche se correggi una serie"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W00_ora_vera",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Quanto vale davvero",
+      "w"
+     ],
+     [
+      "una tua ora?",
+      "g"
+     ]
+    ],
+    "body": "Il prezzo della seduta non è quello che guadagni all'ora. Facciamo il conto.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Un esempio",
+    "title": [
+     [
+      "Seduta da 40 €.",
+      "w"
+     ],
+     [
+      "Ma non dura un'ora.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "60 minuti in sala",
+      "quelli che il cliente vede e paga"
+     ],
+     [
+      "+ 20 minuti che non vede",
+      "scheda, messaggi, spostamenti, incassi"
+     ],
+     [
+      "= 80 minuti di lavoro",
+      "per gli stessi 40 €"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il conto",
+    "value": "30 €",
+    "label": "all'ora, non 40.",
+    "body": "Un quarto del tuo tempo è lavoro che nessuno paga. Con 20 minuti in meno a cliente, torni a 40.",
+    "note": "Esempio con numeri tondi: rifallo con i tuoi.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Dove si recupera",
+    "title": [
+     [
+      "Tre posti",
+      "w"
+     ],
+     [
+      "da cui partire.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Le schede",
+      "modelli da adattare, non fogli bianchi"
+     ],
+     [
+      "I messaggi",
+      "risposte pronte per le domande di sempre"
+     ],
+     [
+      "Gli incassi",
+      "richieste che partono da sole, non rincorse a mano"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H00_scheda_pdf_vs_app",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "La scheda.",
+      "w"
+     ],
+     [
+      "PDF o app?",
+      "g"
+     ]
+    ],
+    "body": "Stessa programmazione, due vite molto diverse."
+   },
+   {
+    "type": "split",
+    "kicker": "La scheda",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "PDF su WhatsApp, perso tra i messaggi",
+     "I carichi scritti a penna, se va bene",
+     "Tu non sai se l'ha aperta"
+    ],
+    "right": [
+     "Sempre in tasca, aggiornata",
+     "Carico consigliato e record automatici",
+     "Vedi ogni serie registrata"
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "Lato atleta",
+    "title": [
+     [
+      "La apre",
+      "w"
+     ],
+     [
+      "e si allena.",
+      "g"
+     ]
+    ],
+    "body": "La giornata di oggi, le serie da fare, il recupero che parte da solo.",
+    "phone": "showcase-athlete-workout"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F00_muscolo_grasso",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Se smetti, il muscolo",
+      "w"
+     ],
+     [
+      "diventa grasso.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Sono due tessuti diversi.",
+    "body": "Un tessuto non si trasforma nell'altro. Se smetti di allenarti il muscolo si riduce; il grasso aumenta solo se mangi più di quanto consumi."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Il muscolo non «diventa» niente",
+      "senza stimolo, piano piano si riduce"
+     ],
+     [
+      "Il grasso dipende dal bilancio",
+      "quanto mangi e quanto ti muovi"
+     ],
+     [
+      "Spesso succedono insieme",
+      "per questo sembra una trasformazione"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S00_far_usare_app",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "5 modi per far usare",
+      "w"
+     ],
+     [
+      "davvero l'app ai clienti.",
+      "g"
+     ]
+    ],
+    "body": "Valgono con qualsiasi app. Il primo giorno conta più di tutti gli altri.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I primi tre",
+    "title": [
+     [
+      "Il primo",
+      "w"
+     ],
+     [
+      "allenamento.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Installatela insieme",
+      "dal vivo, non «ti mando il link»"
+     ],
+     [
+      "Fate insieme la prima serie",
+      "così sa dove toccare"
+     ],
+     [
+      "Spiega perché ti serve",
+      "«così vedo i tuoi carichi e ti seguo meglio»"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Gli altri due",
+    "title": [
+     [
+      "Le prime",
+      "w"
+     ],
+     [
+      "due settimane.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Commenta quello che registra",
+      "un messaggio sul suo allenamento: capisce che guardi"
+     ],
+     [
+      "Niente doppio canale",
+      "se la scheda è nell'app, non mandarla anche in PDF"
+     ],
+     [
+      "Bonus: festeggia il primo record",
+      "è il momento in cui l'app diventa sua"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M01_scheda_e_poi_buio",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Ti è mai successo?",
+    "title": [
+     [
+      "Gli mandi la scheda.",
+      "w"
+     ],
+     [
+      "E poi? Buio.",
+      "g"
+     ]
+    ],
+    "body": "Si allena? La segue? L'ha capita? Lo scopri al prossimo incontro, se va bene.",
+    "chips": [
+     {
+      "k": "msg",
+      "text": "«Tutto ok con la scheda?»",
+      "sub": "visualizzato 3 giorni fa",
+      "x": 120,
+      "y": 0.7
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Lo vedi",
+      "w"
+     ],
+     [
+      "mentre accade.",
+      "g"
+     ]
+    ],
+    "body": "Chi si allena, chi si è fermato, chi ti aspetta: aggiornato mentre i tuoi atleti si allenano.",
+    "laptop": "showcase-pt-athletes"
+   },
+   {
+    "type": "list",
+    "kicker": "Per ogni atleta",
+    "title": [
+     [
+      "Niente più",
+      "w"
+     ],
+     [
+      "«com'è andata?»",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Ogni serie registrata",
+      "kg e ripetizioni, allenamento per allenamento"
+     ],
+     [
+      "Chi è fermo da giorni",
+      "lo vedi subito, senza scorrere le chat"
+     ],
+     [
+      "I record",
+      "segnati da soli quando arrivano"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T01_editor_a_righe",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · l'editor",
+    "title": [
+     [
+      "Scrivi",
+      "w"
+     ],
+     [
+      "«Squat 5x5 75% 3′».",
+      "g"
+     ]
+    ],
+    "body": "E l'esercizio è pronto. Come sul quaderno, ma ordinato."
+   },
+   {
+    "type": "device",
+    "kicker": "Editor a righe",
+    "title": [
+     [
+      "Una riga,",
+      "w"
+     ],
+     [
+      "un esercizio.",
+      "g"
+     ]
+    ],
+    "body": "Serie, ripetizioni, intensità e recupero: li riconosce mentre scrivi.",
+    "laptop": "showcase-pt-editor"
+   },
+   {
+    "type": "list",
+    "kicker": "Per andare veloce",
+    "title": [
+     [
+      "Meno clic,",
+      "w"
+     ],
+     [
+      "più programmazione.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "L'ultima volta e il massimale accanto",
+      "programmi guardando i numeri veri dell'atleta"
+     ],
+     [
+      "Blocchi AMRAP, EMOM e Tabata",
+      "da salvare e riusare"
+     ],
+     [
+      "O parti dal tuo file",
+      "PDF, Excel, Word o foto letti dall'IA: tu controlli e salvi"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W01_cliente_che_resta",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Un cliente che resta",
+      "w"
+     ],
+     [
+      "vale doppio.",
+      "g"
+     ]
+    ],
+    "body": "Prima di cercarne di nuovi, guarda quanto valgono quelli che hai.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Un esempio",
+    "title": [
+     [
+      "120 € al mese.",
+      "w"
+     ],
+     [
+      "Due storie diverse.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Resta 6 mesi",
+      "720 € in tutto"
+     ],
+     [
+      "Resta 12 mesi",
+      "1.440 € in tutto"
+     ],
+     [
+      "Stesso cliente, stessa fatica per trovarlo",
+      "cambia solo quanto resta"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "La differenza",
+    "value": "+720 €",
+    "label": "senza un solo cliente nuovo.",
+    "body": "Tenere un cliente sei mesi in più vale quanto trovarne un altro. E costa molto meno tempo.",
+    "note": "Esempio con numeri tondi.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Cosa lo fa restare",
+    "title": [
+     [
+      "Tre cose",
+      "w"
+     ],
+     [
+      "semplici.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Vede i suoi progressi",
+      "numeri, non sensazioni"
+     ],
+     [
+      "Si sente seguito",
+      "un messaggio quando salta, non dopo un mese"
+     ],
+     [
+      "Sa sempre cosa fare",
+      "la scheda aggiornata, in tasca"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H01_pagamenti",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Farsi pagare.",
+      "w"
+     ],
+     [
+      "Senza imbarazzo.",
+      "g"
+     ]
+    ],
+    "body": "Il momento più scomodo del mestiere non deve esserlo."
+   },
+   {
+    "type": "split",
+    "kicker": "I pagamenti",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "«Ti ricordi il bonifico?» in chat",
+     "Un foglio per segnare chi ha pagato",
+     "Il cliente non sa cosa ha pagato"
+    ],
+    "right": [
+     "La richiesta arriva nell'app",
+     "Pagati e scaduti in una lista",
+     "Il cliente vede tutto dal telefono"
+    ],
+    "note": "VigorLink non trattiene nulla: restano solo le commissioni del metodo che usi."
+   },
+   {
+    "type": "device",
+    "kicker": "Lato atleta",
+    "title": [
+     [
+      "Paga",
+      "w"
+     ],
+     [
+      "dal telefono.",
+      "g"
+     ]
+    ],
+    "body": "Con il metodo che hai scelto tu: carta, bonifico, PayPal, Satispay, SumUp.",
+    "phone": "m-athlete-payments"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F01_sudare",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Più sudi,",
+      "w"
+     ],
+     [
+      "più dimagrisci.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Il sudore è acqua, non grasso.",
+    "body": "Sudare serve a raffreddare il corpo. Il peso che perdi in una seduta molto sudata torna appena bevi."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Il sudore regola la temperatura",
+      "dipende da caldo, umidità, vestiti e genetica"
+     ],
+     [
+      "La bilancia dopo l'allenamento",
+      "misura l'acqua persa"
+     ],
+     [
+      "Allenarsi coperti per sudare di più",
+      "fa solo rendere meno"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S01_primo_incontro",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "6 domande",
+      "w"
+     ],
+     [
+      "per il primo incontro.",
+      "g"
+     ]
+    ],
+    "body": "Oltre a peso, altezza e obiettivo. Quelle che ti dicono se resterà.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le prime tre",
+    "title": [
+     [
+      "Capire",
+      "w"
+     ],
+     [
+      "la persona.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Cosa hai già provato, e perché hai smesso?",
+      "ti dice cosa non ripetere"
+     ],
+     [
+      "Com'è una tua settimana normale?",
+      "orari veri, non quelli ideali"
+     ],
+     [
+      "Cosa vuol dire per te «in forma»?",
+      "ognuno ha la sua immagine"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le altre tre",
+    "title": [
+     [
+      "Capire",
+      "w"
+     ],
+     [
+      "il percorso.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Quante volte riesci ad allenarti davvero?",
+      "meglio due sicure che quattro sperate"
+     ],
+     [
+      "C'è qualcosa che ti fa male o ti preoccupa?",
+      "prima di scrivere una sola serie"
+     ],
+     [
+      "Tra tre mesi, cosa ti farebbe dire «ne è valsa la pena»?",
+      "è il tuo obiettivo vero"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M02_che_peso_metto",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Ore 23:04",
+    "title": [
+     [
+      "«Coach, che peso",
+      "w"
+     ],
+     [
+      "metto domani?»",
+      "g"
+     ]
+    ],
+    "body": "La domanda più frequente della settimana. E arriva sempre quando hai staccato.",
+    "chips": [
+     {
+      "k": "msg",
+      "text": "Che peso metto oggi?",
+      "sub": "23:04",
+      "x": 120,
+      "y": 0.7
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Il carico consigliato",
+      "w"
+     ],
+     [
+      "è già scritto.",
+      "g"
+     ]
+    ],
+    "body": "Calcolato da quello che ha fatto l'ultima volta, con le regole che scegli tu.",
+    "phone": "social-player-consigliato"
+   },
+   {
+    "type": "list",
+    "kicker": "Come funziona",
+    "title": [
+     [
+      "Decidi tu",
+      "w"
+     ],
+     [
+      "la regola.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Prima le ripetizioni o prima il carico",
+      "scegli il metodo una volta, vale per le tue schede"
+     ],
+     [
+      "Conta RPE o RIR",
+      "se l'ultima serie era al limite, il carico resta uguale"
+     ],
+     [
+      "L'atleta può cambiarlo",
+      "quello che vede sullo schermo è quello che salva"
+     ]
+    ],
+    "note": "Per i fisioterapisti il carico consigliato è spento: decide sempre il professionista."
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T02_fai_una_domanda",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · Analytics",
+    "title": [
+     [
+      "Chiedilo",
+      "w"
+     ],
+     [
+      "a parole.",
+      "g"
+     ]
+    ],
+    "body": "«Chi è fermo da più di 10 giorni?» «Chi ha fatto più record questo mese?»"
+   },
+   {
+    "type": "device",
+    "kicker": "Fai una domanda",
+    "title": [
+     [
+      "Scrivi la domanda,",
+      "w"
+     ],
+     [
+      "arriva la risposta.",
+      "g"
+     ]
+    ],
+    "body": "Dai dati veri dei tuoi atleti, con il grafico già pronto.",
+    "laptop": "showcase-pt-ask"
+   },
+   {
+    "type": "list",
+    "kicker": "Senza fare l'analista",
+    "title": [
+     [
+      "I tuoi dati,",
+      "w"
+     ],
+     [
+      "in chiaro.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Domande in italiano",
+      "niente filtri da imparare"
+     ],
+     [
+      "La risposta resta in Home",
+      "se vuoi, la tieni come riquadro"
+     ],
+     [
+      "Anche per l'atleta",
+      "sui suoi allenamenti e progressi"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W02_alzare_i_prezzi",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Alzi i prezzi.",
+      "w"
+     ],
+     [
+      "Quanti clienti puoi perdere?",
+      "g"
+     ]
+    ],
+    "body": "La paura è perderli tutti. Il conto dice un'altra cosa.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Un esempio",
+    "title": [
+     [
+      "20 clienti",
+      "w"
+     ],
+     [
+      "a 100 € al mese.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Oggi incassi 2.000 €",
+      "20 × 100"
+     ],
+     [
+      "Passi a 110 € e ne perdi uno",
+      "19 × 110 = 2.090 €: guadagni di più, lavorando meno"
+     ],
+     [
+      "Ne perdi due",
+      "18 × 110 = 1.980 €: sei quasi pari, con due clienti in meno da seguire"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "La regola",
+    "value": "1 su 11",
+    "label": "con un aumento del 10%.",
+    "body": "È la quota di clienti che puoi perdere restando allo stesso incasso. Con il 20% diventa 1 su 6.",
+    "note": "Vale a parità di prezzo per tutti: con listini diversi il conto cambia.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Come dirlo",
+    "title": [
+     [
+      "Con anticipo,",
+      "w"
+     ],
+     [
+      "senza scuse.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Avvisa un mese prima",
+      "per iscritto, con la data"
+     ],
+     [
+      "Spiega cosa ricevono",
+      "non cosa ti costa"
+     ],
+     [
+      "Tieni il vecchio prezzo a chi vuoi premiare",
+      "ma decidilo tu, non per paura"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H02_nuovo_cliente",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Arriva",
+      "w"
+     ],
+     [
+      "un cliente nuovo.",
+      "g"
+     ]
+    ],
+    "body": "Il primo giorno decide come andranno i prossimi sei mesi."
+   },
+   {
+    "type": "split",
+    "kicker": "Il primo giorno",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Moduli di carta da firmare e conservare",
+     "Anamnesi su un foglio, poi chissà dove",
+     "«Ti mando la scheda appena riesco»"
+    ],
+    "right": [
+     "Lo inviti con un link, sceglie la password",
+     "Consensi e questionario compilati nell'app",
+     "La scheda è sul suo telefono"
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "E per te",
+    "title": [
+     [
+      "Tutto",
+      "w"
+     ],
+     [
+      "al suo posto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "I consensi sono registrati",
+      "con la data, senza cartelline"
+     ],
+     [
+      "Le risposte del questionario",
+      "nella scheda dell'atleta"
+     ],
+     [
+      "Niente da installare dagli store",
+      "si apre dal browser e si aggiunge alla Home"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F02_localizzato",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Gli addominali",
+      "w"
+     ],
+     [
+      "sciolgono la pancia.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Il dimagrimento localizzato non esiste.",
+    "body": "Allenare una zona rinforza quel muscolo, ma il corpo non prende il grasso proprio da lì. Dove cala prima dipende soprattutto dalla genetica."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Gli addominali si allenano",
+      "ma si vedono quando cala il grasso di tutto il corpo"
+     ],
+     [
+      "Il grasso cala in generale",
+      "con alimentazione, movimento e tempo"
+     ],
+     [
+      "L'ordine lo decide il corpo",
+      "non l'esercizio"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S02_messaggi_che_tengono",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "5 messaggi",
+      "w"
+     ],
+     [
+      "che tengono un cliente.",
+      "g"
+     ]
+    ],
+    "body": "Trenta secondi l'uno. Valgono più di una seduta gratis.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I primi tre",
+    "title": [
+     [
+      "Quando",
+      "w"
+     ],
+     [
+      "va bene.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "«Ho visto il carico di ieri: bravo»",
+      "dopo un record o una serie in più"
+     ],
+     [
+      "«Un mese fa facevi 40, oggi 50»",
+      "il progresso detto con i numeri"
+     ],
+     [
+      "«Buon allenamento per domani»",
+      "la sera prima di una seduta dura"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Gli altri due",
+    "title": [
+     [
+      "Quando",
+      "w"
+     ],
+     [
+      "si ferma.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "«Tutto bene? Non ti vedo da qualche giorno»",
+      "dopo una settimana, non dopo un mese"
+     ],
+     [
+      "«Riparti da qui, senza recuperare»",
+      "toglie il senso di colpa del rientro"
+     ],
+     [
+      "Uno solo, poi aspetta",
+      "inseguire fa scappare"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M03_macchinario_occupato",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "In sala pesi, ore 18:30",
+    "title": [
+     [
+      "Macchinario occupato.",
+      "w"
+     ],
+     [
+      "E adesso?",
+      "g"
+     ]
+    ],
+    "body": "L'atleta aspetta, salta l'esercizio o ti scrive. Di solito salta.",
+    "chips": [
+     {
+      "k": "msg",
+      "text": "La pressa è occupata, che faccio?",
+      "sub": "18:31",
+      "x": 120,
+      "y": 0.7
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Sostituzione rapida,",
+      "w"
+     ],
+     [
+      "dal Player.",
+      "g"
+     ]
+    ],
+    "body": "Due o tre alternative con lo stesso target muscolare. Solo per questa sessione.",
+    "phone": "m-athlete-substitute"
+   },
+   {
+    "type": "list",
+    "kicker": "E tu lo sai",
+    "title": [
+     [
+      "La scheda",
+      "w"
+     ],
+     [
+      "resta la tua.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Vale solo per oggi",
+      "la scheda non cambia"
+     ],
+     [
+      "Lo vedi nell'allenamento",
+      "«variato in sessione», con l'esercizio che ha sostituito"
+     ],
+     [
+      "I carichi restano separati",
+      "ogni esercizio tiene il suo storico"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T03_volume",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · il volume",
+    "title": [
+     [
+      "Quante serie",
+      "w"
+     ],
+     [
+      "per i quadricipiti?",
+      "g"
+     ]
+    ],
+    "body": "Lo sai a memoria o lo conti con le dita mentre scrivi la scheda?"
+   },
+   {
+    "type": "device",
+    "kicker": "Mentre programmi",
+    "title": [
+     [
+      "Il volume,",
+      "w"
+     ],
+     [
+      "muscolo per muscolo.",
+      "g"
+     ]
+    ],
+    "body": "Si aggiorna a ogni esercizio che aggiungi. Sul corpo, non in una tabella.",
+    "laptop": "showcase-pt-volume"
+   },
+   {
+    "type": "list",
+    "kicker": "Programmare con criterio",
+    "title": [
+     [
+      "Vedi subito",
+      "w"
+     ],
+     [
+      "cosa manca.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Serie settimanali per gruppo",
+      "contate da sole"
+     ],
+     [
+      "Squilibri a colpo d'occhio",
+      "troppo petto, pochi dorsali"
+     ],
+     [
+      "Settimana per settimana",
+      "se la scheda cambia nel tempo"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W03_pacchetto_o_mensile",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Pacchetto",
+      "w"
+     ],
+     [
+      "o abbonamento mensile?",
+      "g"
+     ]
+    ],
+    "body": "Non c'è una risposta giusta. Ci sono conseguenze diverse.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Il pacchetto di sedute",
+    "title": [
+     [
+      "Chiaro,",
+      "w"
+     ],
+     [
+      "ma a strappi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Pro: incassi prima",
+      "e il cliente sa cosa compra"
+     ],
+     [
+      "Contro: ogni fine pacchetto è una trattativa",
+      "e un'occasione per smettere"
+     ],
+     [
+      "Attenzione alle scadenze",
+      "decidi prima entro quando va usato"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "L'abbonamento mensile",
+    "title": [
+     [
+      "Regolare,",
+      "w"
+     ],
+     [
+      "ma va spiegato.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Pro: entrate prevedibili",
+      "sai a inizio mese quanto incassi"
+     ],
+     [
+      "Contro: «questo mese ho fatto meno»",
+      "serve una regola chiara sulle sedute saltate"
+     ],
+     [
+      "Funziona se il valore è continuo",
+      "scheda, chat, controllo: non solo l'ora in sala"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "In pratica",
+    "title": [
+     [
+      "Molti",
+      "w"
+     ],
+     [
+      "li usano insieme.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Mensile per chi segui con continuità",
+      "in presenza o online"
+     ],
+     [
+      "Pacchetto per chi viene ogni tanto",
+      "o per provare"
+     ],
+     [
+      "In tutti e due i casi",
+      "la data di fine deve saperla anche il cliente"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H03_lunedi_mattina",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Lunedì,",
+      "w"
+     ],
+     [
+      "ore 8:00.",
+      "g"
+     ]
+    ],
+    "body": "La settimana comincia. Da dove?"
+   },
+   {
+    "type": "split",
+    "kicker": "Il lunedì mattina",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "WhatsApp, Excel, agenda, banca, note",
+     "Scorri le chat per capire chi è fermo",
+     "Ti ricordi di qualcuno giovedì"
+    ],
+    "right": [
+     "Una Home con quello che conta oggi",
+     "«Hanno bisogno di te», con il motivo",
+     "Appuntamenti e cose da fare nello stesso posto"
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "Lato PT",
+    "title": [
+     [
+      "Apri",
+      "w"
+     ],
+     [
+      "e sai cosa fare.",
+      "g"
+     ]
+    ],
+    "body": "Chi si allena, chi si è fermato, chi ti aspetta.",
+    "laptop": "showcase-pt-athletes"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F03_doms",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Se non hai dolori,",
+      "w"
+     ],
+     [
+      "non ti sei allenato bene.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "I dolori non misurano la qualità.",
+    "body": "L'indolenzimento del giorno dopo arriva soprattutto con stimoli nuovi o insoliti. Chi si allena con regolarità ne ha meno e migliora lo stesso."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "I dolori dicono «era nuovo»",
+      "non «era efficace»"
+     ],
+     [
+      "I progressi si misurano",
+      "con carichi, ripetizioni e costanza"
+     ],
+     [
+      "Cercare il dolore a ogni seduta",
+      "è il modo più rapido per saltare la successiva"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S03_checklist_scheda",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "Checklist: prima",
+      "w"
+     ],
+     [
+      "di consegnare una scheda.",
+      "g"
+     ]
+    ],
+    "body": "Sei controlli in due minuti. Evitano dieci messaggi dopo.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I primi tre",
+    "title": [
+     [
+      "Si capisce",
+      "w"
+     ],
+     [
+      "da sola?",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "I nomi degli esercizi sono quelli che usa lui",
+      "non il tuo gergo"
+     ],
+     [
+      "Ogni esercizio ha serie, ripetizioni e recupero",
+      "niente caselle vuote"
+     ],
+     [
+      "C'è una nota dove serve",
+      "tempo di esecuzione, presa, cosa sentire"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Gli altri tre",
+    "title": [
+     [
+      "Si riesce",
+      "w"
+     ],
+     [
+      "a fare?",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Sta nel tempo che ha",
+      "contando riscaldamento e recuperi"
+     ],
+     [
+      "Gli attrezzi ci sono nella sua palestra",
+      "o c'è un'alternativa scritta"
+     ],
+     [
+      "Sa da che carico partire",
+      "anche solo «quello dell'ultima volta»"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M04_rincorrere_pagamenti",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Il messaggio che nessuno vuole scrivere",
+    "title": [
+     [
+      "«Ciao, mi mancherebbe",
+      "w"
+     ],
+     [
+      "il bonifico di novembre…»",
+      "g"
+     ]
+    ],
+    "body": "Fare il personal trainer non dovrebbe voler dire fare il recupero crediti."
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "La richiesta",
+      "w"
+     ],
+     [
+      "la manda l'app.",
+      "g"
+     ]
+    ],
+    "body": "L'atleta la trova in Home e paga dal telefono, con il metodo che hai scelto tu.",
+    "phone": "showcase-athlete-home"
+   },
+   {
+    "type": "list",
+    "kicker": "Senza imbarazzo",
+    "title": [
+     [
+      "Tu alleni.",
+      "w"
+     ],
+     [
+      "Il resto è scritto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Carta, bonifico, PayPal, Satispay, SumUp o contanti",
+      "decidi tu quali metodi offrire"
+     ],
+     [
+      "0 € trattenuti da VigorLink",
+      "restano solo le commissioni del metodo che usi"
+     ],
+     [
+      "Scaduti in evidenza",
+      "sai sempre chi deve ancora pagare"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T04_stampa_pdf",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · la stampa",
+    "title": [
+     [
+      "C'è chi la scheda",
+      "w"
+     ],
+     [
+      "la vuole su carta.",
+      "g"
+     ]
+    ],
+    "body": "E va bene così. Ma che sia bella, e con il tuo nome sopra."
+   },
+   {
+    "type": "device",
+    "kicker": "Stampa e invia",
+    "title": [
+     [
+      "Sei modelli.",
+      "w"
+     ],
+     [
+      "Il tuo logo.",
+      "g"
+     ]
+    ],
+    "body": "Dalla scheda essenziale al registro dei carichi da compilare a penna.",
+    "laptop": "m-pt-print-modal"
+   },
+   {
+    "type": "list",
+    "kicker": "In due clic",
+    "title": [
+     [
+      "Carta o telefono,",
+      "w"
+     ],
+     [
+      "decide il cliente.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "PDF con il tuo logo",
+      "e i tuoi colori"
+     ],
+     [
+      "Lo scarichi o lo mandi in chat",
+      "senza uscire dalla scheda"
+     ],
+     [
+      "E nell'app resta tutto",
+      "chi usa il telefono registra le serie come sempre"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W04_feste",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Dicembre:",
+      "w"
+     ],
+     [
+      "tutti spariscono.",
+      "g"
+     ]
+    ],
+    "body": "Cene, viaggi, influenza. Poi a gennaio qualcuno non torna.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Prima delle feste",
+    "title": [
+     [
+      "Tre mosse",
+      "w"
+     ],
+     [
+      "da fare adesso.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Una scheda breve per le vacanze",
+      "20 minuti, a corpo libero, da fare ovunque"
+     ],
+     [
+      "L'appuntamento di gennaio già fissato",
+      "chi ha una data torna"
+     ],
+     [
+      "Un messaggio personale",
+      "due righe sui suoi progressi dell'anno"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Durante",
+    "title": [
+     [
+      "Lasciali",
+      "w"
+     ],
+     [
+      "respirare.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Niente sensi di colpa",
+      "una pausa non cancella un anno"
+     ],
+     [
+      "Un solo promemoria",
+      "non uno al giorno"
+     ],
+     [
+      "Rispondi se scrivono",
+      "ma non inseguire"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il punto",
+    "value": "1 data",
+    "label": "vale più di dieci messaggi.",
+    "body": "Chi esce dalla tua palestra a dicembre con il prossimo appuntamento in agenda ha già deciso di tornare.",
+    "bg": "light",
+    "vsize": 200
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H04_programmare_settimane",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Programmare",
+      "w"
+     ],
+     [
+      "otto settimane.",
+      "g"
+     ]
+    ],
+    "body": "Progressioni, scarichi, variazioni. In Excel è un lavoro a parte."
+   },
+   {
+    "type": "split",
+    "kicker": "Un blocco di più settimane",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Copia e incolla di otto fogli",
+     "Una modifica da ripetere otto volte",
+     "Il cliente guarda il foglio sbagliato"
+    ],
+    "right": [
+     "Un piano a settimane nella stessa scheda",
+     "Cambi una settimana, le altre restano",
+     "L'atleta vede solo la settimana giusta"
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "Lato PT",
+    "title": [
+     [
+      "Settimana",
+      "w"
+     ],
+     [
+      "per settimana.",
+      "g"
+     ]
+    ],
+    "body": "Serie, ripetizioni e intensità che cambiano nel tempo, in una sola scheda.",
+    "laptop": "m-pt-editor-weeks"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F04_donne_pesi",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Con i pesi",
+      "w"
+     ],
+     [
+      "le donne diventano grosse.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Costruire muscolo è lento per tutti.",
+    "body": "Aumentare molto la massa muscolare richiede anni di allenamento mirato e un'alimentazione dedicata. Non succede per caso con due sedute a settimana."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "La forza arriva prima del volume",
+      "nei primi mesi si diventa più forti, non più grossi"
+     ],
+     [
+      "Il muscolo occupa meno spazio del grasso",
+      "a parità di peso"
+     ],
+     [
+      "I pesi fanno bene anche alle ossa",
+      "a ogni età"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S04_segnali_mollare",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "5 segnali che un cliente",
+      "w"
+     ],
+     [
+      "sta per mollare.",
+      "g"
+     ]
+    ],
+    "body": "Nessuno sparisce da un giorno all'altro. Prima manda segnali.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I primi tre",
+    "title": [
+     [
+      "Negli",
+      "w"
+     ],
+     [
+      "allenamenti.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Salta la seduta a metà settimana",
+      "poi diventa tutta la settimana"
+     ],
+     [
+      "Fa meno serie di quelle scritte",
+      "sempre le ultime"
+     ],
+     [
+      "I carichi sono fermi da un mese",
+      "e non ne parla"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Gli altri due",
+    "title": [
+     [
+      "Nel",
+      "w"
+     ],
+     [
+      "rapporto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Risponde più tardi e più corto",
+      "o smette di fare domande"
+     ],
+     [
+      "Sposta gli appuntamenti",
+      "sempre un po' più in là"
+     ],
+     [
+      "Cosa fare",
+      "un messaggio personale adesso, non un'offerta tra un mese"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M05_quanto_ho_incassato",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Domanda semplice",
+    "title": [
+     [
+      "Quanto hai incassato",
+      "w"
+     ],
+     [
+      "questo mese?",
+      "g"
+     ]
+    ],
+    "body": "Se la risposta è «devo controllare su tre app», è già una risposta."
+   },
+   {
+    "type": "device",
+    "kicker": "Finance",
+    "title": [
+     [
+      "Un numero.",
+      "w"
+     ],
+     [
+      "Sempre aggiornato.",
+      "g"
+     ]
+    ],
+    "body": "Incassato del mese, un anno in una curva, scaduti da sollecitare, risultato.",
+    "laptop": "showcase-pt-finance-1511"
+   },
+   {
+    "type": "list",
+    "kicker": "Per decidere",
+    "title": [
+     [
+      "Non è contabilità.",
+      "w"
+     ],
+     [
+      "È chiarezza.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Incassi e uscite in un posto",
+      "anche letti dalle fatture elettroniche che hai già"
+     ],
+     [
+      "Previsione dei prossimi mesi",
+      "tre scenari con le ipotesi dichiarate"
+     ],
+     [
+      "La contabilità ufficiale resta dov'è",
+      "dal tuo commercialista o nel tuo programma di fatturazione"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T05_calendario",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · l'agenda",
+    "title": [
+     [
+      "La settimana,",
+      "w"
+     ],
+     [
+      "in un colpo d'occhio.",
+      "g"
+     ]
+    ],
+    "body": "Sedute, lezioni di gruppo, impegni tuoi. Non in tre calendari diversi."
+   },
+   {
+    "type": "device",
+    "kicker": "Calendario",
+    "title": [
+     [
+      "Tutto il lavoro",
+      "w"
+     ],
+     [
+      "in un'agenda.",
+      "g"
+     ]
+    ],
+    "body": "Appuntamenti con i tuoi atleti, corsi che si ripetono, le tue cose da fare.",
+    "laptop": "showcase-pt-calendar"
+   },
+   {
+    "type": "list",
+    "kicker": "E per i tuoi atleti",
+    "title": [
+     [
+      "Sanno sempre",
+      "w"
+     ],
+     [
+      "quando vi vedete.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "L'appuntamento è nella loro app",
+      "con ora e luogo"
+     ],
+     [
+      "Ferie e disponibilità",
+      "le imposti una volta"
+     ],
+     [
+      "Le sedute svolte",
+      "restano nello storico dell'atleta"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W05_cinque_numeri_anno",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Il tuo 2026",
+      "w"
+     ],
+     [
+      "in cinque numeri.",
+      "g"
+     ]
+    ],
+    "body": "Prima dei buoni propositi, guarda com'è andata davvero.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I primi tre",
+    "title": [
+     [
+      "Quanto",
+      "w"
+     ],
+     [
+      "e da chi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Incassato dell'anno",
+      "non il fatturato: quello che è entrato"
+     ],
+     [
+      "Clienti attivi a dicembre",
+      "confrontati con gennaio"
+     ],
+     [
+      "Incasso medio per cliente",
+      "ti dice se lavori tanto o lavori bene"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Gli altri due",
+    "title": [
+     [
+      "Quanto restano,",
+      "w"
+     ],
+     [
+      "quanto costano.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Permanenza media",
+      "dal primo all'ultimo mese pagato"
+     ],
+     [
+      "Uscite dell'anno",
+      "affitto sala, attrezzi, corsi, software, assicurazione"
+     ],
+     [
+      "E poi il risultato",
+      "incassi meno uscite, prima delle tasse"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il consiglio",
+    "value": "30 min",
+    "label": "prima di Capodanno.",
+    "body": "Mezz'ora con questi cinque numeri vale più di qualsiasi lista di propositi.",
+    "bg": "light",
+    "vsize": 190
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H05_buone_feste",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "24 dicembre",
+    "title": [
+     [
+      "Oggi",
+      "w"
+     ],
+     [
+      "si recupera.",
+      "g"
+     ]
+    ],
+    "body": "Anche il recupero è allenamento. Vale per i tuoi clienti, vale per te."
+   },
+   {
+    "type": "hero",
+    "kicker": "Da VigorLink",
+    "title": [
+     [
+      "Buone feste,",
+      "w"
+     ],
+     [
+      "coach.",
+      "g"
+     ]
+    ],
+    "body": "Grazie a chi ci ha scritto, seguito e messo alla prova in questi mesi. Ci vediamo nel 2027."
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "M06_cliente_sparisce",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Succede piano",
+    "title": [
+     [
+      "Salta una volta.",
+      "w"
+     ],
+     [
+      "Poi due. Poi sparisce.",
+      "g"
+     ]
+    ],
+    "body": "Quando te ne accorgi ha già disdetto nella sua testa."
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Te lo dice",
+      "w"
+     ],
+     [
+      "prima.",
+      "g"
+     ]
+    ],
+    "body": "Un punteggio per ogni atleta: allenamenti, appuntamenti e pagamenti incrociati.",
+    "laptop": "m-pt-athletes-health"
+   },
+   {
+    "type": "list",
+    "kicker": "In Home, ogni giorno",
+    "title": [
+     [
+      "«Hanno bisogno",
+      "w"
+     ],
+     [
+      "di te».",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Chi è a rischio",
+      "con il motivo scritto in chiaro"
+     ],
+     [
+      "Chi è fermo da giorni",
+      "prima che diventino settimane"
+     ],
+     [
+      "Decidi tu cosa fare",
+      "un messaggio, una chiamata, una scheda nuova"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T06_il_tuo_anno",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · fine anno",
+    "title": [
+     [
+      "Un anno",
+      "w"
+     ],
+     [
+      "di allenamenti.",
+      "g"
+     ]
+    ],
+    "body": "Quanti chili ha sollevato il tuo atleta nel 2026? Lui non lo sa. L'app sì."
+   },
+   {
+    "type": "device",
+    "kicker": "Il tuo anno in numeri",
+    "title": [
+     [
+      "Il suo anno,",
+      "w"
+     ],
+     [
+      "in una schermata.",
+      "g"
+     ]
+    ],
+    "body": "Allenamenti, serie, volume, l'esercizio in cui è cresciuto di più.",
+    "phone": "showcase-athlete-progress"
+   },
+   {
+    "type": "list",
+    "kicker": "Un regalo che fa da solo",
+    "title": [
+     [
+      "Lui è fiero.",
+      "w"
+     ],
+     [
+      "Tu sei il suo coach.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Un'immagine pronta da condividere",
+      "con i numeri dell'anno"
+     ],
+     [
+      "C'è il tuo nome",
+      "accanto ai suoi risultati"
+     ],
+     [
+      "Niente dati di salute",
+      "solo allenamenti e progressi"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W06_obiettivi_2027",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "2027:",
+      "w"
+     ],
+     [
+      "tre obiettivi, non trenta.",
+      "g"
+     ]
+    ],
+    "body": "«Crescere» non è un obiettivo. Un numero e una data sì.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Scegline tre",
+    "title": [
+     [
+      "Uno per",
+      "w"
+     ],
+     [
+      "ogni domanda.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Quanto voglio incassare al mese?",
+      "un numero, entro una data"
+     ],
+     [
+      "Quanti clienti voglio seguire?",
+      "non il massimo: quelli che segui bene"
+     ],
+     [
+      "Quante ore voglio lavorare?",
+      "è il numero che dimentichiamo tutti"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Poi fai il conto",
+    "title": [
+     [
+      "I tre numeri",
+      "w"
+     ],
+     [
+      "devono stare insieme.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Incasso ÷ clienti",
+      "è il prezzo medio che ti serve"
+     ],
+     [
+      "Clienti × tempo per ciascuno",
+      "sono le ore che ti servono"
+     ],
+     [
+      "Se non torna",
+      "cambi il prezzo, non le ore di sonno"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H06_ultimo_giorno",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "31 dicembre",
+    "title": [
+     [
+      "L'anno prossimo",
+      "w"
+     ],
+     [
+      "meno carta.",
+      "g"
+     ]
+    ],
+    "body": "Un solo proposito, facile da mantenere."
+   },
+   {
+    "type": "split",
+    "kicker": "Il lavoro del PT",
+    "title": [
+     [
+      "Nel 2026",
+      "w"
+     ],
+     [
+      "e nel 2027.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Schede in PDF e carichi a penna",
+     "Pagamenti rincorsi in chat",
+     "Conti a fine mese, a memoria"
+    ],
+    "right": [
+     "Schede nell'app, serie registrate",
+     "Richieste di pagamento dal telefono",
+     "Incassi e scadenze in un posto"
+    ]
+   },
+   {
+    "type": "hero",
+    "kicker": "Da VigorLink",
+    "title": [
+     [
+      "Buon anno,",
+      "w"
+     ],
+     [
+      "coach.",
+      "g"
+     ]
+    ],
+    "body": "Nel 2027 arriviamo anche noi. Chi è in lista lo saprà per primo."
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "S05_prima_di_gennaio",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "7 cose da preparare",
+      "w"
+     ],
+     [
+      "prima del pieno di gennaio.",
+      "g"
+     ]
+    ],
+    "body": "Da lunedì arrivano tutti insieme. Oggi hai ancora mezz'ora.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le prime quattro",
+    "title": [
+     [
+      "Per i",
+      "w"
+     ],
+     [
+      "nuovi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Tre schede modello per chi inizia",
+      "da adattare, non da riscrivere"
+     ],
+     [
+      "Il questionario iniziale pronto",
+      "sempre lo stesso, sempre completo"
+     ],
+     [
+      "Prezzi e regole scritti",
+      "pacchetti, disdette, scadenze"
+     ],
+     [
+      "Gli orari che puoi offrire davvero",
+      "prima che te li chiedano"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le altre tre",
+    "title": [
+     [
+      "Per chi",
+      "w"
+     ],
+     [
+      "c'è già.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Un messaggio di rientro",
+      "a chi si è fermato a dicembre"
+     ],
+     [
+      "La scheda nuova già pronta",
+      "per chi riparte"
+     ],
+     [
+      "Un obiettivo a tre mesi per ciascuno",
+      "gennaio passa, marzo no"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M07_gennaio_pieno",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Buon anno, coach",
+    "title": [
+     [
+      "Gennaio:",
+      "w"
+     ],
+     [
+      "dieci clienti in dieci giorni.",
+      "g"
+     ]
+    ],
+    "body": "Il mese più bello e più caotico dell'anno. Schede, anamnesi, pagamenti: tutto insieme."
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Parti da un modello,",
+      "w"
+     ],
+     [
+      "non da zero.",
+      "g"
+     ]
+    ],
+    "body": "Le tue schede tipo, pronte da assegnare e adattare in pochi minuti.",
+    "laptop": "m-pt-templates"
+   },
+   {
+    "type": "list",
+    "kicker": "Il nuovo cliente",
+    "title": [
+     [
+      "Dentro",
+      "w"
+     ],
+     [
+      "in pochi passaggi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Lo inviti con un link",
+      "attiva l'account e sceglie la sua password"
+     ],
+     [
+      "Consensi e questionario nell'app",
+      "niente moduli di carta da rincorrere"
+     ],
+     [
+      "Scheda assegnata da un modello",
+      "e lui la trova subito sul telefono"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T07_progressi",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · i progressi",
+    "title": [
+     [
+      "«Sto migliorando?»",
+      "w"
+     ],
+     [
+      "Fagli vedere di sì.",
+      "g"
+     ]
+    ],
+    "body": "A gennaio la motivazione è alta. A marzo servono i numeri."
+   },
+   {
+    "type": "device",
+    "kicker": "Progressi dell'atleta",
+    "title": [
+     [
+      "I suoi numeri,",
+      "w"
+     ],
+     [
+      "sempre in tasca.",
+      "g"
+     ]
+    ],
+    "body": "Carico di lavoro, serie a settimana, intensità media: aggiornati a ogni allenamento.",
+    "phone": "showcase-athlete-progress"
+   },
+   {
+    "type": "list",
+    "kicker": "Quello che lo fa restare",
+    "title": [
+     [
+      "Vedere",
+      "w"
+     ],
+     [
+      "che funziona.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Carichi esercizio per esercizio",
+      "con l'andamento nel tempo"
+     ],
+     [
+      "I record",
+      "segnati da soli nel Player"
+     ],
+     [
+      "Peso e misure",
+      "se decide di tenerne traccia"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W07_gennaio_marzo",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Gennaio pieno.",
+      "w"
+     ],
+     [
+      "Marzo vuoto?",
+      "g"
+     ]
+    ],
+    "body": "I clienti di gennaio non si perdono a marzo. Si perdono nelle prime tre settimane.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le prime tre settimane",
+    "title": [
+     [
+      "Dove si decide",
+      "w"
+     ],
+     [
+      "tutto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Settimana 1: una vittoria facile",
+      "una scheda che riesce a finire"
+     ],
+     [
+      "Settimana 2: un controllo",
+      "«com'è andata?» prima che lo chieda lui"
+     ],
+     [
+      "Settimana 3: un numero",
+      "un carico salito, una serie in più: fagli vedere che funziona"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I segnali",
+    "title": [
+     [
+      "Chi sta",
+      "w"
+     ],
+     [
+      "per mollare.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Salta la seconda settimana",
+      "non la decima"
+     ],
+     [
+      "Risponde a monosillabi",
+      "o non risponde"
+     ],
+     [
+      "Sposta gli appuntamenti",
+      "sempre più in là"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il punto",
+    "value": "21 giorni",
+    "label": "per farlo diventare un'abitudine tua.",
+    "body": "Non sua: tua. Tre contatti nelle prime tre settimane, con ogni cliente nuovo.",
+    "bg": "light",
+    "vsize": 170
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H07_fine_mese",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Fine mese:",
+      "w"
+     ],
+     [
+      "si fanno i conti.",
+      "g"
+     ]
+    ],
+    "body": "O meglio: si dovrebbero fare."
+   },
+   {
+    "type": "split",
+    "kicker": "I conti del mese",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Estratto conto, fatture e appunti da incrociare",
+     "Scopri a fine mese com'è andata",
+     "Le spese fisse le sai «più o meno»"
+    ],
+    "right": [
+     "Incassi e uscite già al loro posto",
+     "L'andamento lo vedi durante il mese",
+     "Le spese che si ripetono si segnano da sole"
+    ],
+    "note": "Finance serve per capire e decidere: la contabilità ufficiale resta al commercialista."
+   },
+   {
+    "type": "device",
+    "kicker": "Finance",
+    "title": [
+     [
+      "Com'è andata,",
+      "w"
+     ],
+     [
+      "senza aspettare.",
+      "g"
+     ]
+    ],
+    "body": "Incassato, da incassare, risultato degli ultimi dodici mesi.",
+    "laptop": "showcase-pt-finance-1511"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F05_stretching",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Lo stretching prima",
+      "w"
+     ],
+     [
+      "evita gli infortuni.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "NON È DIMOSTRATO",
+    "label": "Meglio un riscaldamento attivo.",
+    "body": "Gli studi non mostrano che lo stretching statico prima dell'allenamento, da solo, riduca gli infortuni. Un riscaldamento progressivo e specifico prepara meglio.",
+    "vsize": 96
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Prima: muoviti",
+      "mobilità e serie leggere dell'esercizio che farai"
+     ],
+     [
+      "Lo stretching statico ha il suo posto",
+      "per la flessibilità, in altri momenti"
+     ],
+     [
+      "Gli infortuni dipendono da molte cose",
+      "carico, recupero, tecnica"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S06_chiedere_recensione",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "Come chiedere una recensione",
+      "w"
+     ],
+     [
+      "senza imbarazzo.",
+      "g"
+     ]
+    ],
+    "body": "I clienti contenti la lasciano volentieri. Basta chiederla nel momento giusto.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Quando",
+    "title": [
+     [
+      "Il momento",
+      "w"
+     ],
+     [
+      "giusto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Dopo un risultato",
+      "un record, una taglia, un dolore passato"
+     ],
+     [
+      "Quando te lo dice lui",
+      "«mi trovo benissimo» è il segnale"
+     ],
+     [
+      "Mai insieme a un rinnovo",
+      "sembra uno scambio"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Come",
+    "title": [
+     [
+      "Le parole",
+      "w"
+     ],
+     [
+      "giuste.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "«Mi aiuteresti con due righe?»",
+      "chiedere un favore funziona più di chiedere un voto"
+     ],
+     [
+      "Dagli una traccia",
+      "com'eri prima, cosa è cambiato, a chi lo consiglieresti"
+     ],
+     [
+      "Rendilo facile",
+      "un link, due minuti, dal telefono"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M08_vocali",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "3 minuti e 47 secondi",
+    "title": [
+     [
+      "Un altro",
+      "w"
+     ],
+     [
+      "vocale lungo.",
+      "g"
+     ]
+    ],
+    "body": "Lo ascolti tra un cliente e l'altro, poi ti dimentichi cosa chiedeva.",
+    "chips": [
+     {
+      "k": "msg",
+      "text": "🎤 Messaggio vocale",
+      "sub": "3:47",
+      "x": 120,
+      "y": 0.7
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "I vocali",
+      "w"
+     ],
+     [
+      "li leggi.",
+      "g"
+     ]
+    ],
+    "body": "Trascritti nella chat: capisci in dieci secondi cosa ti serve sapere.",
+    "laptop": "showcase-pt-messages"
+   },
+   {
+    "type": "list",
+    "kicker": "La chat del lavoro",
+    "title": [
+     [
+      "Separata",
+      "w"
+     ],
+     [
+      "dalla tua vita.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Vocali trascritti",
+      "li leggi quando non puoi ascoltare"
+     ],
+     [
+      "Risposte salvate",
+      "per le domande che arrivano sempre uguali"
+     ],
+     [
+      "Fuori da WhatsApp",
+      "il numero personale torna personale"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T08_home_su_misura",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · la Home",
+    "title": [
+     [
+      "Ognuno lavora",
+      "w"
+     ],
+     [
+      "a modo suo.",
+      "g"
+     ]
+    ],
+    "body": "C'è chi guarda prima i conti, chi gli allenamenti, chi i messaggi."
+   },
+   {
+    "type": "device",
+    "kicker": "Personalizza",
+    "title": [
+     [
+      "La Home",
+      "w"
+     ],
+     [
+      "la costruisci tu.",
+      "g"
+     ]
+    ],
+    "body": "Fatta di riquadri: tieni quelli che ti servono, nell'ordine che vuoi.",
+    "laptop": "m-pt-home-customize"
+   },
+   {
+    "type": "list",
+    "kicker": "Tua, davvero",
+    "title": [
+     [
+      "Sposti, allarghi,",
+      "w"
+     ],
+     [
+      "nascondi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Vale anche per Analytics e Finance",
+      "stessi riquadri, stesse regole"
+     ],
+     [
+      "Ti segue su ogni schermo",
+      "computer, tablet e telefono"
+     ],
+     [
+      "O parti da un modello",
+      "pronto per il tuo modo di lavorare"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W08_quanti_clienti",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Quanti clienti",
+      "w"
+     ],
+     [
+      "ti servono davvero?",
+      "g"
+     ]
+    ],
+    "body": "Di solito meno di quelli che pensi. Dipende da un solo numero.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Un esempio",
+    "title": [
+     [
+      "Obiettivo:",
+      "w"
+     ],
+     [
+      "2.500 € al mese.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "A 100 € a cliente",
+      "ne servono 25"
+     ],
+     [
+      "A 150 € a cliente",
+      "ne servono 17"
+     ],
+     [
+      "A 200 € a cliente",
+      "ne servono 13"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "La differenza",
+    "value": "12",
+    "label": "clienti in meno, stesso incasso.",
+    "body": "Tra 100 e 200 € a cliente c'è metà del lavoro. Il prezzo medio conta più del numero di clienti.",
+    "note": "Incassi lordi, prima di tasse e spese.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Come si alza il prezzo medio",
+    "title": [
+     [
+      "Non solo",
+      "w"
+     ],
+     [
+      "aumentando.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Percorsi, non sedute singole",
+      "tre mesi con un obiettivo"
+     ],
+     [
+      "Online accanto alla presenza",
+      "scheda e controllo per chi non può venire"
+     ],
+     [
+      "Meno sconti «per simpatia»",
+      "contali: a fine anno sono un cliente intero"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H08_messaggi",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "I messaggi",
+      "w"
+     ],
+     [
+      "dei clienti.",
+      "g"
+     ]
+    ],
+    "body": "Ore 22:30, WhatsApp: «Coach una domanda veloce…»"
+   },
+   {
+    "type": "split",
+    "kicker": "La chat con i clienti",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Clienti, amici e famiglia nella stessa app",
+     "Il tuo numero personale a tutti",
+     "La domanda di martedì persa tra le foto"
+    ],
+    "right": [
+     "Una chat solo per il lavoro",
+     "Scrivono dall'app, non al tuo numero",
+     "Messaggi e allenamenti dello stesso atleta insieme"
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "Lato atleta",
+    "title": [
+     [
+      "Ti scrive",
+      "w"
+     ],
+     [
+      "da dove si allena.",
+      "g"
+     ]
+    ],
+    "body": "La chat con il coach è nella sua app, accanto alla scheda.",
+    "phone": "showcase-athlete-chat"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F06_piu_e_meglio",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Più ti alleni,",
+      "w"
+     ],
+     [
+      "più migliori. Sempre.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Si migliora nel recupero.",
+    "body": "L'allenamento dà lo stimolo; l'adattamento avviene dopo, con riposo, sonno e alimentazione. Oltre un certo punto, aggiungere peggiora."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Lo stimolo serve",
+      "ma è il recupero che ti fa migliorare"
+     ],
+     [
+      "Più volume funziona",
+      "finché riesci a recuperarlo"
+     ],
+     [
+      "I segnali del troppo",
+      "carichi che calano, sonno peggiore, voglia zero"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S07_errori_principianti",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "5 errori nelle schede",
+      "w"
+     ],
+     [
+      "per chi inizia.",
+      "g"
+     ]
+    ],
+    "body": "Li abbiamo fatti tutti. Riconoscerli fa restare i clienti di gennaio.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "I primi tre",
+    "title": [
+     [
+      "Troppo,",
+      "w"
+     ],
+     [
+      "troppo presto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Troppi esercizi",
+      "sei fatti bene battono dodici fatti di corsa"
+     ],
+     [
+      "Troppe sedute a settimana",
+      "tre che riesce a fare, non cinque che salta"
+     ],
+     [
+      "Carichi da subito al limite",
+      "prima impara il movimento"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Gli altri due",
+    "title": [
+     [
+      "Poco",
+      "w"
+     ],
+     [
+      "chiaro.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Nomi che non conosce",
+      "«hip thrust» non dice niente a chi inizia"
+     ],
+     [
+      "Nessuna progressione scritta",
+      "se non sa quando salire, non sale"
+     ],
+     [
+      "La regola",
+      "deve finire la seduta con voglia di tornare"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M09_tasse_a_sorpresa",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Giugno e novembre",
+    "title": [
+     [
+      "Le tasse",
+      "w"
+     ],
+     [
+      "a sorpresa.",
+      "g"
+     ]
+    ],
+    "body": "Non sono una sorpresa: è che nessuno ti dice prima quanto mettere da parte."
+   },
+   {
+    "type": "device",
+    "kicker": "Finance · regime forfettario",
+    "title": [
+     [
+      "Una stima,",
+      "w"
+     ],
+     [
+      "mese per mese.",
+      "g"
+     ]
+    ],
+    "body": "Imposta e contributi stimati dai tuoi incassi, con le scadenze in calendario.",
+    "laptop": "m-finance-taxes"
+   },
+   {
+    "type": "list",
+    "kicker": "Con i piedi per terra",
+    "title": [
+     [
+      "Una stima,",
+      "w"
+     ],
+     [
+      "non la dichiarazione.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Parte dai tuoi incassi veri",
+      "e si aggiorna quando ne registri di nuovi"
+     ],
+     [
+      "Ti avvisa se ti avvicini al limite",
+      "del regime forfettario"
+     ],
+     [
+      "La dichiarazione resta al commercialista",
+      "tu arrivi all'appuntamento sapendo già l'ordine di grandezza"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T09_copilota",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · il Copilota",
+    "title": [
+     [
+      "Lunedì mattina:",
+      "w"
+     ],
+     [
+      "chi sento per primo?",
+      "g"
+     ]
+    ],
+    "body": "Venti clienti, cento cose. E qualcuno resta sempre indietro."
+   },
+   {
+    "type": "device",
+    "kicker": "Copilota della settimana",
+    "title": [
+     [
+      "Una lista.",
+      "w"
+     ],
+     [
+      "Con il motivo.",
+      "g"
+     ]
+    ],
+    "body": "Chi riagganciare, chi ha un pagamento scaduto, chi merita un «bravo».",
+    "laptop": "m-copilot"
+   },
+   {
+    "type": "list",
+    "kicker": "L'IA propone, tu decidi",
+    "title": [
+     [
+      "Niente parte",
+      "w"
+     ],
+     [
+      "da solo.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Una bozza di messaggio",
+      "scritta per quell'atleta"
+     ],
+     [
+      "La rileggi e la cambi",
+      "con le tue parole"
+     ],
+     [
+      "Parte solo quando premi Invia",
+      "sempre a tuo nome"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W09_costo_di_una_disdetta",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Quanto ti costa",
+      "w"
+     ],
+     [
+      "un cliente che disdice?",
+      "g"
+     ]
+    ],
+    "body": "Non solo il mese dopo. Fai il conto su un anno.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Un esempio",
+    "title": [
+     [
+      "Cliente",
+      "w"
+     ],
+     [
+      "da 120 € al mese.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Quello che non incassi",
+      "1.440 € in un anno"
+     ],
+     [
+      "Il tempo per sostituirlo",
+      "prove gratuite, messaggi, primo colloquio"
+     ],
+     [
+      "Quello che non vedi",
+      "il passaparola che non farà"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Perché se ne vanno",
+    "title": [
+     [
+      "Quasi mai",
+      "w"
+     ],
+     [
+      "per il prezzo.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Non vedono risultati",
+      "o non glieli hai mostrati"
+     ],
+     [
+      "Si sentono uno dei tanti",
+      "stessa scheda, nessun messaggio"
+     ],
+     [
+      "La vita cambia",
+      "lavoro, trasloco, infortunio: lì puoi solo lasciare la porta aperta"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il punto",
+    "value": "1 messaggio",
+    "label": "al momento giusto.",
+    "body": "Costa due minuti. Scrivere a chi ha saltato una settimana è il lavoro più redditizio che fai.",
+    "bg": "light",
+    "vsize": 150
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H09_come_e_andata",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "«Com'è andato",
+      "w"
+     ],
+     [
+      "l'allenamento?»",
+      "g"
+     ]
+    ],
+    "body": "«Bene.» Fine della conversazione."
+   },
+   {
+    "type": "split",
+    "kicker": "Sapere com'è andata",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Ti fidi di un «bene»",
+     "I carichi li sa solo lui, forse",
+     "Te ne accorgi al prossimo incontro"
+    ],
+    "right": [
+     "Durata, serie, volume, fatica percepita",
+     "Ogni serie con kg e ripetizioni",
+     "La nota che ha lasciato a fine allenamento"
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "Lato PT",
+    "title": [
+     [
+      "L'allenamento,",
+      "w"
+     ],
+     [
+      "serie per serie.",
+      "g"
+     ]
+    ],
+    "body": "Apri la sessione e vedi cosa ha fatto davvero.",
+    "laptop": "m-pt-session-detail"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F07_confondere_muscolo",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Bisogna confondere",
+      "w"
+     ],
+     [
+      "il muscolo.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Il muscolo non si confonde: si adatta.",
+    "body": "Si cresce aumentando lo stimolo nel tempo sugli stessi movimenti. Cambiare esercizi ogni settimana impedisce di capire se stai migliorando."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Serve progressione",
+      "un po' più di carico o di ripetizioni, con calma"
+     ],
+     [
+      "Variare ha senso",
+      "ogni tanto, per un motivo"
+     ],
+     [
+      "Se cambi tutto sempre",
+      "non hai più un numero da confrontare"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S08_note_esercizio",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "Cosa scrivere nelle note",
+      "w"
+     ],
+     [
+      "di un esercizio.",
+      "g"
+     ]
+    ],
+    "body": "Una riga giusta vale più di un video che non guarderà.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le prime tre",
+    "title": [
+     [
+      "Come",
+      "w"
+     ],
+     [
+      "si fa.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Il tempo",
+      "«scendi in 3 secondi, sali deciso»"
+     ],
+     [
+      "Dove sentirlo",
+      "«devi sentire i glutei, non la schiena»"
+     ],
+     [
+      "L'errore tipico",
+      "«non staccare i talloni»"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le altre tre",
+    "title": [
+     [
+      "Come",
+      "w"
+     ],
+     [
+      "si regola.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Quando salire di carico",
+      "«se fai 10 pulite, la prossima volta +2,5 kg»"
+     ],
+     [
+      "Quando fermarsi",
+      "«se la tecnica cambia, la serie è finita»"
+     ],
+     [
+      "L'alternativa",
+      "«se la macchina è occupata: manubri»"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M10_pensata_per_altri",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Lo hai notato anche tu?",
+    "title": [
+     [
+      "App pensate",
+      "w"
+     ],
+     [
+      "per un altro Paese.",
+      "g"
+     ]
+    ],
+    "body": "Dollari, libbre, menu tradotti a metà. E del regime forfettario nessuna traccia."
+   },
+   {
+    "type": "list",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Nato in italiano.",
+      "w"
+     ],
+     [
+      "Per chi lavora in Italia.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Tutta l'app in italiano",
+      "anche per i tuoi atleti, senza traduzioni a metà"
+     ],
+     [
+      "Regime forfettario e fatture elettroniche",
+      "le fatture XML che hai già si leggono da sole"
+     ],
+     [
+      "Bonifico, Satispay, PayPal, SumUp, carta",
+      "i metodi che i tuoi clienti usano davvero"
+     ]
+    ],
+    "icons": [
+     "🇮🇹",
+     "🧾",
+     "💶"
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "E per i fisioterapisti",
+    "title": [
+     [
+      "L'app parla",
+      "w"
+     ],
+     [
+      "la tua lingua.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "«Paziente» e «seduta»",
+      "in tutta l'app, nei PDF e nelle email"
+     ],
+     [
+      "Valutazioni, consenso, diario delle sedute",
+      "gli strumenti del tuo lavoro"
+     ],
+     [
+      "Nessun giudizio automatico",
+      "decide sempre il professionista"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T10_il_tuo_marchio",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · il tuo marchio",
+    "title": [
+     [
+      "I tuoi clienti",
+      "w"
+     ],
+     [
+      "vedono te.",
+      "g"
+     ]
+    ],
+    "body": "Hai costruito un nome. Deve stare sull'app che usano ogni giorno."
+   },
+   {
+    "type": "device",
+    "kicker": "Aspetto e marchio",
+    "title": [
+     [
+      "Il tuo logo.",
+      "w"
+     ],
+     [
+      "Il tuo colore.",
+      "g"
+     ]
+    ],
+    "body": "Su tutta l'app dei tuoi atleti e sui PDF che consegni.",
+    "laptop": "m-settings-brand"
+   },
+   {
+    "type": "list",
+    "kicker": "Professionale, senza grafico",
+    "title": [
+     [
+      "Lo imposti",
+      "w"
+     ],
+     [
+      "una volta.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Logo e colore del tuo studio",
+      "con il contrasto controllato, così si legge sempre"
+     ],
+     [
+      "Nell'app dell'atleta",
+      "dalla Home al Player"
+     ],
+     [
+      "Sulle schede stampate",
+      "e sui report"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W10_lezione_saltata",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "«Scusa, oggi",
+      "w"
+     ],
+     [
+      "non riesco a venire.»",
+      "g"
+     ]
+    ],
+    "body": "Alle 17:40, per la seduta delle 18. Chi la paga?",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Serve una regola",
+    "title": [
+     [
+      "Scritta,",
+      "w"
+     ],
+     [
+      "prima che serva.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Disdetta entro 24 ore",
+      "la seduta si recupera"
+     ],
+     [
+      "Dopo le 24 ore",
+      "la seduta è persa, salvo emergenze vere"
+     ],
+     [
+      "Una eccezione all'anno",
+      "la decidi tu, e la dici"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Come farla rispettare",
+    "title": [
+     [
+      "Senza fare",
+      "w"
+     ],
+     [
+      "il cattivo.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Falla leggere all'inizio",
+      "non la prima volta che succede"
+     ],
+     [
+      "Uguale per tutti",
+      "anche per il cliente simpatico"
+     ],
+     [
+      "Il promemoria il giorno prima",
+      "toglie metà delle disdette"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il conto",
+    "value": "1 a settimana",
+    "label": "sono più di 50 sedute l'anno.",
+    "body": "Una seduta saltata e non pagata ogni settimana: a 40 € sono oltre 2.000 € in un anno.",
+    "note": "Esempio con numeri tondi.",
+    "bg": "light",
+    "vsize": 120
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H10_pausa",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Il cliente",
+      "w"
+     ],
+     [
+      "va in vacanza.",
+      "g"
+     ]
+    ],
+    "body": "O si fa male, o ha un mese impossibile al lavoro. Capita."
+   },
+   {
+    "type": "split",
+    "kicker": "Una pausa",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Promemoria che arrivano lo stesso",
+     "Risulta «fermo» anche se è d'accordo con te",
+     "Al rientro non sai da dove ripartire"
+    ],
+    "right": [
+     "Mette l'app in pausa per quel periodo",
+     "Niente promemoria finché è via",
+     "Scheda e storico lo aspettano"
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "E quando torna",
+    "title": [
+     [
+      "Si riparte",
+      "w"
+     ],
+     [
+      "da dove era.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "I carichi dell'ultima volta",
+      "sono ancora lì"
+     ],
+     [
+      "I progressi non si azzerano",
+      "lo storico resta"
+     ],
+     [
+      "Tu sai quando rientra",
+      "e puoi preparare la scheda"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F08_carboidrati_sera",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«I carboidrati la sera",
+      "w"
+     ],
+     [
+      "fanno ingrassare.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Conta il totale, non l'orario.",
+    "body": "Per il peso conta soprattutto quanto si mangia nell'arco della giornata e della settimana, non l'ora in cui lo si mangia."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "L'orologio conta poco",
+      "conta il totale di giornate e settimane"
+     ],
+     [
+      "La sera spesso si mangia di più",
+      "per questo sembra colpa dell'orario"
+     ],
+     [
+      "Per un piano alimentare",
+      "c'è il nutrizionista: noi alleniamo"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S09_controllo_mensile",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "5 idee per il controllo",
+      "w"
+     ],
+     [
+      "di fine mese.",
+      "g"
+     ]
+    ],
+    "body": "Dieci minuti con ogni cliente. È il momento in cui decide se rinnova.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le prime tre",
+    "title": [
+     [
+      "Guardare",
+      "w"
+     ],
+     [
+      "indietro.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Tre numeri che sono migliorati",
+      "carichi, ripetizioni, presenze"
+     ],
+     [
+      "Una cosa che ha imparato",
+      "un movimento, un'abitudine"
+     ],
+     [
+      "Cosa è stato difficile",
+      "chiedilo, non indovinarlo"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le altre due",
+    "title": [
+     [
+      "Guardare",
+      "w"
+     ],
+     [
+      "avanti.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Un obiettivo per il mese prossimo",
+      "uno, misurabile"
+     ],
+     [
+      "Cosa cambia nella scheda, e perché",
+      "così la sente sua"
+     ],
+     [
+      "Chiudi con la data",
+      "il prossimo controllo, già in agenda"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M11_non_capisce_esercizio",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "In palestra, da solo",
+    "title": [
+     [
+      "«Ma questo esercizio",
+      "w"
+     ],
+     [
+      "come si fa?»",
+      "g"
+     ]
+    ],
+    "body": "Il nome sulla scheda non basta. E tu non sei lì."
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "«Come si esegue»,",
+      "w"
+     ],
+     [
+      "a un tocco.",
+      "g"
+     ]
+    ],
+    "body": "Muscoli coinvolti e istruzioni passo passo, accanto a ogni esercizio.",
+    "phone": "showcase-athlete-exercise"
+   },
+   {
+    "type": "list",
+    "kicker": "E le tue indicazioni",
+    "title": [
+     [
+      "La tua voce,",
+      "w"
+     ],
+     [
+      "nella scheda.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Le note del coach sull'esercizio",
+      "l'atleta le legge prima di iniziare"
+     ],
+     [
+      "Muscoli principali e secondari",
+      "disegnati, non solo scritti"
+     ],
+     [
+      "Se ha un dubbio ti scrive",
+      "dalla chat, senza uscire dall'app"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T11_team",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · lo studio",
+    "title": [
+     [
+      "Non lavori",
+      "w"
+     ],
+     [
+      "più da solo?",
+      "g"
+     ]
+    ],
+    "body": "Un collega, una segreteria, un coach in più. E i dati di tutti in giro."
+   },
+   {
+    "type": "device",
+    "kicker": "Team",
+    "title": [
+     [
+      "Ognuno vede",
+      "w"
+     ],
+     [
+      "solo il suo.",
+      "g"
+     ]
+    ],
+    "body": "Aggiungi collaboratori e scegli tu i permessi, uno per uno.",
+    "laptop": "m-settings-team"
+   },
+   {
+    "type": "list",
+    "kicker": "Per lavorare insieme",
+    "title": [
+     [
+      "Permessi chiari,",
+      "w"
+     ],
+     [
+      "niente pasticci.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Il coach segue i suoi atleti",
+      "quelli che gli assegni tu"
+     ],
+     [
+      "Chi gestisce l'agenda",
+      "non vede i dati di salute"
+     ],
+     [
+      "I conti li condividi",
+      "solo se vuoi"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W11_online_presenza",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "In presenza,",
+      "w"
+     ],
+     [
+      "online o tutti e due?",
+      "g"
+     ]
+    ],
+    "body": "Non è una questione di moda. È una questione di ore.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "In presenza",
+    "title": [
+     [
+      "Vale di più,",
+      "w"
+     ],
+     [
+      "ma ha un tetto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Prezzo più alto a seduta",
+      "il cliente paga la tua attenzione"
+     ],
+     [
+      "Il tetto sono le tue ore",
+      "più di tante non ne hai"
+     ],
+     [
+      "Spostamenti e sala",
+      "sono costi, contali"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Online",
+    "title": [
+     [
+      "Vale meno,",
+      "w"
+     ],
+     [
+      "ma non ha orari.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Prezzo più basso",
+      "ma niente sala e niente viaggi"
+     ],
+     [
+      "Funziona se il controllo è vero",
+      "scheda aggiornata, risposte, numeri guardati"
+     ],
+     [
+      "Il rischio",
+      "che diventi un PDF mandato una volta al mese"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Tutti e due",
+    "title": [
+     [
+      "Per molti",
+      "w"
+     ],
+     [
+      "è la risposta.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Presenza per chi inizia",
+      "tecnica e fiducia"
+     ],
+     [
+      "Online per chi è autonomo",
+      "o si trasferisce: così non lo perdi"
+     ],
+     [
+      "Una seduta al mese in presenza",
+      "tiene vivo anche il percorso online"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H11_collaboratori",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Lo studio",
+      "w"
+     ],
+     [
+      "cresce.",
+      "g"
+     ]
+    ],
+    "body": "Arriva un collaboratore. E con lui i conti di fine mese."
+   },
+   {
+    "type": "split",
+    "kicker": "Lavorare in squadra",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Tutti vedono tutto, o nessuno vede niente",
+     "Sedute contate a mano a fine mese",
+     "Schede e clienti in file diversi"
+    ],
+    "right": [
+     "Permessi scelti persona per persona",
+     "Compensi calcolati dalle sedute svolte",
+     "Atleti assegnati a ciascun coach"
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Con giudizio",
+    "title": [
+     [
+      "Ognuno",
+      "w"
+     ],
+     [
+      "il suo.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Il coach vede i suoi atleti",
+      "non i conti dello studio"
+     ],
+     [
+      "La segreteria gestisce l'agenda",
+      "senza vedere i dati di salute"
+     ],
+     [
+      "Tu vedi l'insieme",
+      "e decidi cosa condividere"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F09_squat_profondo",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Lo squat profondo",
+      "w"
+     ],
+     [
+      "rovina le ginocchia.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Per ginocchia sane, con tecnica e carico adatti.",
+    "body": "In persone senza problemi articolari lo squat completo, eseguito bene e con carichi progressivi, non risulta dannoso. Con dolore o patologie si valuta caso per caso."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "La profondità si costruisce",
+      "con mobilità, controllo e carichi graduali"
+     ],
+     [
+      "Il problema è quasi sempre il come",
+      "fretta, carico eccessivo, tecnica"
+     ],
+     [
+      "Se c'è dolore",
+      "ci si ferma e si sente un professionista sanitario"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S10_presentare_aumento",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "Come presentare",
+      "w"
+     ],
+     [
+      "un aumento di prezzo.",
+      "g"
+     ]
+    ],
+    "body": "Si può fare senza perdere nessuno. Dipende da come lo dici.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Prima",
+    "title": [
+     [
+      "Preparalo",
+      "w"
+     ],
+     [
+      "bene.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Avvisa un mese prima",
+      "mai a sorpresa, mai a voce di corsa"
+     ],
+     [
+      "Scrivilo",
+      "con la data e il nuovo prezzo, chiari"
+     ],
+     [
+      "Decidi le eccezioni prima",
+      "non sul momento, per imbarazzo"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Durante",
+    "title": [
+     [
+      "Dillo",
+      "w"
+     ],
+     [
+      "semplice.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Una frase, non una giustificazione",
+      "«dal 1° marzo il percorso costa…»"
+     ],
+     [
+      "Ricorda cosa riceve",
+      "non cosa è aumentato per te"
+     ],
+     [
+      "Lascia tempo",
+      "chi ha domande te le fa, e va bene così"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "M12_scheda_cambiata",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Scheda_finale_v3_DEFINITIVA.pdf",
+    "title": [
+     [
+      "Qual era",
+      "w"
+     ],
+     [
+      "la versione giusta?",
+      "g"
+     ]
+    ],
+    "body": "Modifichi la scheda, poi il cliente ti chiede com'era prima. E non lo sai più."
+   },
+   {
+    "type": "list",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Ogni modifica",
+      "w"
+     ],
+     [
+      "resta nella storia.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Le versioni della scheda",
+      "vedi quando è cambiata e cosa"
+     ],
+     [
+      "Le differenze a colpo d'occhio",
+      "esercizi aggiunti, tolti, modificati"
+     ],
+     [
+      "Torni indietro quando vuoi",
+      "ripristini una versione precedente"
+     ]
+    ],
+    "icons": [
+     "🕘",
+     "🔍",
+     "↩️"
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "E lo storico dell'atleta",
+    "title": [
+     [
+      "Quello che ha fatto",
+      "w"
+     ],
+     [
+      "non si perde.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Le serie registrate restano",
+      "anche se togli l'esercizio dalla scheda"
+     ],
+     [
+      "I progressi continuano",
+      "da una scheda alla successiva"
+     ],
+     [
+      "Niente file da rinominare",
+      "la scheda attuale è sempre una sola"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "T12_fisioterapisti",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Dentro VigorLink · fisioterapisti",
+    "title": [
+     [
+      "Anche per chi",
+      "w"
+     ],
+     [
+      "cura, non solo allena.",
+      "g"
+     ]
+    ],
+    "body": "Stessa app, un'altra lingua: pazienti, sedute, valutazioni."
+   },
+   {
+    "type": "device",
+    "kicker": "Lato fisioterapista",
+    "title": [
+     [
+      "Il paziente,",
+      "w"
+     ],
+     [
+      "dalla valutazione in poi.",
+      "g"
+     ]
+    ],
+    "body": "Valutazioni, esercizi a casa, diario delle sedute e documenti in un posto.",
+    "laptop": "showcase-physio-patient"
+   },
+   {
+    "type": "device",
+    "kicker": "Lato paziente",
+    "title": [
+     [
+      "Il dolore,",
+      "w"
+     ],
+     [
+      "serie per serie.",
+      "g"
+     ]
+    ],
+    "body": "Da 0 a 10, senza giudizi automatici: lo leggi tu e decidi tu.",
+    "phone": "showcase-patient-pain"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W12_tempo_per_scheda",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "I conti del PT",
+    "title": [
+     [
+      "Quanto tempo",
+      "w"
+     ],
+     [
+      "ti costa ogni scheda?",
+      "g"
+     ]
+    ],
+    "body": "Mezz'ora sembra poco. Moltiplicala.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Un esempio",
+    "title": [
+     [
+      "20 clienti.",
+      "w"
+     ],
+     [
+      "Scheda nuova ogni 6 settimane.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "30 minuti a scheda",
+      "10 ore per ogni giro"
+     ],
+     [
+      "Quasi 9 giri in un anno",
+      "52 settimane ÷ 6"
+     ],
+     [
+      "Totale",
+      "quasi 90 ore l'anno"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "stat",
+    "kicker": "Il conto",
+    "value": "90 ore",
+    "label": "più di due settimane di lavoro.",
+    "body": "Ogni anno, solo per scrivere schede. Dimezzare il tempo a scheda vuol dire riprendersi una settimana.",
+    "note": "Esempio con numeri tondi: rifallo con i tuoi.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Dove si dimezza",
+    "title": [
+     [
+      "Non scrivendo",
+      "w"
+     ],
+     [
+      "più in fretta.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Modelli per obiettivo",
+      "si adatta, non si riscrive"
+     ],
+     [
+      "I numeri dell'atleta davanti",
+      "l'ultima volta, i massimali"
+     ],
+     [
+      "Blocchi da riusare",
+      "riscaldamenti, circuiti, finali"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ },
+ {
+  "id": "H12_cinque_strumenti",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Prima e dopo",
+    "title": [
+     [
+      "Cinque strumenti.",
+      "w"
+     ],
+     [
+      "O uno.",
+      "g"
+     ]
+    ],
+    "body": "Fai il conto di quante app apri per seguire un solo cliente."
+   },
+   {
+    "type": "split",
+    "kicker": "Il tuo banco di lavoro",
+    "title": [
+     [
+      "Senza",
+      "w"
+     ],
+     [
+      "e con.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Excel o PDF per le schede",
+     "WhatsApp per i messaggi",
+     "Agenda, banca e foglio dei conti"
+    ],
+    "right": [
+     "Schede, con le serie registrate",
+     "Chat, agenda e pagamenti",
+     "Incassi e scadenze, nello stesso posto"
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Per chi",
+    "title": [
+     [
+      "Un'app,",
+      "w"
+     ],
+     [
+      "tre persone.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Per te",
+      "atleti, schede, agenda, messaggi e conti"
+     ],
+     [
+      "Per il tuo atleta",
+      "l'allenamento del giorno sul telefono"
+     ],
+     [
+      "Per il tuo team",
+      "ognuno con i suoi permessi"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "F10_ogni_giorno",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Vero o falso?",
+    "title": [
+     [
+      "«Per avere risultati",
+      "w"
+     ],
+     [
+      "devi allenarti ogni giorno.»",
+      "g"
+     ]
+    ],
+    "body": "Lo senti dire in palestra ogni settimana. Scorri per la risposta."
+   },
+   {
+    "type": "stat",
+    "kicker": "La risposta",
+    "value": "FALSO",
+    "label": "Conta la costanza, non il calendario pieno.",
+    "body": "Due o tre sedute a settimana fatte bene, per mesi, portano più lontano di sette sedute per tre settimane e poi niente."
+   },
+   {
+    "type": "list",
+    "kicker": "Come spiegarlo al cliente",
+    "title": [
+     [
+      "In tre",
+      "w"
+     ],
+     [
+      "frasi.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Meglio poco e sempre",
+      "che tanto e per poco"
+     ],
+     [
+      "Il piano giusto",
+      "è quello che riesce a seguire davvero"
+     ],
+     [
+      "I giorni di riposo",
+      "fanno parte della scheda"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "S11_scegliere_app",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Da salvare 🔖",
+    "title": [
+     [
+      "6 domande prima di scegliere",
+      "w"
+     ],
+     [
+      "un'app per PT.",
+      "g"
+     ]
+    ],
+    "body": "Valgono per qualsiasi app, anche per la nostra.",
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le prime tre",
+    "title": [
+     [
+      "Per i tuoi",
+      "w"
+     ],
+     [
+      "clienti.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "È nella loro lingua, tutta?",
+      "anche i messaggi e le email"
+     ],
+     [
+      "Funziona dove si allenano?",
+      "con il telefono bloccato, con poco segnale"
+     ],
+     [
+      "Vedono subito cosa fare oggi?",
+      "senza cercare tra i menu"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "list",
+    "kicker": "Le altre tre",
+    "title": [
+     [
+      "Per",
+      "w"
+     ],
+     [
+      "te.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Trattiene qualcosa sui tuoi incassi?",
+      "e quanto, scritto dove"
+     ],
+     [
+      "Posso portare dentro quello che ho?",
+      "schede, clienti, fatture"
+     ],
+     [
+      "Posso andarmene con i miei dati?",
+      "e disdire senza telefonate"
+     ]
+    ],
+    "bg": "light"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla.",
+    "bg": "light"
+   }
+  ]
+ }
+]

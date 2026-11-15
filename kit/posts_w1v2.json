@@ -1,0 +1,693 @@
+[
+ {
+  "id": "W1_A_timer",
+  "reel": "auto",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Il problema n° 1 nelle recensioni",
+    "title": [
+     [
+      "Recupero finito.",
+      "w"
+     ],
+     [
+      "Telefono in tasca.",
+      "g"
+     ]
+    ],
+    "body": "Il tuo cliente aspetta il bip. Il bip non arriva.",
+    "chips": [
+     {
+      "k": "warn",
+      "i": "⏱",
+      "text": "Recupero: 2:30",
+      "sub": "…e poi silenzio",
+      "x": 90,
+      "y": 0.66
+     },
+     {
+      "k": "msg",
+      "text": "Il timer non suona se blocco il telefono",
+      "sub": "la lamentela più frequente",
+      "x": 120,
+      "y": 0.77
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Blocchi il telefono.",
+      "w"
+     ],
+     [
+      "Ti avvisiamo noi.",
+      "g"
+     ]
+    ],
+    "body": "A fine recupero arriva la notifica, anche a schermo spento.",
+    "phone": "social-player-recupero",
+    "chips": [
+     {
+      "k": "ok",
+      "i": "⏱",
+      "text": "Recupero finito",
+      "sub": "Tocca a te: Squat",
+      "x": 70,
+      "y": 0.62
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Provato davvero",
+    "title": [
+     [
+      "Non una promessa.",
+      "w"
+     ],
+     [
+      "Un test.",
+      "g"
+     ]
+    ],
+    "icons": [
+     "✓",
+     "✓",
+     "✓"
+    ],
+    "items": [
+     [
+      "Su un iPhone vero, telefono bloccato",
+      "la notifica è arrivata a fine recupero"
+     ],
+     [
+      "Basta un gesto, una volta",
+      "VigorLink sulla schermata Home e notifiche attive"
+     ],
+     [
+      "Il cliente non perde il ritmo",
+      "e tu non perdi il cliente"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "W1_B_senza_rete",
+  "reel": "auto",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Palestra in seminterrato?",
+    "title": [
+     [
+      "Zero tacche.",
+      "w"
+     ],
+     [
+      "Zero allenamento?",
+      "g"
+     ]
+    ],
+    "body": "Con tante app, senza segnale non si apre nemmeno la scheda.",
+    "chips": [
+     {
+      "k": "warn",
+      "i": "✕",
+      "text": "Nessuna connessione",
+      "sub": "riprova più tardi",
+      "x": 120,
+      "y": 0.68
+     }
+    ],
+    "size": 100
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Ti alleni lo stesso.",
+      "w"
+     ],
+     [
+      "Le serie partono dopo.",
+      "g"
+     ]
+    ],
+    "body": "Kg, ripetizioni, recupero e carichi dell'ultima volta: tutto sul telefono.",
+    "phone": "social-offline-day",
+    "chips": [
+     {
+      "k": "ok",
+      "text": "Salvato sul telefono",
+      "sub": "parte quando torna la rete",
+      "x": 560,
+      "y": 0.56
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "Senza segnale",
+    "title": [
+     [
+      "Un tocco",
+      "w"
+     ],
+     [
+      "e riparti.",
+      "g"
+     ]
+    ],
+    "body": "«Allenati senza rete»: scegli la giornata, il prossimo è già segnato.",
+    "phone": "social-offline-choose"
+   },
+   {
+    "type": "list",
+    "kicker": "Come funziona",
+    "title": [
+     [
+      "Semplice.",
+      "w"
+     ],
+     [
+      "E onesto.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Apri la scheda una volta con la rete",
+      "da lì resta salvata sul telefono"
+     ],
+     [
+      "In palestra ti alleni anche senza segnale",
+      "serie, kg, recupero sullo schermo"
+     ],
+     [
+      "Torna la rete, parte tutto",
+      "il tuo coach vede l'allenamento come sempre"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ },
+ {
+  "id": "W1_C_zero_trattenute",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Domanda per PT",
+    "title": [
+     [
+      "Il cliente paga 100 €.",
+      "w"
+     ],
+     [
+      "Quanti ne arrivano a te?",
+      "g"
+     ]
+    ],
+    "body": "Tra commissioni, extra e vincoli, molti scoprono la risposta a fine mese.",
+    "size": 92
+   },
+   {
+    "type": "stat",
+    "kicker": "Con VigorLink",
+    "value": "0 €",
+    "label": "trattenuti sui tuoi incassi.",
+    "body": "Carta sul tuo conto Stripe, oppure bonifico, PayPal, Satispay, SumUp, contanti: scegli tu.",
+    "note": "Restano solo le commissioni del circuito di pagamento che usi (per esempio Stripe)."
+   },
+   {
+    "type": "list",
+    "kicker": "E niente catene",
+    "title": [
+     [
+      "Disdici quando vuoi.",
+      "w"
+     ],
+     [
+      "Dall'app.",
+      "g"
+     ]
+    ],
+    "icons": [
+     "✓",
+     "✓",
+     "✓"
+    ],
+    "items": [
+     [
+      "Nessun contratto annuale obbligatorio",
+      "il mensile si ferma quando decidi tu"
+     ],
+     [
+      "Disdetta dall'app",
+      "da Impostazioni › Abbonamento, senza telefonate né email"
+     ],
+     [
+      "I tuoi dati restano tuoi",
+      "li scarichi quando vuoi"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W1_D_scadenze",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Ti è mai successo?",
+    "title": [
+     [
+      "Pacchetto scaduto.",
+      "w"
+     ],
+     [
+      "E nessuno lo sapeva.",
+      "g"
+     ]
+    ],
+    "body": "Lui pensava di avere ancora lezioni. Tu pensavi avesse rinnovato.",
+    "size": 96
+   },
+   {
+    "type": "split",
+    "kicker": "Scadenze e pagamenti",
+    "title": [
+     [
+      "Lo sapete",
+      "w"
+     ],
+     [
+      "tutti e due.",
+      "g"
+     ]
+    ],
+    "left": [
+     "Scopri la scadenza quando smette di venire",
+     "Rincorri i pagamenti in chat",
+     "Il cliente non sa cosa ha pagato"
+    ],
+    "right": [
+     "Avviso a te 7 giorni prima della fine",
+     "Avviso se un pagamento è in ritardo",
+     "Il cliente vede la data nell'app"
+    ],
+    "note": "In tutti i piani, non come extra a pagamento."
+   },
+   {
+    "type": "device",
+    "kicker": "Lato PT",
+    "title": [
+     [
+      "Incassi e scadenze",
+      "w"
+     ],
+     [
+      "in un colpo d'occhio.",
+      "g"
+     ]
+    ],
+    "laptop": "showcase-pt-finance-1511"
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W1_E_lamentele",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Abbiamo letto le recensioni delle app per PT",
+    "title": [
+     [
+      "Ecco cosa odiano",
+      "w"
+     ],
+     [
+      "PT e clienti.",
+      "g"
+     ]
+    ],
+    "body": "App store, Google Play e siti di recensioni. Poi abbiamo costruito VigorLink partendo da lì."
+   },
+   {
+    "type": "compare",
+    "kicker": "Le lamentele più comuni",
+    "title": [
+     [
+      "Loro dicono.",
+      "w"
+     ],
+     [
+      "Noi rispondiamo.",
+      "g"
+     ]
+    ],
+    "left": "La lamentela",
+    "right": "In VigorLink",
+    "rows": [
+     [
+      "Il timer non suona a telefono bloccato",
+      "Ti avvisa comunque"
+     ],
+     [
+      "Senza segnale non funziona",
+      "Ti alleni e invia dopo"
+     ],
+     [
+      "Non vedo cosa ho sollevato l'altra volta",
+      "Il carico consigliato è già scritto"
+     ],
+     [
+      "Commissioni sugli incassi",
+      "0 € trattenuti"
+     ],
+     [
+      "Contratti e disdette difficili",
+      "Disdici dall'app"
+     ],
+     [
+      "Solo in inglese",
+      "Nato in italiano"
+     ]
+    ]
+   },
+   {
+    "type": "stat",
+    "kicker": "Il conto onesto",
+    "value": "18 / 23",
+    "label": "lamentele già risolte.",
+    "body": "Le altre 5 le stiamo costruendo. Te le diciamo quando sono vere, non prima."
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W1_F_chi_ce_dietro",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Chi c'è dietro VigorLink",
+    "title": [
+     [
+      "Non una multinazionale.",
+      "w"
+     ],
+     [
+      "Una persona che risponde.",
+      "g"
+     ]
+    ],
+    "body": "Mi chiamo Andrea: da oltre 5 anni costruisco software gestionali, da sempre mi alleno.",
+    "size": 92
+   },
+   {
+    "type": "list",
+    "kicker": "Perché è diverso",
+    "title": [
+     [
+      "Fatto in Italia.",
+      "w"
+     ],
+     [
+      "Fatto per la palestra vera.",
+      "g"
+     ]
+    ],
+    "icons": [
+     "🇮🇹",
+     "✍️",
+     "💬"
+    ],
+    "items": [
+     [
+      "Nato in italiano",
+      "per personal trainer e fisioterapisti italiani"
+     ],
+     [
+      "Costruito sulle vostre lamentele",
+      "non sulle mie idee"
+     ],
+     [
+      "Ti risponde chi l'ha fatto",
+      "non un modulo di contatto"
+     ]
+    ]
+   },
+   {
+    "type": "hero",
+    "kicker": "Esce nel primo trimestre 2027",
+    "title": [
+     [
+      "Lo sto costruendo",
+      "w"
+     ],
+     [
+      "insieme a voi.",
+      "g"
+     ]
+    ],
+    "body": "Dimmi cosa ti fa perdere tempo oggi: lo leggo io, uno per uno."
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ],
+  "reel": "auto"
+ },
+ {
+  "id": "W1_G_cambio_software",
+  "reel": "auto",
+  "slides": [
+   {
+    "type": "hero",
+    "kicker": "Usi già un'altra app?",
+    "title": [
+     [
+      "Cambiare app.",
+      "w"
+     ],
+     [
+      "Ricopiare 40 schede?",
+      "g"
+     ]
+    ],
+    "body": "È il motivo per cui tanti PT restano dove sono, anche se non sono contenti.",
+    "chips": [
+     {
+      "k": "msg",
+      "text": "«Dovrei riscrivere tutto da capo»",
+      "sub": "la paura più comune",
+      "x": 120,
+      "y": 0.7
+     }
+    ]
+   },
+   {
+    "type": "device",
+    "kicker": "VigorLink",
+    "title": [
+     [
+      "Le tue schede",
+      "w"
+     ],
+     [
+      "le legge l'IA.",
+      "g"
+     ]
+    ],
+    "body": "Da PDF, Excel, Word, foto o testo incollato. Tu controlli e salvi.",
+    "laptop": "showcase-pt-import-1511"
+   },
+   {
+    "type": "list",
+    "kicker": "Ti porti dietro tutto",
+    "title": [
+     [
+      "Niente",
+      "w"
+     ],
+     [
+      "da riscrivere.",
+      "g"
+     ]
+    ],
+    "items": [
+     [
+      "Atleti da Excel o CSV",
+      "l'elenco che hai già, senza inserirli uno a uno"
+     ],
+     [
+      "Schede da PDF, Excel, Word o foto",
+      "l'IA prepara la bozza, niente si salva senza il tuo via"
+     ],
+     [
+      "Fatture da XML, ZIP o PDF",
+      "incassi e uscite collegati ai tuoi clienti"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "kicker": "In arrivo nel primo trimestre 2027",
+    "title": [
+     [
+      "Mettiti in lista.",
+      "w"
+     ],
+     [
+      "Diventa Fondatore.",
+      "g"
+     ]
+    ],
+    "body": "I primi 25 personal trainer che si abbonano al lancio: fino a −30% per 6 mesi.",
+    "buttons": [
+     [
+      "Lista Fondatori · link in bio",
+      "o"
+     ]
+    ],
+    "foot": "Entrare in lista è gratis e non ti impegna a nulla."
+   }
+  ]
+ }
+]
