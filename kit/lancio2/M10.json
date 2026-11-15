@@ -1,0 +1,83 @@
+{
+ "id": "M10_marchio",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "Il tuo marchio,",
+    "ovunque."
+   ],
+   "say": "Il cliente apre l'app e vede te: il tuo logo, il tuo colore."
+  },
+  {
+   "type": "list",
+   "t": [
+    "Nell'app",
+    "del cliente"
+   ],
+   "items": [
+    [
+     "Il tuo logo al posto del nostro",
+     "lo vede ogni volta che apre l'app"
+    ],
+    [
+     "Il tuo colore",
+     "su pulsanti, link ed evidenziazioni"
+    ],
+    [
+     "Anche sulla carta",
+     "il tuo logo nei PDF delle schede"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "bg": "light",
+   "t": [
+    "E fuori",
+    "dall'app"
+   ],
+   "items": [
+    [
+     "Biglietto da visita digitale",
+     "con il tuo logo e i tuoi colori"
+    ],
+    [
+     "QR code e contatto",
+     "si salva in rubrica con un tocco"
+    ],
+    [
+     "Lo mandi come vuoi",
+     "dalla tua email o da WhatsApp"
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "E se vuoi,",
+    "il tuo sito"
+   ],
+   "b": "vigorlink.it/p/il-tuo-nome: scegli uno stile, scrivi i testi, e chi ti trova prenota la prima consulenza nel tuo calendario.",
+   "img": "s1/social-site.png",
+   "iw": 2160,
+   "crop": [
+    603,
+    504,
+    1332,
+    378
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

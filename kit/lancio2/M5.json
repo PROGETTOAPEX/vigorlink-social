@@ -1,0 +1,94 @@
+{
+ "id": "M5_finance",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "black",
+   "lines": [
+    "Forfettario?",
+    "F24? INPS?",
+    "[Lo sa già.]"
+   ],
+   "say": "VigorLink è nato per la partita IVA italiana: stima tasse e scadenze al posto tuo."
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Tasse e F24,",
+    "stimate"
+   ],
+   "b": "Acconti e saldi di imposta sostitutiva e INPS, con le date. Le aggiungi alle uscite previste.",
+   "img": "s1/finance-taxes.png",
+   "iw": 2160,
+   "crop": [
+    418,
+    324,
+    1282,
+    648
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Il profilo fiscale,",
+    "anno per anno"
+   ],
+   "b": "ATECO, coefficiente, aliquota al 5% o al 15%, gestione INPS.",
+   "img": "s1/finance-tax-profile.png",
+   "iw": 2160,
+   "crop": [
+    607,
+    513,
+    945,
+    824
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Dove sarai",
+    "tra 6 mesi"
+   ],
+   "b": "La previsione di cassa in tre scenari, e quanto manca al limite del forfettario.",
+   "img": "s1/finance-forecast.png",
+   "iw": 2160,
+   "crop": [
+    405,
+    430,
+    1310,
+    918
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "Per il",
+    "commercialista"
+   ],
+   "items": [
+    [
+     "Excel di incassi e uscite",
+     "pronto da mandare"
+    ],
+    [
+     "Tutte le fatture in uno ZIP",
+     "con un clic"
+    ],
+    [
+     "Fatture da XML, ZIP o PDF",
+     "quelle senza XML le legge l'IA"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

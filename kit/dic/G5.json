@@ -1,0 +1,5 @@
+{"id":"G5_nutri_controllo","slides":[
+ {"type":"cover","bg":"light","lines":["Il paziente","non segue","[il piano?]"],"say":"Prima di cambiarlo, chiediglielo. 4 domande per il controllo."},
+ {"type":"list","bg":"light","t":["4 domande","al controllo"],"items":[["Quale pasto salti più spesso?","spesso il problema è lì, non nel piano"],["Cosa mangi quando sei fuori?","lavoro, cene, weekend"],["Quale alternativa ti è piaciuta?","usala di più"],["Cosa cambieresti tu?","un piano che sente suo lo segue meglio"]]},
+ {"type":"list","bg":"light","t":["E tra un controllo","e l'altro?"],"items":[["Ogni sera segna com'è andata","sì, in parte o no"],["Tu vedi l'aderenza","giorno per giorno"],["Al controllo parti dai dati","non dai ricordi"]]},
+ {"type":"end","t":["In arrivo","nel primo","trimestre <span style='color:#FF6A13'>2027</span>"],"s":"Per nutrizionisti, fisioterapisti e personal trainer. Entra in lista: ti avvisiamo al lancio.","p":"Lista d'attesa: link in bio"}]}

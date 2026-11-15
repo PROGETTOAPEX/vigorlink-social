@@ -1,0 +1,138 @@
+{
+ "id": "I3_giornata",
+ "bg": "orange",
+ "dur": 36.8,
+ "w1": 4.2,
+ "w2": 27.0,
+ "w3": 31.0,
+ "hook": [
+  "La tua",
+  "giornata",
+  "con",
+  "VigorLink."
+ ],
+ "hookSay": "Dalla scheda all'incasso, in mezzo minuto.",
+ "scenes": [
+  {
+   "type": "desk",
+   "at": 4.2,
+   "img": "n/showcase-pt-editor.png",
+   "iw": 2160,
+   "crop": [
+    400,
+    300,
+    1090
+   ],
+   "h": 960
+  },
+  {
+   "type": "phone",
+   "at": 8.0,
+   "img": "sc/showcase-athlete-workout.png"
+  },
+  {
+   "type": "phone",
+   "at": 11.8,
+   "img": "social-player-consigliato.png",
+   "marks": [
+    {
+     "at": 12.9,
+     "until": 15.2,
+     "x": 0.04,
+     "y": 0.445,
+     "w": 0.92,
+     "h": 0.135
+    }
+   ]
+  },
+  {
+   "type": "desk",
+   "at": 15.6,
+   "img": "sc/showcase-pt-athlete.png",
+   "iw": 2160,
+   "crop": [
+    400,
+    225,
+    1090
+   ],
+   "h": 960
+  },
+  {
+   "type": "desk",
+   "at": 19.4,
+   "img": "sc/showcase-pt-messages.png",
+   "iw": 2160,
+   "crop": [
+    400,
+    235,
+    1130
+   ],
+   "h": 960
+  },
+  {
+   "type": "desk",
+   "at": 23.2,
+   "img": "n/showcase-pt-finance.png",
+   "iw": 2160,
+   "crop": [
+    440,
+    555,
+    850
+   ],
+   "h": 930
+  }
+ ],
+ "caps": [
+  {
+   "at": 4.9,
+   "l": [
+    "Scrivi",
+    "la scheda."
+   ]
+  },
+  {
+   "at": 8.5,
+   "l": [
+    "Il cliente",
+    "la apre."
+   ]
+  },
+  {
+   "at": 12.3,
+   "l": [
+    "Si allena.",
+    "E tu lo sai."
+   ]
+  },
+  {
+   "at": 16.1,
+   "l": [
+    "Vedi",
+    "come va."
+   ]
+  },
+  {
+   "at": 19.9,
+   "l": [
+    "Vi scrivete",
+    "in app."
+   ]
+  },
+  {
+   "at": 23.7,
+   "l": [
+    "E incassi."
+   ]
+  }
+ ],
+ "marks": [],
+ "taps": [],
+ "recap": [
+  "Un'app.",
+  "Tre mestieri."
+ ],
+ "recapSay": "Personal trainer, fisioterapisti, nutrizionisti. E le persone che seguono.",
+ "endT": [],
+ "endS": "",
+ "endP": ""
+}

@@ -1,0 +1,5 @@
+{"id":"G4_fisio_casa","slides":[
+ {"type":"cover","bg":"black","lines":["Esercizi a casa","su un foglio","[fotocopiato?]"],"say":"E il paziente non sa se li sta facendo bene."},
+ {"type":"list","t":["Riabilitazione","a casa"],"items":[["Oltre 300 esercizi di riabilitazione","divisi per zona del corpo"],["I tuoi video dimostrativi","registrati dal telefono"],["Il dolore di ogni serie, da 0 a 10","nessun carico suggerito: decidi tu"]]},
+ {"type":"shot","t":["Il paziente","lo ha in tasca"],"b":"La seduta di oggi sul telefono, una serie alla volta.","bl":1,"phone":1,"img":"sc/showcase-patient-pain.png","pw":520},
+ {"type":"end","t":["In arrivo","nel primo","trimestre <span style='color:#FF6A13'>2027</span>"],"s":"Per fisioterapisti, personal trainer e nutrizionisti. Entra in lista: ti avvisiamo al lancio.","p":"Lista d'attesa: link in bio"}]}

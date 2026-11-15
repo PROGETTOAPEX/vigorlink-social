@@ -1,0 +1,73 @@
+{
+ "id": "L9_nutri_reel",
+ "dur": 25.0,
+ "w1": 4.8,
+ "w2": 16.4,
+ "w3": 20.8,
+ "hook": [
+  "Il piano",
+  "in PDF.",
+  "[E poi]",
+  "[silenzio?]"
+ ],
+ "hookSay": "Fino al controllo non sai se lo sta seguendo.",
+ "shotA": "showcase-nutri-patient-plan.png",
+ "shotB": "showcase-nutri-patient-plan.png",
+ "swap": 99,
+ "caps": [
+  {
+   "at": 5.6,
+   "l": [
+    "Il piano di oggi",
+    "è già lì."
+   ]
+  },
+  {
+   "at": 10.6,
+   "l": [
+    "Con le",
+    "alternative."
+   ]
+  }
+ ],
+ "marks": [
+  {
+   "at": 6.6,
+   "until": 10.2,
+   "x": 0.4,
+   "y": 0.428,
+   "w": 0.33,
+   "h": 0.06
+  },
+  {
+   "at": 11.6,
+   "until": 16.0,
+   "x": 0.03,
+   "y": 0.645,
+   "w": 0.94,
+   "h": 0.2
+  }
+ ],
+ "pan": [
+  {
+   "at": 10.4,
+   "y": -330
+  }
+ ],
+ "taps": [],
+ "recap": [
+  "Ogni sera",
+  "segna com'è",
+  "andata."
+ ],
+ "recapSay": "Sì, in parte o no. E tu vedi l'aderenza giorno per giorno.",
+ "endT": [
+  "In arrivo",
+  "nel primo",
+  "trimestre",
+  "<b>2027</b>"
+ ],
+ "endS": "Per nutrizionisti, fisioterapisti e personal trainer. Entra in lista: ti avvisiamo al lancio.",
+ "endP": "Lista d'attesa: link in bio",
+ "bg": "light"
+}

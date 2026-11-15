@@ -1,0 +1,79 @@
+{
+ "id": "M8_link",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "black",
+   "lines": [
+    "Perché",
+    "si chiama",
+    "[VigorLink?]"
+   ],
+   "say": "Perché collega te e chi alleni, anche quando non siete insieme."
+  },
+  {
+   "type": "list",
+   "t": [
+    "Dal cliente",
+    "a te"
+   ],
+   "items": [
+    [
+     "Manda il video della serie",
+     "dal Player o in chat, mentre si allena"
+    ],
+    [
+     "Tu lo guardi e lo commenti",
+     "quando hai tempo, da computer o telefono"
+    ],
+    [
+     "Lui vede che l'hai controllato",
+     "e legge la tua correzione"
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Ogni esercizio,",
+    "spiegato"
+   ],
+   "b": "I muscoli coinvolti sulla mappa del corpo e i passi per eseguirlo bene. Con il tuo video, se lo registri.",
+   "img": "n/showcase-athlete-exercise.png",
+   "phone": 1,
+   "pw": 520
+  },
+  {
+   "type": "list",
+   "bg": "light",
+   "t": [
+    "Da te",
+    "al cliente"
+   ],
+   "items": [
+    [
+     "Registri la dimostrazione",
+     "dal telefono, una volta sola"
+    ],
+    [
+     "I tuoi clienti vedono te",
+     "al posto del video dell'app"
+    ],
+    [
+     "La ritrovi in tutte le schede",
+     "ogni volta che usi quell'esercizio"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

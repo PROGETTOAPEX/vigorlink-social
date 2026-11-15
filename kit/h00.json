@@ -1,0 +1,78 @@
+{
+ "id": "H00",
+ "dur": 25.6,
+ "w1": 4.8,
+ "w2": 17.0,
+ "w3": 21.4,
+ "hook": [
+  "La scheda",
+  "in PDF su",
+  "WhatsApp?"
+ ],
+ "hookSay": "Persa tra i messaggi. I carichi a penna, se va bene.",
+ "shotA": "scheda-atleta.png",
+ "shotB": "social-player-consigliato.png",
+ "swap": 10.6,
+ "caps": [
+  {
+   "at": 5.6,
+   "l": [
+    "Con VigorLink",
+    "è in tasca."
+   ]
+  },
+  {
+   "at": 9.6,
+   "l": [
+    "Un tocco."
+   ]
+  },
+  {
+   "at": 11.8,
+   "l": [
+    "E il carico",
+    "è già scritto."
+   ]
+  }
+ ],
+ "marks": [
+  {
+   "at": 6.6,
+   "until": 9.4,
+   "x": 0.04,
+   "y": 0.435,
+   "w": 0.92,
+   "h": 0.195
+  },
+  {
+   "at": 12.4,
+   "until": 16.6,
+   "x": 0.04,
+   "y": 0.445,
+   "w": 0.92,
+   "h": 0.135
+  }
+ ],
+ "taps": [
+  {
+   "at": 10.0,
+   "x": 0.815,
+   "y": 0.582
+  }
+ ],
+ "recap": [
+  "Addio PDF.",
+  "Ogni serie",
+  "registrata."
+ ],
+ "recapSay": "Il PDF si perde in chat. L'app no.",
+ "endT": [
+  "In arrivo",
+  "nel primo",
+  "trimestre",
+  "<b>2027</b>"
+ ],
+ "endS": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+ "endP": "Lista Fondatori: link in bio",
+ "bg": "orange"
+}

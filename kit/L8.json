@@ -1,0 +1,85 @@
+{
+ "id": "L8_nutri",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Il piano",
+    "in PDF.",
+    "[E poi?]"
+   ],
+   "say": "Fino al controllo non sai se lo sta seguendo.",
+   "bg": "black"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Il piano",
+    "lo scrivi in app"
+   ],
+   "b": "Giornate, pasti, alternative «oppure» e obiettivo di calorie. Ogni modifica è una nuova versione.",
+   "img": "sc/showcase-nutri-plan.png",
+   "iw": 2160,
+   "crop": [
+    430,
+    560,
+    1100,
+    800
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Il paziente",
+    "lo ha in tasca"
+   ],
+   "b": "Il piano di oggi, già pronto sul telefono.",
+   "bl": 1,
+   "phone": 1,
+   "img": "sc/showcase-nutri-patient-plan.png",
+   "pw": 520,
+   "hl": [
+    [
+     0.4,
+     0.43,
+     0.32,
+     0.055
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "E tu vedi",
+    "come va"
+   ],
+   "b": "Ogni sera il paziente segna: sì, in parte o no. Tu vedi l'aderenza giorno per giorno.",
+   "img": "sc/showcase-nutri-plan.png",
+   "iw": 2160,
+   "crop": [
+    430,
+    240,
+    1100,
+    320
+   ],
+   "hl": [
+    [
+     440,
+     378,
+     1000,
+     150
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Per nutrizionisti, fisioterapisti e personal trainer. Entra in lista: ti avvisiamo al lancio.",
+   "p": "Lista d'attesa: link in bio"
+  }
+ ]
+}

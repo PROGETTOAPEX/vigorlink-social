@@ -1,0 +1,94 @@
+{
+ "id": "I1_cose",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "Cos'è",
+    "VigorLink?"
+   ],
+   "say": "L'app italiana per chi segue persone: clienti, schede, messaggi e pagamenti in un posto solo."
+  },
+  {
+   "type": "hero",
+   "t": [
+    "Tutti i tuoi clienti,",
+    "in una pagina"
+   ],
+   "b": "Vedi subito chi è da programmare, chi si è fermato e chi aspetta una risposta.",
+   "img": "s1/social-athletes.png",
+   "iw": 2160,
+   "at": [
+    400,
+    225
+   ],
+   "z": 0.86
+  },
+  {
+   "type": "hero",
+   "t": [
+    "Scrivi le schede",
+    "in pochi minuti"
+   ],
+   "b": "Giornate, esercizi dal catalogo, serie e recuperi. Poi le assegni con un clic.",
+   "img": "n/showcase-pt-editor.png",
+   "iw": 2160,
+   "at": [
+    400,
+    300
+   ],
+   "z": 0.92
+  },
+  {
+   "type": "hero",
+   "phone": 1,
+   "t": [
+    "Il tuo cliente",
+    "ha tutto in tasca"
+   ],
+   "b": "La scheda di oggi, i messaggi, gli appuntamenti e i pagamenti.",
+   "img": "sc/showcase-athlete-home.png"
+  },
+  {
+   "type": "hero",
+   "t": [
+    "Vi scrivete",
+    "dentro l'app"
+   ],
+   "b": "Una chat per ogni cliente, i gruppi, i vocali. Niente più numeri personali.",
+   "img": "sc/showcase-pt-messages.png",
+   "iw": 2160,
+   "at": [
+    400,
+    235
+   ],
+   "z": 0.9
+  },
+  {
+   "type": "hero",
+   "t": [
+    "Incassi e conti,",
+    "sotto controllo"
+   ],
+   "b": "Chi ha pagato, cosa scade e quanto hai incassato questo mese.",
+   "img": "n/showcase-pt-finance.png",
+   "iw": 2160,
+   "at": [
+    440,
+    555
+   ],
+   "z": 1.2
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Per personal trainer, fisioterapisti e nutrizionisti. Entra in lista: ti avvisiamo al lancio.",
+   "p": "Lista d'attesa: link in bio"
+  }
+ ]
+}

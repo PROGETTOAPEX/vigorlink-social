@@ -1,0 +1,191 @@
+{
+ "id": "P3_perchi",
+ "cover": {
+  "tag": "3 di 3",
+  "top": 260,
+  "lines": [
+   "Per chi è",
+   "VigorLink?"
+  ],
+  "say": "Personal trainer, fisioterapisti, nutrizionisti. Da soli, in studio o per chi si allena in autonomia."
+ },
+ "slides": [
+  {
+   "t": [
+    "Personal",
+    "<span>trainer</span>"
+   ],
+   "b": "Schede, allenamenti, progressi e incassi di ogni atleta.",
+   "pc": "sc/showcase-pt-athlete.png",
+   "ph": "social-player-consigliato.png",
+   "ext": [
+    "Personal trainer"
+   ],
+   "ex": [
+    [
+     "Schede e Player",
+     "carico consigliato, recupero e record"
+    ],
+    [
+     "Progressi e confronto",
+     "dei tuoi atleti, allenamento per allenamento"
+    ],
+    [
+     "Pagamenti e conti",
+     "abbonamenti, pacchetti e forfettario"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Fisioterapisti"
+   ],
+   "b": "Valutazioni, dolore serie per serie, consensi e relazione per il medico.",
+   "pc": "n/showcase-physio-patient.png",
+   "ph": "sc/showcase-patient-home.png",
+   "ext": [
+    "Fisioterapisti"
+   ],
+   "ex": [
+    [
+     "Valutazioni",
+     "ROM, forza, dolore e test sulla mappa del corpo"
+    ],
+    [
+     "A casa",
+     "il paziente segna il dolore da 0 a 10 per ogni serie"
+    ],
+    [
+     "Documenti",
+     "consenso dal telefono e relazione per il medico"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Nutrizionisti"
+   ],
+   "b": "Piani con le alternative, e ogni giorno sai se il paziente li segue.",
+   "pc": "sc/showcase-nutri-plan.png",
+   "ph": "sc/showcase-nutri-patient-plan.png",
+   "ext": [
+    "Nutrizionisti"
+   ],
+   "ex": [
+    [
+     "Piani alimentari",
+     "giornate, pasti e alternative «oppure»"
+    ],
+    [
+     "Aderenza",
+     "ogni sera il paziente segna sì, in parte o no"
+    ],
+    [
+     "Misure",
+     "pliche e bioimpedenza nel tempo"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Chi si allena",
+    "<span>da solo</span>"
+   ],
+   "b": "Anche senza un professionista: le tue schede e il Player.",
+   "ph": "n/showcase-athlete-exercise.png",
+   "ph2": "social-player-consigliato.png",
+   "ext": [
+    "In autonomia"
+   ],
+   "ex": [
+    [
+     "Scrivi le tue schede",
+     "con lo stesso editor e il catalogo esercizi"
+    ],
+    [
+     "Player",
+     "carico consigliato e recupero automatico"
+    ],
+    [
+     "Progressi",
+     "carichi, massimali e misure nel tempo"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Studi con più",
+    "<span>professionisti</span>"
+   ],
+   "b": "Ognuno vede solo i clienti che gli assegni.",
+   "pc": "s1/settings-team.png",
+   "ext": [
+    "Studi"
+   ],
+   "ex": [
+    [
+     "Collaboratori con permessi",
+     "segreteria, reception, coach"
+    ],
+    [
+     "Clienti assegnati",
+     "ognuno vede solo i suoi"
+    ],
+    [
+     "I conti restano tuoi",
+     "i numeri economici li vedi solo tu"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Chi usa già",
+    "<span>un altro programma</span>"
+   ],
+   "b": "Clienti da Excel, schede lette dall'IA: non ricopi niente.",
+   "pc": "n/showcase-pt-import.png",
+   "ext": [
+    "Cambio programma"
+   ],
+   "ex": [
+    [
+     "Clienti da Excel o CSV",
+     "account e inviti in un colpo solo"
+    ],
+    [
+     "Schede lette dall'IA",
+     "da PDF, Word, Excel, foto o testo"
+    ],
+    [
+     "Fatture da XML o ZIP",
+     "dal tuo programma di fatturazione"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Community:",
+    "<span>al lancio</span>"
+   ],
+   "b": "Chi cerca un professionista vicino trova te.",
+   "pc": "s1/social-community.png",
+   "ext": [
+    "Community"
+   ],
+   "ex": [
+    [
+     "Ricerca per zona",
+     "per professione, anche sulla mappa"
+    ],
+    [
+     "Solo qualifiche verificate",
+     "mai posizioni a pagamento"
+    ],
+    [
+     "Gruppi e sfide",
+     "i tuoi clienti si allenano insieme"
+    ]
+   ]
+  }
+ ]
+}

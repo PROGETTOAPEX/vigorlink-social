@@ -1,0 +1,87 @@
+{
+ "id": "L5_import",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Cambiare app",
+    "vuol dire",
+    "ricopiare",
+    "40 schede?"
+   ],
+   "say": "È il motivo per cui tanti PT restano dove sono.",
+   "bg": "orange"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Le legge",
+    "l'IA"
+   ],
+   "b": "Da PDF, Excel, Word, foto o testo incollato. Prepara la bozza: niente si salva senza il tuo via.",
+   "img": "sc/showcase-pt-import.png",
+   "iw": 2160,
+   "crop": [
+    440,
+    460,
+    1220,
+    460
+   ],
+   "hl": [
+    [
+     456,
+     482,
+     1200,
+     280
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Poi la sistemi",
+    "in un attimo"
+   ],
+   "b": "Esercizi, serie, ripetizioni e recuperi, giornata per giornata.",
+   "img": "sc/showcase-pt-editor.png",
+   "iw": 2160,
+   "crop": [
+    430,
+    880,
+    1000,
+    470
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "Ti porti",
+    "dietro tutto"
+   ],
+   "items": [
+    [
+     "Atleti da Excel o CSV",
+     "l'elenco che hai già, senza inserirli uno a uno"
+    ],
+    [
+     "Schede da PDF, Excel, Word o foto",
+     "l'IA prepara la bozza, tu controlli"
+    ],
+    [
+     "Fatture da XML, ZIP o PDF",
+     "incassi e uscite collegati ai clienti"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

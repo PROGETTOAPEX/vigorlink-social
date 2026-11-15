@@ -1,0 +1,97 @@
+{
+ "id": "M0_manifesto",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "Allena di più.",
+    "Gestisci",
+    "di meno."
+   ],
+   "say": "L'app italiana per personal trainer, fisioterapisti e nutrizionisti. Ecco cosa fa."
+  },
+  {
+   "type": "list",
+   "t": [
+    "Il lavoro",
+    "con i clienti"
+   ],
+   "items": [
+    [
+     "Schede in una riga",
+     "«Squat 5x5 75% 3′» ed è fatta"
+    ],
+    [
+     "Il Player in palestra",
+     "carico consigliato e recupero che parte da solo"
+    ],
+    [
+     "Video avanti e indietro",
+     "il cliente ti manda la serie, tu la correggi"
+    ],
+    [
+     "Confronto allenamenti",
+     "serie per serie, con le frecce"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "bg": "light",
+   "t": [
+    "Lo studio",
+    "che gira da solo"
+   ],
+   "items": [
+    [
+     "Automazioni e comunicazioni",
+     "messaggi ed email che partono quando serve"
+    ],
+    [
+     "Chi sta per mollare",
+     "te lo dice l'app, prima che succeda"
+    ],
+    [
+     "Pagamenti e Finance",
+     "forfettario e F24 stimati, pronto per il commercialista"
+    ],
+    [
+     "Il tuo marchio",
+     "sito, biglietto da visita e logo nell'app del cliente"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "E per chi",
+    "cambia app"
+   ],
+   "items": [
+    [
+     "Atleti da Excel",
+     "li importi in un colpo"
+    ],
+    [
+     "Schede lette dall'IA",
+     "da PDF, Word, Excel, foto o testo"
+    ],
+    [
+     "Fatture da XML o ZIP",
+     "i PDF li legge l'IA"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Per personal trainer, fisioterapisti e nutrizionisti. Segui il profilo: ogni post è una funzione, con le schermate vere.",
+   "p": "Lista d'attesa: link in bio"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "id": "P2_cosafa",
+ "cover": {
+  "tag": "2 di 3",
+  "top": 260,
+  "lines": [
+   "Cosa fa",
+   "al posto",
+   "tuo?"
+  ],
+  "say": "Agenda, messaggi, conti: il tuo studio va avanti mentre alleni."
+ },
+ "slides": [
+  {
+   "t": [
+    "La tua settimana,",
+    "<span>in ordine</span>"
+   ],
+   "b": "Appuntamenti, lezioni e Google Calendar collegato nei due sensi.",
+   "pc": "sc/showcase-pt-calendar.png",
+   "ph": "sc/showcase-athlete-home.png",
+   "ext": [
+    "Agenda"
+   ],
+   "ex": [
+    [
+     "Appuntamenti e lezioni",
+     "vista giorno, settimana, mese e planning"
+    ],
+    [
+     "Google Calendar nei due sensi",
+     "i tuoi impegni bloccano gli orari da soli"
+    ],
+    [
+     "In ferie, nessuno prenota",
+     "e chi è in pausa non perde la sua serie di settimane"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "I messaggi",
+    "<span>partono da soli</span>"
+   ],
+   "b": "Il benvenuto, il controllo dopo 7 giorni, il «come va?» a chi si è fermato.",
+   "pc": "s1/social-workflow-design-1.png",
+   "ext": [
+    "Automazioni"
+   ],
+   "ex": [
+    [
+     "Partono quando succede qualcosa",
+     "nuovo cliente, nuovo record, 7 giorni senza allenarsi"
+    ],
+    [
+     "Si fermano se il cliente risponde",
+     "e, se vuoi, approvi tu ogni messaggio"
+    ],
+    [
+     "Comunicazioni",
+     "avvisi, eventi e promozioni in chat o per email"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Chi sta per mollare,",
+    "<span>lo sai prima</span>"
+   ],
+   "b": "Un punteggio per ogni cliente ti dice chi richiamare.",
+   "pc": "s1/pt-athletes-health.png",
+   "ext": [
+    "Fidelizzazione"
+   ],
+   "ex": [
+    [
+     "Un punteggio per ogni cliente",
+     "allenamenti, appuntamenti, pagamenti e messaggi"
+    ],
+    [
+     "A rischio, in attenzione, fidelizzato",
+     "con il pulsante per riagganciarlo"
+    ],
+    [
+     "Quanto fatturato è a rischio",
+     "lo vedi in Finance"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Chiedi.",
+    "<span>Risponde con i nomi.</span>"
+   ],
+   "b": "«Chi è il più costante?» Scrivilo come lo diresti a un collega.",
+   "pc": "s1/pt-ask-answer.png",
+   "ext": [
+    "Fai una domanda"
+   ],
+   "ex": [
+    [
+     "A parole tue, anche a voce",
+     "«Chi non si allena da troppo tempo?»"
+    ],
+    [
+     "Nomi e numeri",
+     "un elenco, una classifica o un grafico"
+    ],
+    [
+     "La tieni nella Home",
+     "se ti serve ogni giorno"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Forfettario, F24, INPS:",
+    "<span>già calcolati</span>"
+   ],
+   "b": "Tasse e scadenze stimate, tutto pronto per il commercialista.",
+   "pc": "s1/finance-taxes.png",
+   "ext": [
+    "Finance"
+   ],
+   "ex": [
+    [
+     "Incassi e uscite",
+     "in una pagina, con la previsione di cassa"
+    ],
+    [
+     "Regime forfettario",
+     "ATECO, coefficiente e aliquote anno per anno"
+    ],
+    [
+     "Per il commercialista",
+     "Excel dei conti e fatture in un file ZIP"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Con il tuo logo",
+    "<span>e i tuoi colori</span>"
+   ],
+   "b": "Nell'app del cliente e nei PDF delle schede.",
+   "pc": "s1/settings-brand.png",
+   "ext": [
+    "Il tuo marchio"
+   ],
+   "ex": [
+    [
+     "Logo e colore",
+     "li vedono i tuoi clienti nell'app"
+    ],
+    [
+     "PDF delle schede",
+     "con il tuo logo"
+    ],
+    [
+     "Biglietto da visita digitale",
+     "con QR code e contatto da salvare"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "E se vuoi,",
+    "<span>il tuo sito</span>"
+   ],
+   "b": "Una pagina tua: chi ti trova ti scrive o prenota la prima consulenza.",
+   "pc": "s1/social-site.png",
+   "ext": [
+    "Il tuo sito"
+   ],
+   "ex": [
+    [
+     "vigorlink.it/p/il-tuo-nome",
+     "scegli uno stile e scrivi i tuoi testi"
+    ],
+    [
+     "Prenotazioni in agenda",
+     "la prima consulenza arriva nel tuo calendario"
+    ],
+    [
+     "È un extra",
+     "lo aggiungi al piano quando vuoi"
+    ]
+   ]
+  }
+ ]
+}

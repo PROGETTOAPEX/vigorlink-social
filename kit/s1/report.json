@@ -1,0 +1,259 @@
+{
+  "at": "2026-11-15T18:42:20.245Z",
+  "base": "https://www.vigorlink.it",
+  "shots": [
+    {
+      "name": "pt-ask-answer",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-chart-new-sentence",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-athletes-health",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-athlete-videos",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-session-detail",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-compare",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-compare-full",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-athlete-health",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-athlete-videos",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-import-athletes",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-import-workouts",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-editor-quick",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-editor-blocks",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-editor-weeks",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "pt-catalog-exercise",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "campaigns",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-dashboard-risk",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-import-xml",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-import-ai",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-forecast",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-offers",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-tax-profile",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "finance-taxes",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-workflow-design-0",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-workflow-design-1",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-workflow-design-2",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "copilot-compose",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "settings-brand",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "settings-team",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "settings-team-add",
+      "ok": false,
+      "marks": 0,
+      "expected": 0,
+      "error": "locator.click: Timeout 8000ms exceeded."
+    },
+    {
+      "name": "settings-business-card",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-site",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-community",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-home",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-athletes",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "social-integrations",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "athlete-home",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "showcase-athlete-home",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "athlete-home-workouts",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "athlete-home-charts",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "athlete-home-payments",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    },
+    {
+      "name": "athlete-videos",
+      "ok": true,
+      "marks": 0,
+      "expected": 0
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+ "id": "M7_confronto",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "light",
+   "lines": [
+    "Sta migliorando",
+    "[davvero?]"
+   ],
+   "say": "Non ricordartelo: guardalo. Il confronto allenamenti di VigorLink."
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Fianco",
+    "a fianco"
+   ],
+   "b": "Da 2 a 4 allenamenti della stessa scheda: una colonna per data, le frecce dicono cosa è cambiato.",
+   "img": "s1/social-compare.png",
+   "iw": 2160,
+   "crop": [
+    414,
+    234,
+    1692,
+    880
+   ],
+   "hl": [
+    [
+     1000,
+     810,
+     1080,
+     90
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Serie",
+    "per serie"
+   ],
+   "b": "Ogni casella confrontata con la volta prima: ↑ quando sale, ↓ quando scende.",
+   "img": "s1/social-compare.png",
+   "iw": 2160,
+   "crop": [
+    414,
+    980,
+    1692,
+    370
+   ]
+  },
+  {
+   "type": "list",
+   "bg": "light",
+   "t": [
+    "E con",
+    "un clic"
+   ],
+   "items": [
+    [
+     "Apri quell'allenamento",
+     "senza uscire dal confronto"
+    ],
+    [
+     "Guardi il video della serie",
+     "se l'atleta l'ha mandato"
+    ],
+    [
+     "Per i fisioterapisti",
+     "stessa griglia, colori neutri: nessun giudizio"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

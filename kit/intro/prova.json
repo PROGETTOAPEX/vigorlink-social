@@ -1,0 +1,30 @@
+{
+ "id": "prova_scena",
+ "n": 7,
+ "slides": [
+  {
+   "i": 2,
+   "t": [
+    "I tuoi clienti,",
+    "<span>in una pagina</span>"
+   ],
+   "b": "Tu dal computer. Loro dal telefono.",
+   "laptop": {
+    "img": "s1/social-athletes.png",
+    "x": 40,
+    "y": 470,
+    "w": 900,
+    "ry": 10,
+    "rx": 2
+   },
+   "phone": {
+    "img": "sc/showcase-athlete-home.png",
+    "x": 690,
+    "y": 560,
+    "w": 340,
+    "ry": -12,
+    "rx": 2
+   }
+  }
+ ]
+}

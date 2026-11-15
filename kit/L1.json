@@ -1,0 +1,92 @@
+{
+ "id": "L1_intro",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Tre mestieri.",
+    "Un'app sola."
+   ],
+   "say": "Per personal trainer, fisioterapisti e nutrizionisti. Italiana, in arrivo nel primo trimestre 2027.",
+   "bg": "orange"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Personal",
+    "trainer"
+   ],
+   "b": "Schede, atleti, sessioni e pagamenti nello stesso posto.",
+   "img": "sc/showcase-pt-editor.png",
+   "iw": 2160,
+   "crop": [
+    420,
+    240,
+    1000,
+    1110
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Fisio-",
+    "terapisti"
+   ],
+   "b": "Pazienti, valutazioni, note di seduta e consensi. Con le parole giuste: paziente e seduta.",
+   "img": "sc/showcase-physio-patient.png",
+   "iw": 2160,
+   "crop": [
+    990,
+    440,
+    1080,
+    910
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Nutri-",
+    "zionisti"
+   ],
+   "b": "Il piano alimentare in app. Il paziente segna com'è andata, tu vedi l'aderenza.",
+   "img": "sc/showcase-nutri-plan.png",
+   "iw": 2160,
+   "crop": [
+    430,
+    240,
+    1100,
+    900
+   ],
+   "hl": [
+    [
+     440,
+     378,
+     1000,
+     150
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "E il tuo",
+    "cliente?"
+   ],
+   "b": "Ha tutto sul telefono: scheda, piano, messaggi, pagamenti.",
+   "bl": 1,
+   "phone": 1,
+   "img": "sc/showcase-athlete-home.png",
+   "pw": 500
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Entra in lista dal link in bio: ti avvisiamo al lancio. I primi 25 personal trainer che si abbonano diventano Fondatori.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "M2_editor",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "Una riga.",
+    "La scheda",
+    "è fatta."
+   ],
+   "say": "Scrivi «Stacco rumeno 4x8 RIR 2 90s» e tutto va al suo posto."
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Scrivi come",
+    "parli"
+   ],
+   "b": "Premi Invio: esercizio dal catalogo, serie, RIR e recupero sono già compilati.",
+   "img": "s1/pt-editor-quick.png",
+   "iw": 2160,
+   "crop": [
+    418,
+    380,
+    1283,
+    560
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Serie per muscolo,",
+    "già contate"
+   ],
+   "b": "Il riepilogo ti dice quante serie fa ogni muscolo a settimana. Vedi subito cosa manca.",
+   "img": "s1/../n/showcase-pt-volume.png",
+   "iw": 2160,
+   "crop": [
+    390,
+    770,
+    1140,
+    380
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "E quando",
+    "ti serve di più"
+   ],
+   "items": [
+    [
+     "+ Blocco",
+     "superserie, AMRAP, EMOM e Tabata, salvati per riusarli"
+    ],
+    [
+     "Settimane",
+     "la periodizzazione, settimana per settimana"
+    ],
+    [
+     "Versioni",
+     "ogni salvataggio resta: vedi cosa è cambiato e torni indietro"
+    ],
+    [
+     "Oltre 1.000 esercizi",
+     "con i muscoli sulla mappa del corpo"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

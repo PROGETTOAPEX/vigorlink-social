@@ -1,0 +1,86 @@
+{
+ "id": "player",
+ "dur": 24.6,
+ "w1": 4.8,
+ "w2": 17.0,
+ "w3": 20.4,
+ "hook": [
+  "Quanto",
+  "avevi fatto",
+  "[l'ultima]",
+  "[volta?]"
+ ],
+ "hookSay": "In VigorLink è già scritto sulla serie.",
+ "shotA": "social-player-consigliato.png",
+ "shotB": "social-player-recupero.png",
+ "swap": 10.6,
+ "caps": [
+  {
+   "at": 5.6,
+   "l": [
+    "Il carico",
+    "è già scritto."
+   ]
+  },
+  {
+   "at": 9.6,
+   "l": [
+    "Un tocco."
+   ]
+  },
+  {
+   "at": 11.8,
+   "l": [
+    "Il recupero",
+    "parte da solo."
+   ]
+  }
+ ],
+ "marks": [
+  {
+   "at": 6.6,
+   "until": 9.4,
+   "x": 0.04,
+   "y": 0.445,
+   "w": 0.92,
+   "h": 0.135
+  },
+  {
+   "at": 12.6,
+   "until": 16.6,
+   "x": 0.02,
+   "y": 0.836,
+   "w": 0.96,
+   "h": 0.088
+  }
+ ],
+ "taps": [
+  {
+   "at": 10.0,
+   "x": 0.853,
+   "y": 0.541
+  }
+ ],
+ "recap": [
+  "Un tocco.",
+  "Serie fatta.",
+  "Timer",
+  "partito."
+ ],
+ "recapSay": "Il tuo cliente pensa solo ad allenarsi.",
+ "endT": [
+  "In arrivo",
+  "nel primo",
+  "trimestre",
+  "<b>2027</b>"
+ ],
+ "endS": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+ "endP": "Lista Fondatori: link in bio",
+ "pan": [
+  {
+   "at": 11.4,
+   "y": -500
+  }
+ ],
+ "bg": "light"
+}

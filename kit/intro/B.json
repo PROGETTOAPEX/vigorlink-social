@@ -1,0 +1,74 @@
+{
+ "id": "I2_perchi",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "Per chi è",
+    "VigorLink?"
+   ],
+   "say": "Tre mestieri, un'app sola. E dall'altra parte, le persone che segui."
+  },
+  {
+   "type": "hero",
+   "t": [
+    "Personal",
+    "trainer"
+   ],
+   "b": "Schede, allenamenti, progressi e pagamenti di ogni atleta, in una pagina.",
+   "img": "sc/showcase-pt-athlete.png",
+   "iw": 2160,
+   "at": [
+    400,
+    225
+   ],
+   "z": 0.9
+  },
+  {
+   "type": "hero",
+   "phone": 1,
+   "t": [
+    "Fisioterapisti"
+   ],
+   "b": "Consensi e questionari arrivano sul telefono del paziente. Tu hai valutazioni, diario delle sedute e relazione per il medico.",
+   "img": "sc/showcase-patient-home.png",
+   "top": 400
+  },
+  {
+   "type": "hero",
+   "t": [
+    "Nutrizionisti"
+   ],
+   "b": "Piani con pasti e alternative. E ogni giorno vedi se il paziente li sta seguendo.",
+   "img": "sc/showcase-nutri-plan.png",
+   "iw": 2160,
+   "at": [
+    400,
+    290
+   ],
+   "z": 1.05,
+   "top": 400
+  },
+  {
+   "type": "hero",
+   "phone": 1,
+   "t": [
+    "E le persone",
+    "che segui"
+   ],
+   "b": "Aprono l'app e sanno cosa fare oggi: la scheda, la settimana, un messaggio a chi li segue.",
+   "img": "sc/showcase-athlete-workout.png"
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Per personal trainer, fisioterapisti e nutrizionisti. Entra in lista: ti avvisiamo al lancio.",
+   "p": "Lista d'attesa: link in bio"
+  }
+ ]
+}

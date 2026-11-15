@@ -1,0 +1,101 @@
+{
+ "id": "L4_pagamenti",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "«Ti pago",
+    "la prossima",
+    "[settimana.»]"
+   ],
+   "say": "Rincorrere i pagamenti è un lavoro che nessuno ti paga.",
+   "bg": "light"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Sai chi",
+    "deve pagare"
+   ],
+   "b": "Incassato del mese, da incassare e scaduti in una schermata.",
+   "img": "sc/showcase-pt-finance.png",
+   "iw": 2160,
+   "crop": [
+    1350,
+    540,
+    720,
+    400
+   ],
+   "hl": [
+    [
+     1370,
+     552,
+     330,
+     190
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Il cliente",
+    "lo vede in app"
+   ],
+   "b": "«Hai un pagamento da fare»: paga con carta, oppure segnala bonifico, contanti, PayPal o Satispay.",
+   "phone": 1,
+   "img": "sc/showcase-athlete-home.png",
+   "pw": 520,
+   "hl": [
+    [
+     0.04,
+     0.22,
+     0.92,
+     0.1
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "E le",
+    "scadenze?"
+   ],
+   "items": [
+    [
+     "Avviso a te 7 giorni prima",
+     "della fine del pacchetto"
+    ],
+    [
+     "Avviso se un pagamento",
+     "è in ritardo"
+    ],
+    [
+     "Il cliente vede la data",
+     "nell'app, senza chiedertela"
+    ]
+   ],
+   "bg": "light"
+  },
+  {
+   "type": "stat",
+   "t": [
+    "Quanto",
+    "trattiene",
+    "VigorLink?"
+   ],
+   "v": "0 €",
+   "l": "sui tuoi incassi. I soldi arrivano a te.",
+   "note": "Restano solo le commissioni del circuito che usi, per esempio Stripe."
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

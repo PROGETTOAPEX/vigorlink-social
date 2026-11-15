@@ -1,0 +1,5 @@
+{"id":"G1_gcal","slides":[
+ {"type":"cover","bg":"black","lines":["Google Calendar,","[nei due sensi.]"],"say":"Gli appuntamenti VigorLink nel tuo Google. I tuoi impegni in VigorLink."},
+ {"type":"shot","t":["La tua agenda","in VigorLink"],"b":"Lezioni, valutazioni e check-in: giorno, settimana, planning o agenda.","img":"sc/showcase-pt-calendar.png","iw":2160,"crop":[884,260,1226,1050]},
+ {"type":"list","t":["Collegata a","Google Calendar"],"items":[["Gli appuntamenti finiscono nel tuo Google","in un calendario «VigorLink»: creati, spostati, annullati"],["I tuoi impegni arrivano come «Occupato»","mai titoli né dettagli"],["I clienti non prenotano quando sei occupato","niente sovrapposizioni"]]},
+ {"type":"end","t":["In arrivo","nel primo","trimestre <span style='color:#FF6A13'>2027</span>"],"s":"I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.","p":"Lista Fondatori: link in bio"}]}

@@ -1,0 +1,73 @@
+{
+ "id": "M6_fidelizzazione",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "light",
+   "lines": [
+    "Il cliente",
+    "che molla",
+    "[non te lo dice.]"
+   ],
+   "say": "VigorLink sì. Prima che succeda."
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Un punteggio",
+    "per ogni cliente"
+   ],
+   "b": "Allenamenti, appuntamenti, pagamenti e messaggi senza risposta: chi è a rischio sale in cima, con «Riaggancia».",
+   "img": "s1/pt-athletes-health.png",
+   "iw": 2160,
+   "crop": [
+    390,
+    580,
+    1350,
+    770
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Chiedilo",
+    "a parole tue"
+   ],
+   "b": "«Chi è il più costante?» La risposta arriva con i nomi, e con un tocco scrivi a tutti.",
+   "img": "s1/pt-ask-answer.png",
+   "iw": 2160,
+   "crop": [
+    601,
+    177,
+    960,
+    707
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Quanto fatturato",
+    "è a rischio"
+   ],
+   "b": "In Finance vedi quanto valgono i clienti che il punteggio segnala.",
+   "img": "s1/finance-dashboard-risk.png",
+   "iw": 2160,
+   "crop": [
+    405,
+    240,
+    1310,
+    800
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

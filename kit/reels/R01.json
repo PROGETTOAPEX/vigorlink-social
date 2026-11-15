@@ -1,0 +1,191 @@
+{
+ "id": "R01_scheda",
+ "bg": "light",
+ "dur": 39.5,
+ "w1": 2.4,
+ "w2": 35.0,
+ "w3": 38.5,
+ "hook": [
+  "La scheda",
+  "in [8 mosse.]"
+ ],
+ "hookSay": "L'editor di VigorLink, visto dal vero.",
+ "scenes": [
+  {
+   "type": "laptop",
+   "at": 2.4,
+   "dir": "vid/ed",
+   "n": 260,
+   "fps": 40,
+   "delay": 0.8,
+   "top": 520,
+   "crop": [
+    14,
+    150,
+    1130
+   ],
+   "iw": 1440
+  },
+  {
+   "type": "laptop",
+   "at": 10.0,
+   "img": "s1/pt-catalog-exercise.png",
+   "iw": 2160,
+   "crop": [
+    560,
+    40,
+    1040
+   ],
+   "top": 520
+  },
+  {
+   "type": "laptop",
+   "at": 13.6,
+   "img": "s1/pt-editor-blocks.png",
+   "iw": 2160,
+   "crop": [
+    590,
+    160,
+    990
+   ],
+   "top": 520
+  },
+  {
+   "type": "laptop",
+   "at": 17.2,
+   "img": "ed/04-video.png",
+   "iw": 1440,
+   "crop": [
+    190,
+    185,
+    560
+   ],
+   "top": 520
+  },
+  {
+   "type": "laptop",
+   "at": 20.8,
+   "img": "ed/09-copia-atleta.png",
+   "iw": 1440,
+   "crop": [
+    400,
+    150,
+    640
+   ],
+   "top": 520
+  },
+  {
+   "type": "laptop",
+   "at": 24.4,
+   "img": "ed/08-giornata-menu.png",
+   "iw": 1440,
+   "crop": [
+    600,
+    440,
+    580
+   ],
+   "top": 520
+  },
+  {
+   "type": "laptop",
+   "at": 28.0,
+   "img": "ed/13-dubbio.png",
+   "iw": 1440,
+   "crop": [
+    296,
+    285,
+    720
+   ],
+   "top": 520
+  },
+  {
+   "type": "phone",
+   "at": 31.6,
+   "img": "sc/showcase-athlete-workout.png"
+  }
+ ],
+ "caps": [
+  {
+   "at": 2.9,
+   "l": [
+    "Scrivi",
+    "come parli."
+   ],
+   "sub": "«Stacco rumeno 4x8 RIR 2 90s»<br>Niente menu, niente caselle."
+  },
+  {
+   "at": 6.6,
+   "l": [
+    "VigorLink",
+    "la capisce."
+   ],
+   "sub": "Esercizio, serie, ripetizioni, intensità e recupero: compilati da soli."
+  },
+  {
+   "at": 10.5,
+   "l": [
+    "1.000",
+    "esercizi."
+   ],
+   "sub": "Con muscoli e istruzioni. E aggiungi i tuoi, con il tuo video."
+  },
+  {
+   "at": 14.1,
+   "l": [
+    "Blocchi",
+    "pronti."
+   ],
+   "sub": "Superserie, AMRAP, EMOM, For Time, Tabata."
+  },
+  {
+   "at": 17.7,
+   "l": [
+    "Chiedi",
+    "il video."
+   ],
+   "sub": "Una volta, nei primi allenamenti o sempre. L'atleta lo gira dal Player."
+  },
+  {
+   "at": 21.3,
+   "l": [
+    "Copia",
+    "la giornata."
+   ],
+   "sub": "Scegli gli esercizi e incollali nella scheda di un altro atleta."
+  },
+  {
+   "at": 24.9,
+   "l": [
+    "Una disciplina",
+    "per giornata."
+   ],
+   "sub": "Bodybuilding, powerlifting, calisthenics, funzionale, corsa, pilates."
+  },
+  {
+   "at": 28.5,
+   "l": [
+    "Hai un",
+    "dubbio?"
+   ],
+   "sub": "Chiedi come impostare una serie: risponde passo per passo, senza toccare la scheda."
+  },
+  {
+   "at": 32.1,
+   "l": [
+    "E il cliente",
+    "ce l'ha già."
+   ]
+  }
+ ],
+ "marks": [],
+ "taps": [],
+ "recap": [
+  "Scrivi meno.",
+  "[Allena]",
+  "[di più.]"
+ ],
+ "recapSay": "L'editor di VigorLink: fatto per chi scrive schede ogni giorno.",
+ "endT": [],
+ "endS": "",
+ "endP": ""
+}

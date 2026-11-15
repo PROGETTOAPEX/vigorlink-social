@@ -1,0 +1,6 @@
+{"id":"G2_domande","slides":[
+ {"type":"cover","bg":"light","lines":["6 domande","da fare al","[primo incontro.]"],"say":"Oltre a peso, altezza e obiettivo. Salvalo per il prossimo cliente."},
+ {"type":"list","bg":"light","t":["Capire","la persona"],"items":[["Cosa hai già provato, e perché hai smesso?","ti dice cosa non ripetere"],["Com'è una tua settimana normale?","orari veri, non quelli ideali"],["Cosa vuol dire per te «essere in forma»?","fattela descrivere"]]},
+ {"type":"list","bg":"light","t":["Capire","il percorso"],"items":[["Quante volte riesci ad allenarti davvero?","meglio due sedute sicure che quattro sperate"],["C'è qualcosa che ti fa male o ti preoccupa?","prima di scrivere una sola serie"],["Tra tre mesi, cosa ti farebbe dire «ne è valsa la pena»?","il suo obiettivo vero, con le sue parole"]]},
+ {"type":"list","bg":"light","t":["La vuoi","da stampare?"],"items":[["Commenta DOMANDE","te la mandiamo in privato"],["Una pagina A4","da compilare insieme al cliente"]]},
+ {"type":"end","t":["In arrivo","nel primo","trimestre <span style='color:#FF6A13'>2027</span>"],"s":"I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.","p":"Lista Fondatori: link in bio"}]}

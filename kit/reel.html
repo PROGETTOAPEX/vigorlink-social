@@ -1,0 +1,117 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><style>
+@font-face{font-family:Plate;src:url(fonts/Archivo-ExpandedBlack.ttf)}
+@font-face{font-family:DM;src:url(fonts/DMSans.ttf);font-weight:100 1000}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000;overflow:hidden}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;background:#000;font-family:DM,sans-serif}
+.L{position:absolute;inset:0;overflow:hidden}
+.big{position:absolute;left:52px;right:30px;font:400 111px/0.98 Plate;text-transform:uppercase;letter-spacing:-.02em}
+.big div{white-space:nowrap}
+.say{position:absolute;left:56px;right:120px;font:650 46px/1.22 DM}
+.cap{position:absolute;left:68px;right:40px;top:150px;z-index:2;font:400 84px/1 Plate;color:#fff;text-transform:uppercase;letter-spacing:-.02em}
+.cap div{white-space:nowrap}
+#phone{position:absolute;left:178px;top:372px;width:724px;height:1539px;border-radius:84px;background:#000;border:12px solid #1c1c1e;box-shadow:0 0 0 2px #3a3a3c;overflow:hidden}
+#scr{position:absolute;inset:0;overflow:hidden;border-radius:72px}
+#mask{position:absolute;left:0;right:0;top:0;height:345px;background:#000}
+#scr img{position:absolute;left:0;top:0;width:100%;height:100%}
+.end .t{position:absolute;left:68px;top:700px;right:40px;font:400 104px/1 Plate;color:#fff;text-transform:uppercase;letter-spacing:-.02em}
+.end .t b{color:#FF6A13;font-weight:400}
+.end .s{position:absolute;left:72px;top:1180px;right:140px;font:500 44px/1.28 DM;color:#cfcfcf}
+.end .p{position:absolute;left:68px;top:1380px;background:#FF6A13;color:#000;font:750 46px DM;padding:30px 46px;border-radius:999px}
+.end img{position:absolute;left:68px;top:480px;height:150px}
+.lap{position:absolute;left:62px;width:956px}
+.lap .lid{position:relative;background:#0c0c0d;border-radius:28px 28px 6px 6px;padding:17px 17px 20px;box-shadow:0 0 0 2px #3a3a3c,0 50px 130px rgba(255,106,19,.25)}
+.lap .lid img{display:block;width:100%;border-radius:10px}
+.lap .base{position:relative;height:28px;margin:0 -46px;background:linear-gradient(#c9c9cd,#8d8d92 55%,#55555a);border-radius:4px 4px 28px 28px;box-shadow:0 40px 60px rgba(0,0,0,.7)}
+.lap .base:before{content:"";position:absolute;left:50%;top:0;width:180px;height:10px;transform:translateX(-50%);background:#77777c;border-radius:0 0 10px 10px}
+.sub{position:absolute;left:68px;right:68px;top:1290px;z-index:2;font:600 56px/1.22 DM;color:#ededed}
+.sub b{color:#FF6A13;font-weight:700}
+</style></head><body><div id="stage"></div>
+<script>
+const W=1080,H=1920,O='#FF6A13',cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x))
+const ease=x=>{x=cl(x);return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2}, out=x=>1-Math.pow(1-cl(x),3)
+const iv=(t,a,b)=>ease((t-a)/(b-a))
+function plate(cx,cy,R,rot,dark){
+  const c1=dark?'#141414':'#EE5F0C',c2=dark?'#1d1d1d':'#FF7E33',tx=dark?'#242424':'#E2560A'
+  return `<svg width="${W}" height="${H}" style="position:absolute;left:0;top:0"><g transform="rotate(${rot} ${cx} ${cy})">
+   <circle cx="${cx}" cy="${cy}" r="${R}" fill="${c1}"/><circle cx="${cx}" cy="${cy}" r="${R*.93}" fill="none" stroke="${c2}" stroke-width="${R*.02}"/>
+   <circle cx="${cx}" cy="${cy}" r="${R*.58}" fill="none" stroke="${c2}" stroke-width="${R*.02}"/><circle cx="${cx}" cy="${cy}" r="${R*.3}" fill="${c2}"/>
+   <circle cx="${cx}" cy="${cy}" r="${R*.085}" fill="${dark?'#000':O}"/>
+   <path id="pp${dark?1:0}" d="M ${cx-R*.69} ${cy} a ${R*.69} ${R*.69} 0 1 1 ${R*1.38} 0 a ${R*.69} ${R*.69} 0 1 1 ${-R*1.38} 0" fill="none"/>
+   <text font-family="Plate" font-size="${R*.15}" fill="${tx}" letter-spacing="2"><textPath href="#pp${dark?1:0}" textLength="${2*Math.PI*R*.69*.985}">VIGORLINK  •  25 KG  •  CONNECT. TRAIN. PROGRESS.  •  25 KG  •  </textPath></text></g></svg>`
+}
+// text lines: each line rises and fades in, staggered; whole block fades out at the end
+const lines=(arr,t,t0,cls,style,stag=.24,outAt=1e9)=>{const o=1-iv(t,outAt,outAt+.35)
+  return `<div class="${cls}" style="${style};opacity:${o}">${arr.map((l,i)=>{const k=out((t-t0-i*stag)/.8);return `<div style="opacity:${k};transform:translateY(${(1-k)*46}px)">${l}</div>`}).join('')}</div>`}
+const fadeIn=(t,a,d=.8)=>{const k=out((t-a)/d);return `opacity:${k};transform:translateY(${(1-k)*30}px)`}
+
+// multi-scene demo: each scene is a phone screen or a desktop card; scenes slide up one after the other
+function scenesLayer(S,t,y2){
+  let body=''
+  S.scenes.forEach((sc,i)=>{const nx=S.scenes[i+1],u=i===0?out((t-S.w1-.3)/.7):iv(t,sc.at,sc.at+.8),v=nx?iv(t,nx.at,nx.at+.8):0
+    if(u<=0||v>=1)return
+    const ty=(1-u)*1700-v*1700
+    let marks=''
+    const W0=sc.type==='phone'?700:1000,H0=sc.type==='phone'?1515:sc.h
+    for(const m of (sc.marks||[])){const k=iv(t,m.at,m.at+.9),f=1-iv(t,m.until,m.until+.3);if(k>0&&f>0){
+      const x=m.x*W0,y=m.y*H0,w=m.w*W0,hh=m.h*H0,len=2*(w+hh),dim=.55*Math.min(iv(t,m.at,m.at+.6),f)
+      marks+=`<svg width="${W0}" height="${H0}" style="position:absolute;left:0;top:0"><path fill-rule="evenodd" fill="rgba(0,0,0,${dim})" d="M0 0H${W0}V${H0}H0Z M${x+26} ${y}H${x+w-26}A26 26 0 0 1 ${x+w} ${y+26}V${y+hh-26}A26 26 0 0 1 ${x+w-26} ${y+hh}H${x+26}A26 26 0 0 1 ${x} ${y+hh-26}V${y+26}A26 26 0 0 1 ${x+26} ${y}Z"/><rect opacity="${f}" x="${x}" y="${y}" width="${w}" height="${hh}" rx="26" fill="none" stroke="${O}" stroke-width="9" stroke-dasharray="${len}" stroke-dashoffset="${len*(1-k)}"/></svg>`}}
+    if(sc.type==='laptop'){const SRC=sc.img,k=Math.min(sc.n,Math.max(1,Math.floor((t-sc.at-(sc.delay||1))*(sc.fps||25))+1))
+      body+=`<div class="lap" style="top:${sc.top||560}px;transform:translateY(${ty}px)"><div class="lid">${sc.crop?`<div style="position:relative;width:100%;aspect-ratio:16/10;overflow:hidden;border-radius:10px;background:#f3f4f6"><img src="${SRC||(sc.dir+'/f'+String(k).padStart(4,'0')+'.jpg')}" style="position:absolute;max-width:none;border-radius:0;width:${sc.iw*922/sc.crop[2]}px;left:${-sc.crop[0]*922/sc.crop[2]}px;top:${-sc.crop[1]*922/sc.crop[2]}px"></div>`:`<img src="${SRC||(sc.dir+'/f'+String(k).padStart(4,'0')+'.jpg')}">`}</div><div class="base"></div></div>`}
+    else if(sc.type==='phone'){let pan=0;for(const p of (sc.pan||[]))pan+=p.y*iv(t,p.at,p.at+1.0)
+      body+=`<div id="phone" style="transform:translateY(${ty+pan}px)"><div id="scr"><img src="${sc.img}">${marks}</div></div>`}
+    else{const [cx,cy,cw]=sc.crop,z=1000/cw
+      body+=`<div style="position:absolute;left:40px;top:${sc.top||470}px;width:1000px;height:${sc.h}px;border-radius:36px;overflow:hidden;border:3px solid #2c2c2e;background:#f3f4f6;box-shadow:0 40px 120px rgba(255,106,19,.22);transform:translateY(${ty}px)"><img src="${sc.img}" style="position:absolute;max-width:none;width:${sc.iw*z}px;left:${-cx*z}px;top:${-cy*z}px">${marks}</div>`}
+  })
+  let cap=''
+  S.caps.forEach((c,i)=>{const nx=S.caps[i+1],ki=out((t-c.at)/.7),ko=nx?iv(t,nx.at-.45,nx.at):0;if(ki>0&&ko<1)
+    cap+=`<div class="cap" style="opacity:${ki*(1-ko)};transform:translateY(${(1-ki)*40-ko*40}px)">${c.l.map(x=>`<div>${x}</div>`).join('')}</div>`+(c.sub?`<div class="sub" style="opacity:${out((t-c.at-.35)/.7)*(1-ko)}">${c.sub}</div>`:'')})
+  return `<div class="L" style="background:#000;transform:translateY(${y2}px)">${plate(140,1790,520,t*4,true)}${body}<div id="mask"></div>${cap}</div>`
+}
+function show(S,t){
+  let h=''
+  // ---- layer 1: orange hook
+  // grid alignment (15/11): hook top 475 = same relative height as carousel covers in Instagram's 3:4 grid crop
+  const HT=475,LS=109,bgv=S.bg||'orange',BG={orange:O,black:'#000',light:'#F3EFE8'}[bgv],FG=bgv==='black'?'#fff':'#000'
+  const PL=(rot)=>bgv==='orange'?plate(980,1640,760,rot,false):bgv==='black'?plate(980,1640,760,rot,true):plate(980,1640,760,rot,false).replace(/#EE5F0C/g,'#E9E3D9').replace(/#FF7E33/g,'#DED6CA').replace(/#E2560A/g,'#D8CFC1').replace(/fill="#FF6A13"/g,'fill="#F3EFE8"')
+  const hl=a=>a.map(l=>bgv==='orange'?l.replace(/\[(.*?)\]/g,'$1'):l.replace(/\[(.*?)\]/g,'<span style="color:'+O+'">$1</span>'))
+  const BAR=bgv==='orange'?'':`<div style="position:absolute;left:52px;top:${HT-44}px;width:128px;height:15px;background:${O}"></div>`
+  if(t<S.w1+1.0){h+=`<div class="L" style="background:${BG}">${PL(t*4)}${BAR}${lines(hl(S.hook),t,.15,'big','top:'+HT+'px;color:'+FG)}
+    <div class="say" style="top:${HT+S.hook.length*LS+50}px;color:${bgv==='black'?'#cfcfcf':FG};${fadeIn(t,.15+S.hook.length*.24+.4)}">${S.hookSay}</div></div>`}
+  // ---- layer 2: black demo, slides up over the orange
+  const y2=(1-iv(t,S.w1,S.w1+1.0))*H
+  if(S.scenes&&t>=S.w1&&t<S.w2+1.0)h+=scenesLayer(S,t,y2)
+  if(!S.scenes&&t>=S.w1&&t<S.w2+1.0){
+    const pk=out((t-S.w1-.3)/.7)
+    // screen: A until S.swap, then A slides up and B comes from below (no overlap of the two)
+    const u=iv(t,S.swap,S.swap+.75)
+    let scr=`<img src="${S.shotA}" style="transform:translateY(${-u*100}%)"><img src="${S.shotB}" style="transform:translateY(${(1-u)*100}%)">`
+    // highlight: rounded rectangle drawn around what the caption talks about
+    for(const m of S.marks){const k=iv(t,m.at,m.at+.9),f=1-iv(t,m.until,m.until+.3);if(k>0&&f>0){
+      const SW=700,SH=1515,x=m.x*SW,y=m.y*SH,w=m.w*SW,hh=m.h*SH,len=2*(w+hh),dim=.58*Math.min(iv(t,m.at,m.at+.6),f)
+      scr+=`<svg width="700" height="1515" style="position:absolute;left:0;top:0"><path fill-rule="evenodd" fill="rgba(0,0,0,${dim})" d="M0 0H700V1515H0Z M${x+26} ${y}H${x+w-26}A26 26 0 0 1 ${x+w} ${y+26}V${y+hh-26}A26 26 0 0 1 ${x+w-26} ${y+hh}H${x+26}A26 26 0 0 1 ${x} ${y+hh-26}V${y+26}A26 26 0 0 1 ${x+26} ${y}Z"/><rect opacity="${f}" x="${x}" y="${y}" width="${w}" height="${hh}" rx="26" fill="none" stroke="${O}" stroke-width="9" stroke-dasharray="${len}" stroke-dashoffset="${len*(1-k)}"/></svg>`}}
+    for(const p of S.taps){const k=cl((t-p.at)/.8);if(k>0&&k<1)scr+=`<div style="position:absolute;left:${p.x*700-60}px;top:${p.y*1515-60}px;width:120px;height:120px;border-radius:50%;background:rgba(255,106,19,${.45*(1-k)});border:6px solid rgba(255,106,19,${1-k});transform:scale(${.4+out(k)*.9})"></div>`}
+    // pan: the phone slides up (no zoom) so what matters stays out of Instagram's bottom overlay
+    let pan=0;for(const p of (S.pan||[]))pan+= (p.y)*iv(t,p.at,p.at+1.0)
+    // captions: the old one leaves upward, the new one rises in
+    let cap=''
+    S.caps.forEach((c,i)=>{const nx=S.caps[i+1],ki=out((t-c.at)/.7),ko=nx?iv(t,nx.at-.45,nx.at):0;if(ki>0&&ko<1)
+      cap+=`<div class="cap" style="opacity:${ki*(1-ko)};transform:translateY(${(1-ki)*40-ko*40}px)">${c.l.map(x=>`<div>${x}</div>`).join('')}</div>`})
+    h+=`<div class="L" style="background:#000;transform:translateY(${y2}px)">${plate(140,1790,520,t*4,true)}
+      <div id="phone" style="opacity:${pk};transform:translateY(${(1-pk)*120+pan}px)"><div id="scr">${scr}</div></div><div id="mask"></div>${cap}</div>`}
+  // ---- layer 3: orange recap
+  const y3=(1-iv(t,S.w2,S.w2+1.0))*H
+  if(t>=S.w2&&t<S.w3+1.0)h+=`<div class="L" style="background:${BG};transform:translateY(${y3}px)">${PL(t*4)}${BAR}${lines(hl(S.recap),t,S.w2+.7,'big','top:'+HT+'px;color:'+FG)}
+    <div class="say" style="top:${HT+S.recap.length*LS+50}px;color:${bgv==='black'?'#cfcfcf':FG};${fadeIn(t,S.w2+.7+S.recap.length*.24+.4)}">${S.recapSay}</div></div>`
+  // ---- layer 4: black end
+  const y4=(1-iv(t,S.w3,S.w3+1.0))*H
+  if(t>=S.w3&&S.closing)h+=`<div class="L" style="background:${S.closing};transform:translateY(${y4}px)"></div>`
+  else if(t>=S.w3)h+=`<div class="L end" style="background:#000;transform:translateY(${y4}px)">${plate(980,1700,700,t*4,true)}
+    <img src="logo-mark.png" style="${fadeIn(t,S.w3+.5)}"><div class="t">${lines(S.endT,t,S.w3+.6,'','position:static',.2)}</div>
+    <div class="s" style="${fadeIn(t,S.w3+1.3)}">${S.endS}</div><div class="p" style="${fadeIn(t,S.w3+1.7)}">${S.endP}</div></div>`
+  document.getElementById('stage').innerHTML=h
+  return Promise.all([...document.images].map(i=>i.decode().catch(()=>{})))
+}
+window.show=show
+document.fonts.ready.then(()=>document.body.dataset.ready='1')
+</script></body></html>

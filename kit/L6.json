@@ -1,0 +1,102 @@
+{
+ "id": "L6_fisio",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Note su carta.",
+    "Consensi",
+    "[in PDF.]"
+   ],
+   "say": "E il dolore della settimana lo scopri alla seduta dopo.",
+   "bg": "black"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Valutazioni",
+    "sul corpo"
+   ],
+   "b": "Misure, test e zone del dolore, davanti e dietro. Da confrontare nel tempo.",
+   "img": "sc/showcase-physio-patient.png",
+   "iw": 2160,
+   "crop": [
+    990,
+    440,
+    1080,
+    910
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Al paziente",
+    "arriva tutto"
+   ],
+   "b": "Consenso da leggere e questionario da compilare, sul suo telefono.",
+   "phone": 1,
+   "img": "sc/showcase-patient-home.png",
+   "pw": 520,
+   "hl": [
+    [
+     0.04,
+     0.34,
+     0.92,
+     0.26
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "Una cartella",
+    "in ordine"
+   ],
+   "items": [
+    [
+     "Note di seduta che restano",
+     "una correzione è una nuova nota, la storia non si perde"
+    ],
+    [
+     "Consenso al trattamento in app",
+     "inviato, letto e salvato"
+    ],
+    [
+     "Questionari sul dolore",
+     "il paziente risponde dal telefono"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "Pensato",
+    "per chi cura"
+   ],
+   "items": [
+    [
+     "Parla di pazienti e sedute",
+     "non di atleti e allenamenti"
+    ],
+    [
+     "Nessuna IA che interpreta",
+     "i tuoi pazienti"
+    ],
+    [
+     "PDF clinici con il tuo marchio",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Per fisioterapisti, personal trainer e nutrizionisti. Entra in lista: ti avvisiamo al lancio.",
+   "p": "Lista d'attesa: link in bio"
+  }
+ ]
+}

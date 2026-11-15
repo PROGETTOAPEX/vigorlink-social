@@ -1,0 +1,82 @@
+{
+ "id": "M3_automazioni",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "black",
+   "lines": [
+    "Le disegni",
+    "una volta.",
+    "[Lavorano sempre.]"
+   ],
+   "say": "Le automazioni di VigorLink: messaggi che partono quando serve."
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Atleta",
+    "a rischio"
+   ],
+   "b": "Quando la fedeltà scende sotto 50, il cliente passa ad «A rischio» e parte il messaggio. Torna «Sereno» quando si allena.",
+   "img": "s1/social-workflow-design-1.png",
+   "iw": 2160,
+   "crop": [
+    470,
+    840,
+    1010,
+    230
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Ogni riga,",
+    "una regola"
+   ],
+   "b": "Quando succede una cosa, parte quello che hai deciso tu. Le accendi e le spegni con un tocco.",
+   "img": "n/showcase-pt-workflows.png",
+   "iw": 2160,
+   "crop": [
+    560,
+    220,
+    1440,
+    780
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "Sotto",
+    "controllo tuo"
+   ],
+   "items": [
+    [
+     "Si fermano se risponde",
+     "niente messaggi a vuoto"
+    ],
+    [
+     "Approvi tu, se vuoi",
+     "ogni messaggio prima che parta"
+    ],
+    [
+     "7 già pronte",
+     "spente finché non le accendi"
+    ],
+    [
+     "Comunicazioni",
+     "avvisi, eventi e promozioni in chat o per email"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

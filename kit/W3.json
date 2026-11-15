@@ -1,0 +1,62 @@
+{
+ "id": "W3_finance",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Fatture,",
+    "incassi,",
+    "[forfettario.]"
+   ],
+   "say": "Il commercialista ti chiede tutto a fine anno. E tu apri quattro cartelle diverse.",
+   "bg": "black"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Tutto",
+    "in una pagina"
+   ],
+   "b": "Incassato del mese, da incassare, risultato degli ultimi 12 mesi.",
+   "img": "sc/showcase-pt-finance.png",
+   "iw": 2160,
+   "crop": [
+    420,
+    510,
+    1280,
+    440
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "Conti pronti per il",
+    "commercialista"
+   ],
+   "items": [
+    [
+     "Fatture da XML, ZIP o PDF",
+     "quelle senza XML le legge l'IA: tu controlli importo e data"
+    ],
+    [
+     "Forfettario anno per anno",
+     "ATECO, coefficiente e aliquote per stime giuste"
+    ],
+    [
+     "Esporti in Excel",
+     "e scarichi tutte le fatture in un file ZIP"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

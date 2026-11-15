@@ -1,0 +1,93 @@
+{
+ "id": "W2_automazioni",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Il benvenuto.",
+    "Il check",
+    "[a 7 giorni.]"
+   ],
+   "say": "Te li ricordi sempre, per ogni cliente? Nemmeno noi.",
+   "bg": "light"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Lo fa",
+    "VigorLink"
+   ],
+   "b": "Ogni riga è una regola: quando succede una cosa, parte il messaggio. Si accende e si spegne con un tocco.",
+   "img": "sc/showcase-pt-workflows.png",
+   "iw": 2160,
+   "crop": [
+    680,
+    420,
+    1180,
+    440
+   ],
+   "hl": [
+    [
+     1720,
+     520,
+     140,
+     320
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "t": [
+    "E resti",
+    "tu al comando"
+   ],
+   "items": [
+    [
+     "Si ferma se l'atleta risponde",
+     "nessun messaggio fuori luogo"
+    ],
+    [
+     "Se vuoi, approvi tu i messaggi",
+     "prima che partano"
+    ],
+    [
+     "La metti in pausa quando vuoi",
+     "con un tocco"
+    ]
+   ],
+   "bg": "light"
+  },
+  {
+   "type": "list",
+   "t": [
+    "Già scritti",
+    "per te"
+   ],
+   "items": [
+    [
+     "7 messaggi automatici pronti",
+     "benvenuto, compleanno, 7 giorni fermo e altri"
+    ],
+    [
+     "Spenti finché non li accendi",
+     "decidi tu quali usare"
+    ],
+    [
+     "Risposte salvate in chat",
+     "le frasi che scrivi ogni giorno, a un tocco"
+    ]
+   ],
+   "bg": "light"
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

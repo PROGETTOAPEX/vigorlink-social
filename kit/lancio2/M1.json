@@ -1,0 +1,84 @@
+{
+ "id": "M1_cambio",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "«Chi me lo",
+    "ricopia",
+    "tutto?»"
+   ],
+   "say": "Nessuno. Cambiare software non è più un trasloco."
+  },
+  {
+   "type": "list",
+   "t": [
+    "Tutto quello",
+    "che porti con te"
+   ],
+   "items": [
+    [
+     "Gli atleti",
+     "da Excel o CSV: account e inviti in un colpo solo"
+    ],
+    [
+     "Le schede",
+     "da PDF, Word, Excel, foto o testo: le legge l'IA"
+    ],
+    [
+     "Le fatture",
+     "da XML o ZIP del tuo programma; i PDF li legge l'IA"
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Incolli il testo,",
+    "l'IA fa la scheda"
+   ],
+   "b": "Anche da PDF, Word, Excel o foto: prepara la bozza, tu controlli e salvi.",
+   "img": "n/showcase-pt-import.png",
+   "iw": 2160,
+   "crop": [
+    380,
+    330,
+    1560,
+    700
+   ]
+  },
+  {
+   "type": "list",
+   "bg": "light",
+   "t": [
+    "E il primo",
+    "giorno"
+   ],
+   "items": [
+    [
+     "Atleti di esempio",
+     "per provare tutto senza rischi"
+    ],
+    [
+     "Tour guidati",
+     "nelle pagine principali"
+    ],
+    [
+     "L'anteprima dell'app del cliente",
+     "con il tuo logo, prima di invitare qualcuno"
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

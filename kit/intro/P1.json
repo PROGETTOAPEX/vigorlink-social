@@ -1,0 +1,170 @@
+{
+ "id": "P1_cose",
+ "cover": {
+  "tag": "1 di 3",
+  "top": 260,
+  "lines": [
+   "Cos'è",
+   "VigorLink?"
+  ],
+  "say": "Il gestionale italiano per personal trainer, fisioterapisti e nutrizionisti. Tutto in un'unica app."
+ },
+ "slides": [
+  {
+   "t": [
+    "I tuoi clienti,",
+    "<span>in una pagina</span>"
+   ],
+   "b": "Tu dal computer. Loro dal telefono.",
+   "pc": "s1/social-athletes.png",
+   "ph": "sc/showcase-athlete-home.png",
+   "ext": [
+    "Clienti"
+   ],
+   "ex": [
+    [
+     "Tutti in un elenco",
+     "obiettivo, livello, scheda e ultima attività di ognuno"
+    ],
+    [
+     "Chi ha bisogno di te",
+     "da programmare, poco costanti, inattivi"
+    ],
+    [
+     "Li importi da Excel",
+     "account e inviti in un colpo solo"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Scrivi la scheda.",
+    "<span>Ce l'ha già in tasca.</span>"
+   ],
+   "b": "Dal tuo computer al telefono del cliente, in un clic.",
+   "pc": "n/showcase-pt-editor.png",
+   "ph": "sc/showcase-athlete-workout.png",
+   "ext": [
+    "Schede"
+   ],
+   "ex": [
+    [
+     "Scrivi come parli",
+     "«Squat 5x5 75% 3′» e la riga è compilata"
+    ],
+    [
+     "Oltre 1.000 esercizi",
+     "con i muscoli coinvolti e le istruzioni"
+    ],
+    [
+     "Modelli e versioni",
+     "riusi le schede e torni indietro quando vuoi"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Si allena,",
+    "<span>e tu lo sai</span>"
+   ],
+   "b": "Ogni serie registrata: vedi come va senza doverlo chiedere.",
+   "pc": "sc/showcase-pt-athlete.png",
+   "ph": "social-player-consigliato.png",
+   "ext": [
+    "Allenamento"
+   ],
+   "ex": [
+    [
+     "Carico consigliato",
+     "parte da quello che ha fatto l'ultima volta"
+    ],
+    [
+     "Recupero automatico",
+     "un tocco sulla serie e parte il timer"
+    ],
+    [
+     "Tu vedi tutto",
+     "serie, carichi e record di ogni allenamento"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Vi scrivete",
+    "<span>dentro l'app</span>"
+   ],
+   "b": "Tutte le conversazioni in un posto. Basta messaggi persi su WhatsApp.",
+   "pc": "sc/showcase-pt-messages.png",
+   "ph": "m/showcase-athlete-chat.png",
+   "ext": [
+    "Messaggi"
+   ],
+   "ex": [
+    [
+     "Una chat per ogni cliente",
+     "con vocali, file e risposte salvate"
+    ],
+    [
+     "Gruppi",
+     "per parlare a tutti insieme"
+    ],
+    [
+     "Video delle esecuzioni",
+     "il cliente li manda, tu li correggi"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "I progressi,",
+    "<span>nero su bianco</span>"
+   ],
+   "b": "Chi migliora e chi si è fermato: lo vedi tu, lo vede il cliente.",
+   "pc": "sc/showcase-pt-analytics.png",
+   "ph": "m/showcase-athlete-progress.png",
+   "ext": [
+    "Progressi"
+   ],
+   "ex": [
+    [
+     "Analytics",
+     "allenamenti completati, costanza, chi migliora"
+    ],
+    [
+     "Confronto allenamenti",
+     "serie per serie, con le frecce"
+    ],
+    [
+     "Dal lato cliente",
+     "carichi, massimali e misure nel tempo"
+    ]
+   ]
+  },
+  {
+   "t": [
+    "Il cliente paga in app.",
+    "<span>Tu incassi.</span>"
+   ],
+   "b": "E i conti del tuo studio sono sempre aggiornati.",
+   "pc": "n/showcase-pt-finance.png",
+   "ph": "nc/athlete-payments.png",
+   "ext": [
+    "Pagamenti"
+   ],
+   "ex": [
+    [
+     "Carta, bonifico, contanti",
+     "il cliente paga in app o segnala il pagamento"
+    ],
+    [
+     "Scadenze sotto controllo",
+     "avviso 7 giorni prima e quando è in ritardo"
+    ],
+    [
+     "Nessuna trattenuta di VigorLink",
+     "restano solo le commissioni del circuito"
+    ]
+   ]
+  }
+ ]
+}

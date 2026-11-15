@@ -1,0 +1,6 @@
+{"id":"M11_community","slides":[
+ {"type":"cover","bg":"orange","lines":["Cerchi clienti?","Al lancio","ti cercano loro."],"say":"La Community di VigorLink: chi cerca un professionista vicino trova te."},
+ {"type":"list","t":["Chi cerca,","trova te"],"items":[["Per professione e zona","personal trainer, fisioterapista o nutrizionista, anche sulla mappa"],["Solo qualifiche verificate","albo controllato per fisio e nutrizionisti, attestati per i PT"],["Mai a pagamento","conta chi ha recensioni migliori e risponde prima"]]},
+ {"type":"list","bg":"light","t":["E i tuoi clienti","si allenano insieme"],"items":[["Gruppi","con chi segui, in chat"],["Sfide","«12 allenamenti entro fine mese», con la classifica"],["Lo storico è loro","decidono loro chi lo vede, con un tocco"]]},
+ {"type":"end","t":["In arrivo","nel primo","trimestre <span style='color:#FF6A13'>2027</span>"],"s":"Per personal trainer, fisioterapisti e nutrizionisti. Entra in lista: ti avvisiamo al lancio.","p":"Lista d'attesa: link in bio"}
+]}

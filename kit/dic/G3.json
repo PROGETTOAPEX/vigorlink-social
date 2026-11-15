@@ -1,0 +1,71 @@
+{
+ "id": "G3_gia_fatto",
+ "dur": 24.6,
+ "w1": 4.8,
+ "w2": 16.0,
+ "w3": 20.4,
+ "hook": [
+  "Telefono",
+  "nello",
+  "spogliatoio?"
+ ],
+ "hookSay": "L'allenamento c'è stato. Ma nell'app non risulta.",
+ "shotA": "showcase-athlete-workout.png",
+ "shotB": "showcase-athlete-workout.png",
+ "swap": 99,
+ "caps": [
+  {
+   "at": 5.6,
+   "l": [
+    "Lo registra",
+    "dopo."
+   ]
+  },
+  {
+   "at": 10.4,
+   "l": [
+    "Lo storico",
+    "è completo."
+   ]
+  }
+ ],
+ "marks": [
+  {
+   "at": 6.6,
+   "until": 10.0,
+   "x": 0.47,
+   "y": 0.718,
+   "w": 0.23,
+   "h": 0.06
+  },
+  {
+   "at": 11.2,
+   "until": 15.6,
+   "x": 0.03,
+   "y": 0.236,
+   "w": 0.94,
+   "h": 0.15
+  }
+ ],
+ "taps": [
+  {
+   "at": 8.6,
+   "x": 0.585,
+   "y": 0.748
+  }
+ ],
+ "recap": [
+  "Nessun buco",
+  "nello",
+  "storico."
+ ],
+ "recapSay": "Tu vedi l'allenamento come se l'avesse segnato in palestra.",
+ "endT": [
+  "In arrivo",
+  "nel primo",
+  "trimestre",
+  "<b>2027</b>"
+ ],
+ "endS": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+ "endP": "Lista Fondatori: link in bio"
+}

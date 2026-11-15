@@ -1,0 +1,24 @@
+{
+ "id": "P1_ce",
+ "slides": [
+  {
+   "type": "cover",
+   "bg": "orange",
+   "lines": [
+    "Cos'è",
+    "VigorLink?"
+   ],
+   "say": "Il gestionale italiano per personal trainer, fisioterapisti e nutrizionisti. Tutto in un'unica app."
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "Per personal trainer, fisioterapisti e nutrizionisti. Entra in lista: ti avvisiamo al lancio.",
+   "p": "Lista d'attesa: link in bio"
+  }
+ ]
+}

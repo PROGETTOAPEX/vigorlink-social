@@ -1,0 +1,89 @@
+{
+ "id": "W1_domanda",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "«Chi è il più",
+    "[costante?»]"
+   ],
+   "say": "In VigorLink lo chiedi così, come lo chiederesti a un collega. E ti risponde con nomi e numeri.",
+   "bg": "black"
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Scrivi",
+    "la domanda"
+   ],
+   "b": "La risposta arriva con l'elenco degli atleti: chi non salta una settimana da 9 settimane.",
+   "img": "sc/showcase-pt-ask.png",
+   "iw": 2160,
+   "crop": [
+    600,
+    170,
+    960,
+    700
+   ],
+   "hl": [
+    [
+     640,
+     320,
+     880,
+     80
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "E agisci",
+    "subito"
+   ],
+   "b": "«Scrivi a tutti e 5» con un tocco. O tieni la risposta nella tua Home.",
+   "img": "sc/showcase-pt-ask.png",
+   "iw": 2160,
+   "crop": [
+    600,
+    340,
+    960,
+    560
+   ],
+   "hl": [
+    [
+     660,
+     405,
+     230,
+     66
+    ]
+   ]
+  },
+  {
+   "type": "shot",
+   "t": [
+    "Il tuo team",
+    "in numeri"
+   ],
+   "b": "Allenamenti completati, costanza, chi migliora e chi si è fermato. Senza fogli Excel.",
+   "img": "sc/showcase-pt-analytics.png",
+   "iw": 2160,
+   "crop": [
+    440,
+    350,
+    1250,
+    235
+   ],
+   "hl": []
+  },
+  {
+   "type": "end",
+   "t": [
+    "In arrivo",
+    "nel primo",
+    "trimestre <span style='color:#FF6A13'>2027</span>"
+   ],
+   "s": "I primi 25 personal trainer che si abbonano al lancio diventano Fondatori: fino a −30% per 6 mesi.",
+   "p": "Lista Fondatori: link in bio"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><style>
+@font-face{font-family:Plate;src:url(fonts/Archivo-ExpandedBlack.ttf)}
+@font-face{font-family:DM;src:url(fonts/DMSans.ttf);font-weight:100 1000}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000}
+#s{position:relative;width:1080px;height:1350px;overflow:hidden;font-family:DM,sans-serif;color:#fff}
+.big{position:absolute;left:68px;right:50px;font:400 112px/0.98 Plate;text-transform:uppercase;letter-spacing:-.02em}
+.say{position:absolute;left:72px;right:120px;font:650 44px/1.25 DM}
+.t{position:absolute;left:68px;right:50px;top:96px;font:400 72px/1 Plate;text-transform:uppercase;letter-spacing:-.02em}
+.b{position:absolute;left:72px;right:110px;font:500 37px/1.3 DM;color:#cfcfcf}
+.card{position:absolute;left:60px;width:960px;border-radius:30px;overflow:hidden;border:2px solid #2c2c2e;background:#fff}
+.card img{display:block;width:100%}
+.phone{position:absolute;border-radius:62px;background:#000;border:11px solid #1c1c1e;box-shadow:0 0 0 2px #3a3a3c;overflow:hidden}
+.phone img{display:block;width:100%}
+.hl{position:absolute;border:8px solid #FF6A13;border-radius:22px}
+.n{position:absolute;right:56px;top:46px;font:700 26px DM;letter-spacing:.06em;opacity:.55}
+.swipe{position:absolute;left:84px;bottom:70px;font:750 34px DM;background:#000;color:#fff;padding:20px 34px;border-radius:999px}
+.li{display:flex;gap:30px;align-items:flex-start;margin-top:46px}
+.li i{flex:none;width:74px;height:74px;border-radius:20px;background:#FF6A13;color:#000;font:400 40px/74px Plate;text-align:center;font-style:normal}
+.li div{font:650 42px/1.22 DM;padding-top:6px}
+.li div small{display:block;font:500 33px/1.3 DM;color:#a9a9ad;margin-top:8px}
+.logo{position:absolute;left:68px;top:300px;height:130px}
+.p{position:absolute;left:68px;background:#FF6A13;color:#000;font:750 44px DM;padding:28px 44px;border-radius:999px}
+.col{position:absolute;left:68px;right:50px;display:flex;flex-direction:column}
+.big2{font:400 104px/0.98 Plate;text-transform:uppercase;letter-spacing:-.02em}
+.say2{font:650 44px/1.25 DM;margin-top:44px;max-width:860px}
+.t2{font:400 70px/1 Plate;text-transform:uppercase;letter-spacing:-.02em}
+.b2{font:500 37px/1.3 DM;color:#cfcfcf;margin-top:26px;max-width:880px}
+.card2{flex:0 1 auto;min-height:0;margin:44px 0 60px -8px;width:960px;border-radius:30px;overflow:hidden;border:2px solid #2c2c2e;background:#fff}
+.phone2{flex:1 1 auto;min-height:0;margin:44px auto -30px;border-radius:62px 62px 0 0;background:#000;border:11px solid #1c1c1e;border-bottom:0;box-shadow:0 0 0 2px #3a3a3c;overflow:hidden}
+.phone2 img{display:block;width:100%}
+.lt~div .li div{color:#000}.lt~div .li div small{color:#5b5b5b}
+.bigl .li{margin-top:74px;gap:36px}.bigl .li i{width:88px;height:88px;border-radius:24px}.bigl .li div{font-size:52px;line-height:1.15}.bigl .li div small{font-size:39px;margin-top:12px;line-height:1.28}
+</style></head><body><div id="s"></div><script>
+const W=1080,H=1350,O='#FF6A13'
+function plate(cx,cy,R,rot,dark){const c1=dark?'#141414':'#EE5F0C',c2=dark?'#1d1d1d':'#FF7E33',tx=dark?'#242424':'#E2560A'
+return `<svg width="${W}" height="${H}" style="position:absolute;left:0;top:0"><g transform="rotate(${rot} ${cx} ${cy})"><circle cx="${cx}" cy="${cy}" r="${R}" fill="${c1}"/><circle cx="${cx}" cy="${cy}" r="${R*.93}" fill="none" stroke="${c2}" stroke-width="${R*.02}"/><circle cx="${cx}" cy="${cy}" r="${R*.58}" fill="none" stroke="${c2}" stroke-width="${R*.02}"/><circle cx="${cx}" cy="${cy}" r="${R*.3}" fill="${c2}"/><circle cx="${cx}" cy="${cy}" r="${R*.085}" fill="${dark?'#000':O}"/><path id="pp" d="M ${cx-R*.69} ${cy} a ${R*.69} ${R*.69} 0 1 1 ${R*1.38} 0 a ${R*.69} ${R*.69} 0 1 1 ${-R*1.38} 0" fill="none"/><text font-family="Plate" font-size="${R*.15}" fill="${tx}" letter-spacing="2"><textPath href="#pp" textLength="${2*Math.PI*R*.69*.985}">VIGORLINK  •  25 KG  •  CONNECT. TRAIN. PROGRESS.  •  25 KG  •  </textPath></text></g></svg>`}
+function plateL(cx,cy,R,rot){return plate(cx,cy,R,rot,false).replace(/#EE5F0C/g,'#E9E3D9').replace(/#FF7E33/g,'#DED6CA').replace(/#E2560A/g,'#D8CFC1').replace(/fill="#FF6A13"/g,'fill="#F3EFE8"')}
+const lines=a=>a.map(x=>`<div>${x}</div>`).join('')
+const S={
+ cover(s){const v=s.bg||'orange',bg={orange:O,black:'#000',light:'#F3EFE8'}[v],fg=v==='black'?'#fff':'#000',pl=v==='orange'?plate(960,1260,620,-18,false):v==='black'?plate(960,1260,620,-18,true):plateL(960,1260,620,-18)
+  return `<div style="position:absolute;inset:0;background:${bg}">${pl}</div>${v!=='orange'?`<div style="position:absolute;left:84px;top:${(s.top||220)-40}px;width:120px;height:14px;background:${O}"></div>`:''}<div class="col" style="top:${s.top||220}px;left:84px;right:40px;color:${fg}"><div class="big2">${lines(s.lines.map(l=>v==='orange'?l:l.replace(/\[(.*?)\]/g,'<span style="color:'+O+'">$1</span>')))}</div><div class="say2" style="color:${v==='black'?'#cfcfcf':fg}">${s.say||''}</div></div><div class="swipe" style="${v==='black'?'background:'+O+';color:#000':''}">Scorri →</div>${s.tag?`<div style="position:absolute;left:84px;top:96px;background:#000;color:#fff;font:750 30px DM;padding:12px 26px;border-radius:999px">${s.tag}</div>`:''}`},
+ _cover_old(s){return `<div style="position:absolute;inset:0;background:${O}">${plate(960,1260,620,-18,false)}</div><div class="col" style="top:${s.top||220}px;color:#000"><div class="big2">${lines(s.lines)}</div><div class="say2">${s.say||''}</div></div><div class="swipe">Scorri →</div>`},
+ shot(s){let h=`<div style="position:absolute;inset:0;background:#000">${plate(80,1330,430,25,true)}</div><div class="col" style="top:92px;bottom:0"><div class="t2">${lines(s.t)}</div><div class="b2">${s.b}</div>`
+  if(s.phone){const pw=s.pw||420,k=(pw-22)/390;let hl='';for(const m of (s.hl||[]))hl+=`<div class="hl" style="left:${m[0]*390*k-10}px;top:${(m[1]*844-(s.oy||0))*k-10}px;width:${m[2]*390*k+20}px;height:${m[3]*844*k+20}px"></div>`
+   h+=`<div class="phone2" style="width:${pw}px"><div style="position:relative;height:100%"><img src="${s.img}" style="position:absolute;left:0;width:100%;top:${-(s.oy||0)*k}px">${hl}</div></div>`}
+  else{const [cx,cy,cw,ch]=s.crop,sc=960/cw;let hl='';for(const m of (s.hl||[]))hl+=`<div class="hl" style="left:${(m[0]-cx)*sc-10}px;top:${(m[1]-cy)*sc-10}px;width:${m[2]*sc+20}px;height:${m[3]*sc+20}px"></div>`
+   h+=`<div class="card2" style="height:${ch*sc}px"><div style="position:relative;height:100%"><img src="${s.img}" style="position:absolute;width:${s.iw*sc}px;max-width:none;left:${-cx*sc}px;top:${-cy*sc}px">${hl}</div></div>`}
+  return h+'</div>'},
+ hero(s){const top=s.top||440
+  let h=`<div style="position:absolute;inset:0;background:#000">${plate(980,1330,430,10,true)}</div><div class="col" style="top:92px"><div class="t2">${lines(s.t)}</div><div class="b2">${s.b}</div></div>`
+  if(s.phone){const pw=s.pw||640,k=(pw-22)/390;let hl='';for(const m of (s.hl||[]))hl+=`<div class="hl" style="left:${m[0]*390*k-10}px;top:${(m[1]*844-(s.oy||0))*k-10}px;width:${m[2]*390*k+20}px;height:${m[3]*844*k+20}px"></div>`
+   h+=`<div style="position:absolute;left:${(1080-pw)/2}px;top:${top}px;width:${pw}px;height:${1350-top+80}px;border-radius:78px 78px 0 0;background:#000;border:11px solid #1c1c1e;border-bottom:0;box-shadow:0 0 0 2px #3a3a3c,0 30px 90px rgba(255,106,19,.18);overflow:hidden"><img src="${s.img}" style="position:absolute;left:0;width:100%;top:${-(s.oy||0)*k}px">${hl}</div>`}
+  else{const z=s.z||1,[cx,cy]=s.at;let hl='';for(const m of (s.hl||[]))hl+=`<div class="hl" style="left:${(m[0]-cx)*z-10}px;top:${(m[1]-cy)*z-10}px;width:${m[2]*z+20}px;height:${m[3]*z+20}px"></div>`
+   h+=`<div style="position:absolute;left:60px;top:${top}px;width:1100px;height:${s.ch||1350-top+40}px;border-radius:${s.ch?'34px 0 0 34px':'34px 0 0 0'};overflow:hidden;border:2px solid #2c2c2e;background:#f3f4f6;box-shadow:0 30px 90px rgba(255,106,19,.16)"><img src="${s.img}" style="position:absolute;width:${s.iw*z}px;max-width:none;left:${-cx*z}px;top:${-cy*z}px">${hl}</div>`}
+  return h},
+ list(s){const L=s.bg==='light';return `<div style="position:absolute;inset:0;background:${L?'#F3EFE8':'#000'}">${L?plateL(980,1330,430,10):plate(980,1330,430,10,true)}</div><div class="t${L?' lt':''}" style="top:150px;color:${L?'#000':'#fff'}">${lines(s.t)}</div><div class="${s.check?'bigl':''}" style="position:absolute;left:68px;right:80px;top:${150+s.t.length*72+40}px">${s.items.map((it,i)=>`<div class="li"><i>${s.check?'<span style="font:800 50px/88px DM">✓</span>':i+1}</i><div>${it[0]}${it[1]?`<small>${it[1]}</small>`:''}</div></div>`).join('')}</div>`},
+ stat(s){return `<div style="position:absolute;inset:0;background:#000">${plate(980,1330,430,10,true)}</div><div class="t" style="top:150px">${lines(s.t)}</div><div style="position:absolute;left:60px;top:380px;font:400 330px/1 Plate;color:${O};letter-spacing:-.04em">${s.v}</div><div class="say" style="top:760px;color:#fff">${s.l}</div><div class="b" style="top:900px">${s.note||''}</div>`},
+ end(s){return `<div style="position:absolute;inset:0;background:#000">${plate(980,1200,600,-30,true)}</div><img class="logo" src="logo-mark.png"><div class="t" style="top:500px;font-size:92px">${lines(s.t)}</div><div class="b" style="top:${500+s.t.length*92+40}px;font-size:40px">${s.s}</div><div class="p" style="top:${500+s.t.length*92+40+ (s.sl||3)*54+40}px">${s.p}</div>`}
+}
+window.show=(s,i,n)=>{document.getElementById('s').innerHTML=S[s.type](s)+`<div class="n" style="color:${(s.type==='cover'&&s.bg!=='black')||s.bg==='light'?'#000':'#fff'}">${i}/${n}</div>`;return Promise.all([...document.images].map(m=>m.decode().catch(()=>{})))}
+document.fonts.ready.then(()=>document.body.dataset.ready='1')
+</script></body></html>
